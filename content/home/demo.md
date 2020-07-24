@@ -22,7 +22,7 @@ subtitle = "Red Colaborativa en ecologia Microbiana de América Latina"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-   color = "Purple"
+   color = "Orange"
   
   # Background gradient.
   #gradient_start = "DarkBlue"
