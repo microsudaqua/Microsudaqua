@@ -4,19 +4,19 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Submenus"
+  name = "Home"
   weight = 10
   identifier = "Submenus"
 
 [[main]]
-  name = "Home"
+  name = "Presentation"
   url = "#home"
   weight = 10
   parent = "Submenus"
   
 [[main]]
-  name = "Presentation"
-  url = "#presentation"
+  name = "Aims"
+  url = "#aims"
   weight = 10
   parent = "Submenus"
 
