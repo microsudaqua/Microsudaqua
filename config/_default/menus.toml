@@ -8,12 +8,12 @@
   #url = "#home"
   weight = 10
   
-[[child]]
+[[]]
   name = "Hello"
   url = "#home"
   weight = 10
   
-[[child]]
+[[]]
   name = "Presentation"
   url = "#presentation"
   weight = 20
