@@ -11,12 +11,12 @@
 [[main]]
   name = "Hello"
   url = "#home"
-  weight = 10
+  weight = 15
   
 [[main]]
   name = "Presentation"
   url = "#presentation"
-  weight = 10
+  weight = 20
 
 [[main]]
   name = "Posts"
