@@ -5,12 +5,15 @@
 
 [[main]]
   name = "Home"
-  url = "#home"
-  name = "Presentation"
-  url = "#presentation"
+  #url = "#home"
   weight = 10
   
- [[child]]
+[[child]]
+  name = "Hello"
+  url = "#home"
+  weight = 10
+  
+[[child]]
   name = "Presentation"
   url = "#presentation"
   weight = 20
