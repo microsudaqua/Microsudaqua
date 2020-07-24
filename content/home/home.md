@@ -54,7 +54,7 @@ La Red µSudAqua nuclea a investigadores y estudiantes que trabajan en ecología
 
 Tenemos como premisa explotar los insumos que poseemos para explorar al máximo problemas que exceden a lo que podemos desarrollar individualmente. Aspiramos a fomentar la inclusión en todas sus dimensiones, y generar una convivencia donde prime la camaradería y el espíritu de colaboración, desarrollar un sentimiento de pertenencia, compromiso y orgullo por el trabajo colectivo.
 
-¿Cuáles son los principales objetivos de la Red?
+**¿Cuáles son los principales objetivos de la Red?**
 
 - Fortalecer y expandir la interacción entre investigadores que trabajan en ecología acuática microbiana en Latinoamérica.
 
