@@ -8,8 +8,8 @@
   #url = "#home"
   weight = 10
   
-[child]
-  name = "Presentation"
+[[main]]
+  name = "Home/Presentation"
   url = "#presentation"
   weight = 10
 
