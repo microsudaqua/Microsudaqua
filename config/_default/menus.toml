@@ -5,7 +5,10 @@
 
 [[main]]
   name = "Inicio"
-  #url = "#home"
+    name = "Hello"
+    url = "#home"
+    name = "Presentation"
+    url = "#presentation"
   weight = 10
   
 [[main]]
@@ -16,7 +19,7 @@
 [[main]]
   name = "Presentation"
   url = "#presentation"
-  weight = 30
+  weight = 20
 
 [[main]]
   name = "Posts"
