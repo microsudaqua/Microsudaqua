@@ -8,10 +8,10 @@
   url = "#home"
   weight = 10
   
-[[main]]
+[[child]]
   name = "Presentation"
   url = "#presentation"
-  weight = 20
+  weight = 10
 
 [[main]]
   name = "Posts"
