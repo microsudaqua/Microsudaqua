@@ -6,6 +6,8 @@
 [[main]]
   name = "Home"
   url = "#home"
+  name = "Presentation"
+  url = "#presentation"
   weight = 10
   
  [[child]]
