@@ -36,7 +36,7 @@ subtitle = "Red Colaborativa en ecologia Microbiana de América Latina"
   # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   
   # Text color (true=light or false=dark).
-  text_color_light = false
+  text_color_light = dark
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
@@ -129,4 +129,4 @@ Con una frecuencia bianual se realizan talleres presenciales con sede rotativa. 
 
 **¿Cómo integrarse a la Red?**
 
-La red es un espacio abierto a todos los investigadores interesados que compartan sus premisas de trabajo. Para solicitar el ingreso a la misma, por favor contactarse a la siguiente casilla de correo: **[microsudaqua17@gmail.com]**(microsudaqua17@gmail.com)
+La red es un espacio abierto a todos los investigadores interesados que compartan sus premisas de trabajo. Para solicitar el ingreso a la misma, por favor contactarse a la siguiente casilla de correo: **[microsudaqua2017@gmail.com]**
