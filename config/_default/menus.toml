@@ -9,7 +9,7 @@
   weight = 10
   
 [[main]]
-  name = "Home/Presentation"
+  name = Home/"Presentation"
   url = "#presentation"
   weight = 10
 
