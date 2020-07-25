@@ -48,7 +48,7 @@ local_business_type = ""
 org_name = "MicroSudAqua"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "Red colaborativa en ecología acuática microbiana de América Latina"
 
 ############################
 ## Site Features
