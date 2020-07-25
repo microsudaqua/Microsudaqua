@@ -125,4 +125,4 @@ Con una frecuencia bianual se realizan talleres presenciales con sede rotativa. 
 
 **¿Cómo integrarse a la Red?**
 
-La red es un espacio abierto a todos los investigadores interesados que compartan sus premisas de trabajo. Para solicitar el ingreso a la misma, por favor contactarse a la **[casilla de correo]**(microsudaqua2017@gmail.com).
+La red es un espacio abierto a todos los investigadores interesados que compartan sus premisas de trabajo. Para solicitar el ingreso a la misma, por favor contactarse a la casilla de correo **[microsudaqua2017@gmail.com]**.
