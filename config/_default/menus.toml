@@ -6,19 +6,25 @@
 [[main]]
   name = "Home"
   weight = 10
-  identifier = "Submenus"
+  identifier = "home"
 
 [[main]]
   name = "Presentation"
   url = "#home"
   weight = 10
-  parent = "Submenus"
+  parent = "home"
   
 [[main]]
   name = "Aims"
   url = "#aims"
   weight = 10
-  parent = "Submenus"
+  parent = "home"
+
+[[main]]
+  name = "Events"
+  #url = " "
+  weight = 10
+  parent = "home"
 
 [[main]]
   name = "Study Goups"
@@ -65,29 +71,27 @@
   weight = 40
   parent = "people"
   
-  
-[[main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 50
-
-[[main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 60
-
 [[main]]
   name = "Publications"
   url = "#featured"
-  weight = 70
+  weight = 50
   
-  [[main]]
-  name = "People"
-  url = "#people"
-  weight = 80
+[[main]]
+  name = "Database"
+  #url = " "
+  weight = 60
 
-
-
+##############################################################
+#[[main]]
+#  name = "Posts"
+#  url = "#posts"
+#  weight = 50
+#
+#[[main]]
+#  name = "Projects"
+#  url = "#projects"
+#  weight = 60
+  
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[main]]
