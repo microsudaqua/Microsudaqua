@@ -21,29 +21,72 @@
   parent = "Submenus"
 
 [[main]]
+  name = "Study Goups"
+  weight = 20
+  identifier = "groups"
+
+[[main]]
+  name = "Observatory"
+  #url = "#home"
+  weight = 20
+  parent = "groups"
+  
+[[main]]
+  name = "Stoichiometry"
+  #url = "#home"
+  weight = 20
+  parent = "groups"
+  
+[[main]]
+  name = "Traits"
+  #url = "#home"
+  weight = 20
+  parent = "groups"
+ 
+[[main]]
+  name = "Contact"
+  url = "#contact"
+  weight = 30
+  
+[[main]]
+  name = "People"
+  weight = 40
+  identifier = "people"
+  
+[[main]]
+  name = "Nodes"
+  url = "#people"
+  weight = 40
+  parent = "people"
+  
+[[main]]
+  name = "Participants"
+  #url = "#home"
+  weight = 40
+  parent = "people"
+  
+  
+[[main]]
   name = "Posts"
   url = "#posts"
-  weight = 30
+  weight = 50
 
 [[main]]
   name = "Projects"
   url = "#projects"
-  weight = 40
+  weight = 60
 
 [[main]]
   name = "Publications"
   url = "#featured"
-  weight = 50
+  weight = 70
   
   [[main]]
   name = "People"
   url = "#people"
-  weight = 60
+  weight = 80
 
-[[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 70
+
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
