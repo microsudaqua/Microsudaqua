@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-{{< figure library="true" src="sud.png" title=" " lightbox="false" >}}
+{{< figure library="true" src="sud.png" title=" " lightbox="true" >}}
 
 title = "MicroSudAqua"
 subtitle = "Red Colaborativa en ecologia Microbiana de América Latina"
