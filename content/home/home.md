@@ -50,6 +50,8 @@ subtitle = "Red Colaborativa en ecologia Microbiana de América Latina"
  css_class = ""
 +++
 #
+{{< figure library="true" src="sud.png" title=" " lightbox="false" >}}
+
 La Red µSudAqua nuclea a investigadores y estudiantes que trabajan en ecología acuática microbiana de América Latina. Con la conformación de esta Red buscamos aunar esfuerzos, potenciar el trabajo colectivo y consolidar un espacio colaborativo para el impulso del área en la región.
 
 Tenemos como premisa explotar los insumos que poseemos para explorar al máximo problemas que exceden a lo que podemos desarrollar individualmente. Aspiramos a fomentar la inclusión en todas sus dimensiones, y generar una convivencia donde prime la camaradería y el espíritu de colaboración, desarrollar un sentimiento de pertenencia, compromiso y orgullo por el trabajo colectivo.
