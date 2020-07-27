@@ -21,12 +21,6 @@
   parent = "home"
 
 [[main]]
-  name = "Events"
-  #url = " "
-  weight = 10
-  parent = "home"
-
-[[main]]
   name = "Study Goups"
   weight = 20
   identifier = "groups"
@@ -72,14 +66,20 @@
   parent = "people"
   
 [[main]]
+  name = "Events"
+  #url = " "
+  weight = 50
+  parent = "home"
+  
+[[main]]
   name = "Publications"
   url = "#featured"
-  weight = 50
+  weight = 60
   
 [[main]]
   name = "Database"
   #url = " "
-  weight = 60
+  weight = 70
 
 ##############################################################
 #[[main]]
