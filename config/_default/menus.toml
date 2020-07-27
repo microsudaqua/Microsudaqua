@@ -5,6 +5,7 @@
 
 [[main]]
   name = "Home"
+  url = "#init"
   weight = 10
   identifier = "home"
 
