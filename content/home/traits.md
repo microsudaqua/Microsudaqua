@@ -8,8 +8,8 @@ active = true  # Activate this widget? true/false
 weight = 50 # Order that this section will appear.
 
 
-# title = "Rasgos funcionales en comunidades microbianas de agua dulce "
-# subtitle = "(basados en rasgos suaves y fáciles de medir)"
+title = "Rasgos funcionales en comunidades microbianas de agua dulce "
+subtitle = "(basados en rasgos suaves y fáciles de medir)"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
