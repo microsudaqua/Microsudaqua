@@ -3,18 +3,30 @@
 #   Refer to https://sourcethemes.com/academic/docs/language/
 
 # Configure the English version of the site.
-[en]
-  languageCode = "en-us"
+[es]
+  languageCode = "es"
   # contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
 
+
 # Uncomment the lines below to configure your website in a second language.
-#[zh]
-#  languageCode = "zh-Hans"
-#  contentDir = "content/zh"
-#  title = "Chinese website title..."
-#  [zh.params]
-#    description = "Site description in Chinese..."
-#  [[zh.menu.main]]
-#    name = "Wo"
-#    url = "#about"
-#    weight = 1
+[en]
+  languageCode = "en-us"
+  contentDir = "content/en"
+  title = "MicroSudAqua"
+  [en.params]
+    description = "Latin American Collaborative Network in Aquatic Microbial Ecology"
+  [[en.menu.main]]
+    name = "english"
+    url = "#about"
+    weight = 1
+
+[pt]
+  languageCode = "pt-br"
+  contentDir = "content/pt"
+  title = "MicroSudAqua"
+  [en.params]
+    description = "Rede Colaborativa em Ecologia Microbiana Aquática da América Latina"
+  [[en.menu.main]]
+    name = "portugues"
+    url = "#about"
+    weight = 2
