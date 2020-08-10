@@ -22,7 +22,7 @@ title = "Red de Observatorios Microbianos Acuáticos Latinoamericanos"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-   color = "White"
+   color = "Grey10"
   
   # Background gradient.
   #gradient_start = "DarkBlue"
