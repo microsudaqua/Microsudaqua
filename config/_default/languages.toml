@@ -5,8 +5,97 @@
 # Configure the English version of the site.
 [es]
   languageCode = "es-ar"
-#  contentDir = "content/es"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+  contentDir = "content/es"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
 
+# Uncomment the lines below to configure your website in a third language.
+[pt]
+  languageCode = "pt-br"
+  contentDir = "content/pt"
+  title = "MicroSudAqua"
+  [pt.params]
+    description = "Rede Colaborativa em Ecologia Microbiana Aquática da América Latina"
+  [[pt.menu.main]]
+    name = "Início"
+    url = "#home"
+    weight = 10
+    
+[[pt.menu.main]]
+  name = "Home"
+  weight = 10
+  identifier = "home"
+
+[[pt.menu.main]]
+  name = "Presentación"
+  url = "#home"
+  weight = 10
+  parent = "home"
+  
+[[pt.menu.main]]
+  name = "Objetivos"
+  url = "#aims"
+  weight = 10
+  parent = "home"
+
+[[pt.menu.main]]
+  name = "Grupos de estudio"
+  weight = 20
+  identifier = "groups"
+
+[[pt.menu.main]]
+  name = "Observatorio"
+  url = "#observatory"
+  weight = 20
+  parent = "groups"
+  
+[[pt.menu.main]]
+  name = "Estequimetría"
+  url = "#stoichiometry"
+  weight = 20
+  parent = "groups"
+  
+[[pt.menu.main]]
+  name = "Rasgos"
+  url = "#traits"
+  weight = 20
+  parent = "groups"
+ 
+[[pt.menu.main]]
+  name = "Contacto"
+  url = "#contact"
+  weight = 30
+  
+[[pt.menu.main]]
+  name = "Personas"
+  weight = 40
+  identifier = "people"
+  
+[[pt.menu.main]]
+  name = "Nodos"
+  url = "#nodes"
+  weight = 40
+  parent = "people"
+  
+[[pt.menu.main]]
+  name = "Participantes"
+  url = "#participant"
+  weight = 40
+  parent = "people"
+  
+[[pt.menu.main]]
+  name = "Eventos"
+  #url = " "
+  weight = 50
+  parent = "home"
+  
+[[pt.menu.main]]
+  name = "Publicaciones"
+  url = "#publications"
+  weight = 60
+  
+[[pt.menu.main]]
+  name = "Database"
+  url = "https://www.ncbi.nlm.nih.gov/"
+  weight = 70
 
 # Uncomment the lines below to configure your website in a second language.
 #[en]
@@ -22,14 +111,4 @@
 
 
 
-# Uncomment the lines below to configure your website in a third language.
-#[pt]
-#  languageCode = "pt-br"
-#  contentDir = "content/pt"
-#  title = "MicroSudAqua"
-#  [pt.params]
-#    description = "Rede Colaborativa em Ecologia Microbiana Aquática da América Latina"
-#  [[pt.menu.main]]
-#    name = "Início"
-#    url = "#home"
-#    weight = 10
+
