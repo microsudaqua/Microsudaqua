@@ -16,8 +16,8 @@
   [en.params]
     description = "Latin American Collaborative Network in Aquatic Microbial Ecology"
   [[en.menu.main]]
-    name = "english"
-    url = "#about"
+    name = "English"
+    url = "#home"
     weight = 1
 
 # Uncomment the lines below to configure your website in a third language.
@@ -28,6 +28,6 @@
 #  [pt.params]
 #    description = "Rede Colaborativa em Ecologia Microbiana Aquática da América Latina"
 #  [[pt.menu.main]]
-#    name = "portugues"
-#    url = "#about"
+#    name = "Portugues"
+#    url = "#home"
 #    weight = 2
