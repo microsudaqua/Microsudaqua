@@ -127,7 +127,7 @@
   parent = "home"
 
 [[en.menu.main]]
-  name = "Studt Groups"
+  name = "Study Groups"
   weight = 20
   identifier = "groups"
 
