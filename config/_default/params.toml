@@ -107,7 +107,7 @@ email = "microsudaqua2017@gmail.com"
 #office_hours = ["Monday 10:00 to 13:00", "Wednesday 09:00 to 10:00"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com"
+#appointment_url = "https://calendly.com"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
@@ -117,7 +117,7 @@ contact_links = [
 #  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
 #  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
 #  {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
-{icon = "mail", icon_pack = "fab", name = "Cecilia Alonso", link = "calonso@cure.edu.uy"},
+{icon = "e-mail", icon_pack = "fab", name = "Cecilia Alonso", link = "calonso@cure.edu.uy"},
 {icon = "mail", icon_pack = "fab", name = "Fernando Unrein", link = "funrein@intech.gov.ar"},
 {icon = "mail", icon_pack = "fab", name = "Hugo Sarmento", link = "hugo.sarmento@gmail.com"},
   ]
