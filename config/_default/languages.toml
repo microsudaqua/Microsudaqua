@@ -14,13 +14,13 @@
   title = "MicroSudAqua"
   [pt.params]
     description = "Rede Colaborativa em Ecologia Microbiana Aquática da América Latina"
-  [[pt.menu.main]]
-    name = "Início"
-    url = "#home"
-    weight = 10
+ # [[pt.menu.main]]
+ #   name = "Início"
+ #   url = "#home"
+ #   weight = 10
     
 [[pt.menu.main]]
-  name = "Home"
+  name = "Início"
   weight = 10
   identifier = "home"
 
