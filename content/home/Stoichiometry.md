@@ -26,7 +26,7 @@ title = "Composición química de bacterioplankton en sistemas acuáticos sudame
   
   # Background gradient.
   #gradient_start = "DarkBlue"
-  #gradient_end = "Cyan"
+  #gradient_end = "gray40"
   
   # Background image.
   # image = "image.jpg"  # Name of image in `static/img/`.
