@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
-title = "Contacto"
-subtitle = "Envía un mesage al webmail o contacta uno de los coordinadores de la Red"
+title = "Contact"
+subtitle = "Send a mesage to the webmail or one of the Network coordinators"
 
 # Automatically link email and phone?
 autolink = true
