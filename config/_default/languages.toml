@@ -5,7 +5,7 @@
 # Configure the English version of the site.
 [es]
   languageCode = "es-ar"
-#   contentDir = "content/es"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+  contentDir = "content/es"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
 
 
 # Uncomment the lines below to configure your website in a second language.
@@ -31,5 +31,5 @@
     description = "Rede Colaborativa em Ecologia Microbiana Aquática da América Latina"
   [[pt.menu.main]]
     name = "Início"
-    #url = "#home"
+    url = "#home"
     weight = 10
