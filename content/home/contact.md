@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 130  # Order that this section will appear.
 
 title = "Contacto"
-subtitle = ""
+subtitle = "Envía un mesage al webmail o contacta uno de los coordinadores de la Red"
 
 # Automatically link email and phone?
 autolink = true
