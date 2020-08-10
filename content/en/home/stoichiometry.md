@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 40 # Order that this section will appear.
 
 
-title = "Composición química de bacterioplankton en sistemas acuáticos sudamericanos"
+title = "Chemical composition of bacterioplankton in south american aquatic systems"
 #subtitle = " "
 
 [design]
@@ -50,11 +50,12 @@ title = "Composición química de bacterioplankton en sistemas acuáticos sudame
  css_class = ""
 +++
 #
-
-*Coordinadores*:
+*Coordinators*:
 
 Maria Carolina Garcia Chaves (Universidad de Antioquia – Colombia),
-André Megali Amado (Universidade Federal de Juiz de Fora – Brasil),
-Michaela Melo (Universidade Federal de São Carlos – Brasil)
+André Megali Amado (Universidade Federal de Juiz de Fora – Brazil),
+Michaela Melo (Universidade Federal de São Carlos – Brazil)
 
-Las bacterias desempeñan un papel importante en la absorción de nutrientes y la remineralización y funcionan como fuente de nutrientes para otros niveles tróficos. La fuerza de la homeostasis estequiométrica para C, N y P difiere entre los principales grupos filogenéticos, además pueden cambiar su estequiometría en función de las condiciones ambientales (por ejemplo, limitación de nutrientes). Estas particularidades pueden afectar en gran medida las estimaciones del balance de carbono local a global. Sin embargo, la biomasa bacteriana en los sistemas acuáticos se estima comúnmente utilizando factores de conversión fijos de densidad bacteriana o biomasa en carbono. Como consecuencia, como estos factores no tienen en cuenta la gran heterogeneidad ambiental, los balances de masa pueden estar muy sesgados. Teniendo en cuenta que la composición elemental de la biomasa bacteriana es poco investigado en las comunidades naturales, durante la primera reunión μSudaqua, hemos propuesto el grupo “Composición química de la biomasa bacteriana en los sistemas acuáticos América del Sur” a la dirección: (I) ¿Cómo funciona la composición de carbono en bacterias la biomasa varía en los ecosistemas acuáticos en América del Sur? (II) ¿De qué manera los parámetros ambientales (por ejemplo, estado trófico, gradientes latitudinales) afectarían la composición de C, N y P y la estequiometría en la biomasa bacteriana de las comunidades bacterianas acuáticas de América del Sur? Como resultado, elaboramos un protocolo estandarizado y detallado para ser empleado en varios ecosistemas acuáticos en todo el continente en los próximos meses y una tabla para ser completada por las investigaciones colaboradoras. Cada colaborador en este proyecto contribuirá con muestras de al menos 4 sistemas o 1 sistema en el enfoque estacional con al menos 4 muestreos en el tiempo. Para la próxima reunión, planeamos escribir un documento metodológico que apunte a revelar ecuaciones basadas en parámetros ambientales para lograr factores de conversión más adecuados al carbono en biomasa para cada ecosistema.
+
+
+Bacteria play an important role in nutrients uptake and remineralization and works as nutrient source for other trophic levels. The strength of stoichiometric homeostasis for C, N, and P differs among major phylogenetic groups, furthermore they can change your stoichiometry in function of the environmental conditions (for example, nutrient limitation). These particularities can greatly affect local to global carbon balance estimates. However, bacterial biomass in aquatic systems are commonly estimated using fixed conversion factors from bacterial density or biomass into carbon. As a consequence, as these factors do not take into account the great environmental heterogeneity, the mass balances may be greatly biased. Considering that the elemental composition of bacterial biomass is poorly investigated in natural assemblages, during the first µSudaqua meeting, we proposed the group “Chemical composition of bacterial biomass in South America aquatic systems” to address: (I) How does the carbon composition in bacterial biomass varies in the aquatic ecosystems in South America? (II) How the environmental parameters (e.g. trophic state, latitudinal gradients) would affect the C, N and P composition and stoichiometry in bacterial biomass from South America aquatic bacterial communities? As a result, we elaborated a standardized and detailed protocol to be employed in several aquatic ecosystems across the continent in the next months and a table to be completed by the collaborating researches. Each collaborator in this project will contribute with samples form at least 4 systems or 1 system in the seasonal approach with at least 4 samplings over time. For the next meeting, we plan to write one methodological paper that aims to reveal equations based on environmental parameters to achieve more adequate conversion factors to carbon into biomass to each ecosystem.
