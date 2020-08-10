@@ -9,70 +9,70 @@
   identifier = "home"
 
 [[main]]
-  name = "Presentation"
+  name = "Presentación"
   url = "#home"
   weight = 10
   parent = "home"
   
 [[main]]
-  name = "Aims"
+  name = "Objetivos"
   url = "#aims"
   weight = 10
   parent = "home"
 
 [[main]]
-  name = "Study Goups"
+  name = "Grupos de estudio"
   weight = 20
   identifier = "groups"
 
 [[main]]
-  name = "Observatory"
+  name = "Observatorio"
   #url = "#home"
   weight = 20
   parent = "groups"
   
 [[main]]
-  name = "Stoichiometry"
+  name = "Estequimetría"
   #url = "#home"
   weight = 20
   parent = "groups"
   
 [[main]]
-  name = "Traits"
+  name = "Rasgos"
   #url = "#home"
   weight = 20
   parent = "groups"
  
 [[main]]
-  name = "Contact"
+  name = "Contacto"
   url = "#contact"
   weight = 30
   
 [[main]]
-  name = "People"
+  name = "Personas"
   weight = 40
   identifier = "people"
   
 [[main]]
-  name = "Nodes"
+  name = "Nodos"
   url = "#people"
   weight = 40
   parent = "people"
   
 [[main]]
-  name = "Participants"
+  name = "Participantes"
   #url = "#home"
   weight = 40
   parent = "people"
   
 [[main]]
-  name = "Events"
+  name = "Eventos"
   #url = " "
   weight = 50
   parent = "home"
   
 [[main]]
-  name = "Publications"
+  name = "Publicaciones"
   url = "#featured"
   weight = 60
   
