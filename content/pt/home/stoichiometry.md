@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 40 # Order that this section will appear.
 
 
-title = "Composición química de bacterioplankton en sistemas acuáticos sudamericanos"
+title = "Composição química de bacterioplankton em sistemas aquáticos sulamericanos"
 #subtitle = " "
 
 [design]
