@@ -21,7 +21,7 @@ title = "Coordinadores"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-   color = "white"
+   color = "Grey10"
   
   # Background gradient.
   #gradient_start = "DarkBlue"
