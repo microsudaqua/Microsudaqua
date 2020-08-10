@@ -27,13 +27,13 @@
 
 [[main]]
   name = "Observatorio"
-  #url = "#home"
+  url = "#observatory"
   weight = 20
   parent = "groups"
   
 [[main]]
   name = "Estequimetría"
-  #url = "#home"
+  url = "#stoichiometry"
   weight = 20
   parent = "groups"
   
