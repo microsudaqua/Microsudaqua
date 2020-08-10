@@ -55,13 +55,13 @@
   
 [[main]]
   name = "Nodos"
-  url = "#people"
+  url = "#nodes"
   weight = 40
   parent = "people"
   
 [[main]]
   name = "Participantes"
-  #url = "#home"
+  url = "#participant"
   weight = 40
   parent = "people"
   
