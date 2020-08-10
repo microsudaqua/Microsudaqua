@@ -18,6 +18,19 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Environmental heterogeneity determines the ecological processes that govern bacterial metacommunity assembly in a floodplain river system"
+  company = "Isme journal"
+  company_url = "https://www.nature.com/articles/s41396-020-0723-2"
+  location = " "
+  date_start = "2020-07-27"
+  date_end = " "
+  description = """  
+  
+Keywords:
+  
+  """"""
+
+[[experience]]
   title = "Local and Geographic Factors Shape the Occupancy-Frequency Distribution of Freshwater Bacteria"
   company = "Microbial Ecology"
   company_url = "https://link.springer.com/article/10.1007/s00248-020-01560-3"
@@ -32,18 +45,4 @@ date_format = "Jan 2006"
   * Diversity patterns 
   * Microbial metacommunity
   """
-
-[[experience]]
-  title = "Environmental heterogeneity determines the ecological processes that govern bacterial metacommunity assembly in a floodplain river system"
-  company = "Isme journal"
-  company_url = "https://www.nature.com/articles/s41396-020-0723-2"
-  location = " "
-  date_start = "2020-07-27"
-  date_end = " "
-  description = """  
-  
-Keywords:
-  
-  """"""
-
 +++
