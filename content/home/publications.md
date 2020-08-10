@@ -67,7 +67,7 @@ subtitle = ""
  css_class = ""
 +++
 
-# *2020*
+**2020**
 
 * Huber, P., Metz, S., Unrein, F., Mayora, G., Sarmento, H., Devercelli, M.. 2020. [Environmental heterogeneity determines the ecological processes that govern bacterial metacommunity assembly in a floodplain river system.](https://www.nature.com/articles/s41396-020-0723-2) ISME Journal. (DOI: 10.1038/s41396-020-0723-2)
 
