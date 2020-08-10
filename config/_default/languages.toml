@@ -98,17 +98,94 @@
   weight = 70
 
 # Uncomment the lines below to configure your website in a second language.
-#[en]
-#  languageCode = "en-us"
-#  contentDir = "content/en"
-#  title = "MicroSudAqua"
-#  [en.params]
-#    description = "Latin American Collaborative Network in Aquatic Microbial Ecology"
+[en]
+  languageCode = "en-us"
+  contentDir = "content/en"
+  title = "MicroSudAqua"
+  [en.params]
+    description = "Latin American Collaborative Network in Aquatic Microbial Ecology"
 #[[en.menu.main]]
 #    name = "Início"
 #    url = "#home"
 #    weight = 10
 
+[[en.menu.main]]
+  name = "Home"
+  weight = 10
+  identifier = "home"
+
+[[en.menu.main]]
+  name = "Presentation"
+  url = "#home"
+  weight = 10
+  parent = "home"
+  
+[[en.menu.main]]
+  name = "Aims"
+  url = "#aims"
+  weight = 10
+  parent = "home"
+
+[[en.menu.main]]
+  name = "Studt Groups"
+  weight = 20
+  identifier = "groups"
+
+[[en.menu.main]]
+  name = "Observatory"
+  url = "#observatory"
+  weight = 20
+  parent = "groups"
+  
+[[en.menu.main]]
+  name = "Stoichiometry"
+  url = "#stoichiometry"
+  weight = 20
+  parent = "groups"
+  
+[[en.menu.main]]
+  name = "Traits"
+  url = "#traits"
+  weight = 20
+  parent = "groups"
+ 
+[[en.menu.main]]
+  name = "Contact"
+  url = "#contact"
+  weight = 30
+  
+[[en.menu.main]]
+  name = "People"
+  weight = 40
+  identifier = "people"
+  
+[[en.menu.main]]
+  name = "Nodes"
+  url = "#nodes"
+  weight = 40
+  parent = "people"
+  
+[[en.menu.main]]
+  name = "Participant"
+  url = "#participant"
+  weight = 40
+  parent = "people"
+  
+[[en.menu.main]]
+  name = "Eventos"
+  #url = " "
+  weight = 50
+  parent = "home"
+  
+[[en.menu.main]]
+  name = "Publications"
+  url = "#publications"
+  weight = 60
+  
+[[en.menu.main]]
+  name = "Database"
+  url = "https://www.ncbi.nlm.nih.gov/"
+  weight = 70
 
 
 
