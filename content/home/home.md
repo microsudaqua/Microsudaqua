@@ -22,7 +22,7 @@ weight = 10 # Order that this section will appear.
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-   color = "White"
+   color = "Grey10"
   
   # Background gradient.
   #gradient_start = "DarkBlue"
