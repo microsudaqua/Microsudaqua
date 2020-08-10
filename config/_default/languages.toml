@@ -25,7 +25,7 @@
   identifier = "home"
 
 [[pt.menu.main]]
-  name = "Presentación"
+  name = "Apresentação"
   url = "#home"
   weight = 10
   parent = "home"
@@ -37,7 +37,7 @@
   parent = "home"
 
 [[pt.menu.main]]
-  name = "Grupos de estudio"
+  name = "Grupos de Estudo"
   weight = 20
   identifier = "groups"
 
@@ -48,29 +48,29 @@
   parent = "groups"
   
 [[pt.menu.main]]
-  name = "Estequimetría"
+  name = "Estequimetria"
   url = "#stoichiometry"
   weight = 20
   parent = "groups"
   
 [[pt.menu.main]]
-  name = "Rasgos"
+  name = "Traços"
   url = "#traits"
   weight = 20
   parent = "groups"
  
 [[pt.menu.main]]
-  name = "Contacto"
+  name = "Contato"
   url = "#contact"
   weight = 30
   
 [[pt.menu.main]]
-  name = "Personas"
+  name = "Pessoal"
   weight = 40
   identifier = "people"
   
 [[pt.menu.main]]
-  name = "Nodos"
+  name = "Nós"
   url = "#nodes"
   weight = 40
   parent = "people"
@@ -88,7 +88,7 @@
   parent = "home"
   
 [[pt.menu.main]]
-  name = "Publicaciones"
+  name = "Publicações"
   url = "#publications"
   weight = 60
   
