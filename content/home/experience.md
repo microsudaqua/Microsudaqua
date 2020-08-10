@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "https://www.nature.com/articles/s41396-020-0723-2"
   location = " "
   date_start = "2020-07-27"
-  date_end = " "
+  #date_end = " "
   description = """  
   
 Keywords:
@@ -36,7 +36,7 @@ Keywords:
   company_url = "https://link.springer.com/article/10.1007/s00248-020-01560-3"
   location = " "
   date_start = "2020-07-23"
-  date_end = ""
+  #date_end = ""
   description = """
   Keywords:
   
