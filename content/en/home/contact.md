@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
 title = "Contact"
-subtitle = "Send a mesage to the webmail or one of the Network coordinators"
+subtitle = "Send a mesage to our webmail or one of the Network coordinators"
 
 # Automatically link email and phone?
 autolink = true
