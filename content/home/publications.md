@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "Recent Publications"
+title = "Publicaciones"
 subtitle = ""
 
 [content]
@@ -70,3 +70,9 @@ subtitle = ""
 {{% alert note %}}
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}}
+
+
+* Huber, P., Metz, S., Unrein, F., Mayora, G., Sarmento, H., Devercelli, M.. 2020. Environmental heterogeneity determines the ecological processes that govern bacterial metacommunity assembly in a floodplain river system. ISME Journal. (DOI: 10.1038/s41396-020-0723-2)
+
+* Mateus-Barros, E., de Melo, M.L., Bagatini, I.L., Caliman, A., Sarmento, H. 2020. Local and Geographic Factors Shape the Occupancy-Frequency Distribution of Freshwater Bacteria. Micrboial Ecology. (DOI:10.1007/s00248-020-01560-3)
+
