@@ -22,7 +22,7 @@ title = "Composición química de bacterioplankton en sistemas acuáticos sudame
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-   color = "gray40"
+   color = "gray60"
   
   # Background gradient.
   #gradient_start = "DarkBlue"
