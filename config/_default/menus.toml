@@ -39,7 +39,7 @@
   
 [[main]]
   name = "Rasgos"
-  #url = "#home"
+  url = "#traits"
   weight = 20
   parent = "groups"
  
