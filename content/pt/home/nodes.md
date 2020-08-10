@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
 
-title = "Coordinadores"
+title = "Coordenadores"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -50,7 +50,7 @@ title = "Coordinadores"
 +++
 #
 
-**Uruguay**
+**Uruguai**
 Cecilia Alonso
 
 **Argentina zona 1**
