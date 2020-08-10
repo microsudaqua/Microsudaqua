@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 30 # Order that this section will appear.
 
 
-title = "Red de Observatorios Microbianos Aquáticos Latinoamericanos"
+title = "Rede de Observatórios Microbianos Aquáticos Latinoamericanos"
 # subtitle = "(baseados em traços suaves y fáceis de medir)"
 
 [design]
