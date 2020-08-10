@@ -5,28 +5,28 @@
 # Configure the English version of the site.
 [es]
   languageCode = "es-ar"
-   contentDir = "content/es"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+ #  contentDir = "content/es"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
 
 
 # Uncomment the lines below to configure your website in a second language.
-[en]
-  languageCode = "en-us"
-  contentDir = "content/en"
-  title = "MicroSudAqua"
-  [en.params]
-    description = "Latin American Collaborative Network in Aquatic Microbial Ecology"
-  [[en.menu.main]]
-    name = "english"
-    url = "#about"
-    weight = 1
+#[en]
+#  languageCode = "en-us"
+#  contentDir = "content/en"
+#  title = "MicroSudAqua"
+#  [en.params]
+#    description = "Latin American Collaborative Network in Aquatic Microbial Ecology"
+#  [[en.menu.main]]
+#    name = "english"
+#    url = "#about"
+#    weight = 1
 
-[pt]
-  languageCode = "pt-br"
-  contentDir = "content/pt"
-  title = "MicroSudAqua"
-  [pt.params]
-    description = "Rede Colaborativa em Ecologia Microbiana Aquática da América Latina"
-  [[pt.menu.main]]
-    name = "portugues"
-    url = "#about"
-    weight = 2
+#[pt]
+#  languageCode = "pt-br"
+#  contentDir = "content/pt"
+#  title = "MicroSudAqua"
+#  [pt.params]
+#    description = "Rede Colaborativa em Ecologia Microbiana Aquática da América Latina"
+#  [[pt.menu.main]]
+#    name = "portugues"
+#    url = "#about"
+#    weight = 2
