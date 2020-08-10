@@ -24,9 +24,9 @@
   languageCode = "pt-br"
   contentDir = "content/pt"
   title = "MicroSudAqua"
-  [en.params]
+  [pt.params]
     description = "Rede Colaborativa em Ecologia Microbiana Aquática da América Latina"
-  [[en.menu.main]]
+  [[pt.menu.main]]
     name = "portugues"
     url = "#about"
     weight = 2
