@@ -117,9 +117,9 @@ contact_links = [
 #  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
 #  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
 #  {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
-{icon = "e-mail", icon_pack = "fab", name = "Cecilia Alonso", link = "calonso@cure.edu.uy"},
-{icon = "mail", icon_pack = "fab", name = "Fernando Unrein", link = "funrein@intech.gov.ar"},
-{icon = "mail", icon_pack = "fab", name = "Hugo Sarmento", link = "hugo.sarmento@gmail.com"},
+{icon = "gmail", icon_pack = "fab", name = "Cecilia Alonso - calonso@cure.edu.uy", link = "calonso@cure.edu.uy"},
+{icon = "gmail", icon_pack = "fab", name = "Fernando Unrein - funrein@intech.gov.ar", link = "funrein@intech.gov.ar"},
+{icon = "gmail", icon_pack = "fab", name = "Hugo Sarmento - hugo.sarmento@gmail.com", link = "hugo.sarmento@gmail.com"},
   ]
 
 ############################
