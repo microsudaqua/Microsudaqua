@@ -9,17 +9,18 @@
 
 
 # Uncomment the lines below to configure your website in a second language.
-[en]
-  languageCode = "en-us"
-  contentDir = "content/en"
-  title = "MicroSudAqua"
-  [en.params]
-    description = "Latin American Collaborative Network in Aquatic Microbial Ecology"
-  [[en.menu.main]]
-    name = "Home"
-    weight = 10
-    url = "#home"
-    
+#[en]
+#  languageCode = "en-us"
+#  contentDir = "content/en"
+#  title = "MicroSudAqua"
+#  [en.params]
+#    description = "Latin American Collaborative Network in Aquatic Microbial Ecology"
+#[[en.menu.main]]
+#    name = "Início"
+#    url = "#home"
+#    weight = 10
+
+
 
 # Uncomment the lines below to configure your website in a third language.
 #[pt]
