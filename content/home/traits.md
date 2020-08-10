@@ -22,7 +22,7 @@ subtitle = "(basados en rasgos suaves y fáciles de medir)"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-   color = "White"
+   color = "Grey10"
   
   # Background gradient.
   #gradient_start = "DarkBlue"
