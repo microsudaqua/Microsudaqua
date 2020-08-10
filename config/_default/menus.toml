@@ -21,7 +21,7 @@
   parent = "home"
 
 [[main]]
-  name = "Grupos de estudio"
+  name = "Grupos de Estudio"
   weight = 20
   identifier = "groups"
 
