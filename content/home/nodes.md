@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
 
-title = "Nuestras Metas"
+title = "Coordinadores"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -49,8 +49,6 @@ title = "Nuestras Metas"
  css_class = ""
 +++
 #
-
-**/Coordinadores/**
 
 **Uruguay**
 Cecilia Alonso
