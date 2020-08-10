@@ -9,7 +9,7 @@ weight = 10 # Order that this section will appear.
 
 
 # title = "MicroSudAqua"
-# subtitle = "Red Colaborativa en ecologia Microbiana de América Latina"
+# subtitle = "Rede Colaborativa em ecologia Microbiana da América Latina"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
