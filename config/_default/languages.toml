@@ -24,12 +24,12 @@
 
 # Uncomment the lines below to configure your website in a third language.
 #[pt]
-  languageCode = "pt-br"
+#  languageCode = "pt-br"
 #  contentDir = "content/pt"
-  title = "MicroSudAqua"
-  [pt.params]
-    description = "Rede Colaborativa em Ecologia Microbiana Aquática da América Latina"
-  [[pt.menu.main]]
-    name = "Início"
-    url = "#home"
-    weight = 10
+#  title = "MicroSudAqua"
+#  [pt.params]
+#    description = "Rede Colaborativa em Ecologia Microbiana Aquática da América Latina"
+#  [[pt.menu.main]]
+#    name = "Início"
+#    url = "#home"
+#    weight = 10
