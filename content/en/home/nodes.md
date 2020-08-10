@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
 
-title = "Coordinadores"
+title = "Coordinators"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -53,23 +53,23 @@ title = "Coordinadores"
 **Uruguay**
 Cecilia Alonso
 
-**Argentina zona 1**
+**Argentina zone 1**
 Fernando Unrein
 
-**Argentina zona 2**
+**Argentina zone 2**
 Irina Izaguirre
 
 **Chile**
 Verónica Molina
 
-**Brasil**
+**Brazil**
 Hugo Sarmento
 
 **Colombia**
 Juan Pablo Niño
 
-**México**
+**Mexico**
 Luciana Raggi
 
-**Canadá**
+**Canada**
 Paul del Giorgio
