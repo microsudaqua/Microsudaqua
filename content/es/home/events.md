@@ -62,7 +62,7 @@ title = "Eventos"
 
 *Descripción*
 
-Libro de Resúmenes 
+[Libro de Resúmenes](static/files/libro_2017.pdf) 
 
 
 **II Taller de la Red colaborativa en Ecología Microbiana Acuática en América Latina (µSudAqua)**
@@ -75,7 +75,7 @@ Libro de Resúmenes
 
 *Descripción*
 
-Libro de Resúmenes
+[Libro de Resúmenes](static/files/libro_2019.pdf)
 
 
 
