@@ -50,7 +50,7 @@ title = "Eventos"
  css_class = ""
 +++
 
-##**I Taller de la Red colaborativa en Ecología Microbiana Acuática en América Latina (µSudAqua)**
+## **I Taller de la Red colaborativa en Ecología Microbiana Acuática en América Latina (µSudAqua)**
 
 *Fecha*: 04 al 08 de diciembre de 2017
 
@@ -65,7 +65,7 @@ title = "Eventos"
 
 
 
-##**II Taller de la Red colaborativa en Ecología Microbiana Acuática en América Latina (µSudAqua)**
+## **II Taller de la Red colaborativa en Ecología Microbiana Acuática en América Latina (µSudAqua)**
 
 *Fecha*: 11 al 14 de noviembre de 2019
 
@@ -75,11 +75,11 @@ title = "Eventos"
 
 *Descripción*
 
-[Libro de Resúmenes](https://github.com/microsudaqua/Microsudaqua/tree/master/static/files/libro_2019.pdf)
+[Libro de Resúmenes](link: files/libro_2019.pdf)
 
 
 
-##**III Taller de la Red colaborativa en Ecología Microbiana Acuática en América Latina (µSudAqua)**
+## **III Taller de la Red colaborativa en Ecología Microbiana Acuática en América Latina (µSudAqua)**
 
 *Fecha prevista*: marzo de 2022
 
