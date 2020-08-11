@@ -83,14 +83,32 @@
   
 [[pt.menu.main]]
   name = "Eventos"
-  #url = " "
+  #url = "#events"
   weight = 50
-  parent = "home"
-  
+    
+[[pt.menu.main]]
+  name = "Produção"
+  url = " "
+  weight = 60
+  identifier = "pub"
+
 [[pt.menu.main]]
   name = "Publicações"
   url = "#publications"
   weight = 60
+  parent = "pub"
+
+[[pt.menu.main]]
+  name = "Protocolos"
+  url = " "
+  weight = 60
+  parent = "pub"
+
+[[pt.menu.main]]
+  name = "Scripts"
+  url = "https://github.com/microsudaqua"
+  weight = 60
+  parent = "pub"
   
 [[pt.menu.main]]
   name = "Database"
@@ -166,21 +184,39 @@
   parent = "people"
   
 [[en.menu.main]]
-  name = "Participant"
+  name = "Participants"
   url = "#participant"
   weight = 40
   parent = "people"
   
 [[en.menu.main]]
-  name = "Eventos"
-  #url = " "
+  name = "Events"
+  #url = "#events "
   weight = 50
-  parent = "home"
-  
+    
+[[en.menu.main]]
+  name = "Production"
+  url = " "
+  weight = 60
+  identifier = "pub"
+
 [[en.menu.main]]
   name = "Publications"
   url = "#publications"
   weight = 60
+  parent = "pub"
+
+[[en.menu.main]]
+  name = "Protocols"
+  url = " "
+  weight = 60
+  parent = "pub"
+
+[[en.menu.main]]
+  name = "Scripts"
+  url = "https://github.com/microsudaqua"
+  weight = 60
+  parent = "pub"
   
 [[en.menu.main]]
   name = "Database"

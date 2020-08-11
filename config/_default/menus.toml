@@ -67,14 +67,32 @@
   
 [[main]]
   name = "Eventos"
-  #url = " "
+  #url = "#events"
   weight = 50
-  parent = "home"
-  
+    
+[[main]]
+  name = "Producción"
+  url = " "
+  weight = 60
+  identifier = "pub"
+
 [[main]]
   name = "Publicaciones"
   url = "#publications"
   weight = 60
+  parent = "pub"
+
+[[main]]
+  name = "Protocolos"
+  url = " "
+  weight = 60
+  parent = "pub"
+
+[[main]]
+  name = "Scripts"
+  url = "https://github.com/microsudaqua"
+  weight = 60
+  parent = "pub"
   
 [[main]]
   name = "Database"
