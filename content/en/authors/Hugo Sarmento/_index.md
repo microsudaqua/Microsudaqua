@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Brasil
+role: Brazil
 
 # Organizations/Affiliations
 organizations:
