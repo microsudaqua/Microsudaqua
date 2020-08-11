@@ -61,7 +61,7 @@ title = "Eventos"
 
 *Descripción*
 
-[Libro de Resúmenes](https://github.com/microsudaqua/Microsudaqua/tree/master/static/files/libro_2017.pdf)
+{{% staticref "files/libro_2017.pdf" "newtab" %}}Libro de Resúmenes{{% /staticref %}}
 
 
 
@@ -75,7 +75,7 @@ title = "Eventos"
 
 *Descripción*
 
-[Libro de Resúmenes](https://github.com/microsudaqua/Microsudaqua/tree/master/static/files/libro_2019.pdf)
+{{% staticref "files/libro_2019.pdf" "newtab" %}}Libro de Resúmenes{{% /staticref %}}
 
 
 
