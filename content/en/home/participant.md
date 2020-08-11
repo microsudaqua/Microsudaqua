@@ -95,7 +95,7 @@ Sebastian Metz (Laboratorio de Ecología y Fotobiología Acuática, Instituto de
 Sofía Baliña (Laboratorio de Limnologia, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires)
 
 
-**Brasil**
+**Brazil**
 
 Hugo Sarmento (Laboratório de Biodiversidade e Processos Microbianos, LMPB; Universidade Federal de São Carlos - UFSCar) 
 
@@ -142,12 +142,12 @@ Maria Carolina Garcia Chaves (Grupo de Investigación en Gestión y Modelación 
 Eddy H. Gómez-Ramírez (Oceanografía Química, Ecología Microbiana, CIMAR-Universidad de Costa Rica)
 
 
-**México**
+**Mexico**
 
 Luciana Raggi Hoyos (Laboratorio Nacional de Nutrigenómica y Microbiómica Digestiva Animal, Instituto de Investigaciones Agropecuarias y Forestales, Universidad Michoacana San Nicolás de Hidalgo)
 
 
-**Suecia**
+**Sweden**
 
 Daniela Figueroa (Ecología marina, Universidad de Umeå)
 
