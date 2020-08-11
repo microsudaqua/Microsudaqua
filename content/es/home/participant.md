@@ -48,462 +48,85 @@ title = "Participantes"
  # CSS class.
  css_class = ""
 +++
-#
 
-Cecilia Alonso
+**Argentina**
 
-Ecología microbiana de sistemas acuáticos. Centro Universitario Regional del Este. Universidad de la República
+Fernando Unrein (Laboratorio de Ecología y Fotobiología Acuática.Instituto de Investigaciones Biotecnológicas-Instituto Tecnológico de Chascomús (IIB-INTECH) Sede Chascomús, UNSAM-CONICET)
+Ana Torremorell (Programa Ecología de Protistas y Hongos. Instituto de Ecología y Desarrollo Sustentable)
+Andrea Malits (Laboratorio de Ecología Acuática Microbiana, Centro Austral de Investigaciones Científicas, CONICET, Ushuaia)
+Belén González (Ecología microbiana en sistemas acuáticos de transición. Centro Universitario Regional del Este. Universidad de la República)
+Carmen Alejandra Sabio y García (Laboratorio de Limnología. Departamento de Ecología Genética y Evolución, FCEyN, UBA. IEGEBA-UBA)
+Inés O'Farrell (Ecología del fitoplancton. Laboratorio de Limnología, Departamento de Ecología, Genética y Evolución, Facultad de Ciencias Exactas y Naturales, IEGEBA, Universidad de Buenos Aires, CONICET)
+Irina Izaguirre (Departamento de Ecología, Genética y Evolución, IEGEBA (CONICET-UBA) Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires)
+Lilen Yema (Laboratorio Limnología, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires)
+Magdalena Licursi (Laboratorio de Plancton. Instituto Nacional de Limnologia - CONICET, UNL)
+María Belén Sathicq (Laboratorio de Plancton y Biofilms. Instituto de Limnología Dr. Raúl A. Ringuelet - ILPLA)
+Maria Eugenia del R. Llames (Laboratorio de Fotobiologia y Ecologia Acuatica. IIB-INTECH. UNSAM-CONICET)
+Maria Laura Sanchez (Laboratorio de Limnología, EGE/IEGEBA , UBA/CONICET)
+Maria Luz Padulles (Programa de Ecologia de Protistas y Hongos, Instituto de Ecologia y Desarrollo Sustentable, Universidad Nacional de Lujan-CONICET)
+María Romina Schiaffino (Centro de Investigaciones y Transferencia del Noroeste de la Provincia de Buenos Aires (CONICET-UNNOBA). Grupo de trabajo original: Limnología, FCEN-UBA. En la actualidad: "grupo en formación")
+María Victoria Quiroga (LEFA, IIB-INTECH - UNSAM-CONICET)
+Marina Gerea (GESAP - Grupo de Ecología de Sistemas Acuáticos a escala de Paisaje- INIBIOMA - CONICET-UNComahue)
+Martin Graziano (Ecología urbana en sistemas acuáticos pampeanos. Laboratorio de Limnología, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires. IEGEBA-CONICET)
+Melina Devercelli (Metacomunidades microbianas en sistemas fluviales aluviales. INALI, CONICET-UNL)
+Paula Huber (Instituto Nacional de Limnología - INALI)
+Paulina Fermani (Laboratorio de Ecología y Fotobiología Acuática. IIB_INTECH, Chascomús, Buenos Aires)
+Sebastian Metz (Laboratorio de Ecología y Fotobiología Acuática, Instituto de Investigaciones Biotecnológicas-Instituto Tecnológico de Chascomús - IIB-INTECH, UNSAM-CONICET)
+Sofía Baliña (Laboratorio de Limnologia, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires)
 
-Rocha, Uruguay
 
-Sitios de Estudio
+**Brasil**
 
+Hugo Sarmento (Laboratório de Biodiversidade e Processos Microbianos, LMPB; Universidade Federal de São Carlos - UFSCar) 
+André Megali Amado (Ecologia Aquática; Universidade Federal de Juiz de Fora)
+Bruno Mattos Silva Wanderley(Universidade Federal do Rio Grande do Norte)
+Erick Mateus Barros (Laboratório de Biodiversidade e Processos Microbianos, LMPB; Universidade Federal de São Carlos - UFSCar)
+Inessa Lacativa Bagatini (Universidade Federal de São Carlos)
+Pedro Ciarlini Junger Soares (Laboratório de Biodiversidade e Processos Microbianos. Departamento de Hidrobiologia. Universidade Federal de São Carlos)
 
 
-Fernando Unrein
+**Canada**
 
-Laboratorio de Ecología y Fotobiología Acuática. Instituto de Investigaciones Biotecnológicas-Instituto Tecnológico de Chascomús (IIB-INTECH) sede Chascomús, UNSAM-CONICET
+Paul A. del Giorgio (Université du Québec à Montréal)
+Michaela Ladeira de Melo (Université du Québec à Montréal)
 
-Argentina
 
-Sitios de Estudio
+**Chile**
 
+Daniela Andrea Meneses Escudero (Laboratorio de Complejidad Microbiana, Instituto Antofagasta,Universidad de Antofagasta)
+Johanna Alejandra Cortes Guzman (Laboratorio de Ecologia Molecular y Microbiologia Aplicada. Universidad Católica del Norte)
+Martha Brigitte Hengst López (Universidad Católica del Norte)
+Paris Leonardo Lavin Sepulveda (Hacia un μ-Observatorio Ambiental Sudamericano, Instituto Antofagasta, Universidad de Antofagasta)
+Veronica Molina Trincado (Observatorio de Ecología Microbiana, Facultad de Cienciass Naturales y Exactas, Universidad de Playa Ancha)
 
 
-Hugo Sarmento
+**Colombia**
 
-Laboratório de Biodiversidade e Processos Microbianos (LMPB), Universidade Federal de São Carlos (UFSCar)
+Juan Pablo Niño García (Grupo de Investigación en Gestión y Modelación Ambiental. Universidad de Antioquia)
+Maria Carolina Garcia Chaves (Grupo de Investigación en Gestión y Modelación Ambiental - GAIA)
 
-Brasil
 
-Sitios de Estudio
+**Costa Rica**
 
+Eddy H. Gómez-Ramírez (Oceanografía Química, Ecología Microbiana, CIMAR-Universidad de Costa Rica)
 
 
-Paul A. del Giorgio
+**México**
 
-Université du Québec à Montréal
+Luciana Raggi Hoyos (Laboratorio Nacional de Nutrigenómica y Microbiómica Digestiva Animal, Instituto de Investigaciones Agropecuarias y Forestales, Universidad Michoacana San Nicolás de Hidalgo)
 
-Canada
 
-Sitios de Estudio
+**Suecia**
 
+Daniela Figueroa (Ecología marina, Universidad de Umeå)
 
 
-Alvaro González Revello
+**Uruguay**
 
-Ecología Acuática, Departamento de Microbiología, IIBCE
-
-Uruguay
-
-Sitios de Estudio
-
-
-
-Ana Martínez
-
-Dirección Nacional de Recursos Acuáticos
-
-Uruguay
-
-Sitios de Estudio
-
-
-
-Ana Torremorell
-
-Programa Ecología de Protistas y Hongos. Instituto de Ecología y Desarrollo Sustentable
-
-Argentina
-
-Sitios de Estudio
-
-
-
-André Megali Amado
-
-Ecologia Aquática/Universidade Federal de Juiz de Fora
-
-Brasil
-
-Sitios de Estudio
-
-
-
-Andrea Malits
-
-Laboratorio de Ecología Acuática Microbiana, Centro Austral de Investigaciones Científicas, CONICET, Ushuaia
-
-ARGENTINA
-
-Sitios de Estudio
-
-
-
-Angel Manuel Segura
-
-Modelación y Análisis de Recursos Naturales
-
-Uruguay
-
-Sitios de Estudio
-
-
-
-Belén González
-
-Ecología microbiana en sistemas acuáticos de transición. Centro Universitario Regional del Este. Universidad de la República
-
-Uruguay
-
-Sitios de Estudio
-
-
-
-Bruno Mattos Silva Wanderley
-
-Universidade Federal do Rio Grande do Norte
-
-Brasil
-
-Sitios de Estudio
-
-
-
-Carla Kruk
-
-Facultad de Ciencias y CURE, Universidad de la República
-
-Uruguay
-
-Sitios de Estudio
-
-
-
-Carmen Alejandra Sabio y García
-
-Laboratorio de Limnología. Departamento de Ecología Genética y Evolución, FCEyN, UBA. IEGEBA-UBA.
-
-Argentina
-
-Sitios de Estudio
-
-
-
-Claudia Piccini
-
-Departamento de Microbiología. Instituto de Investigaciones Biológicas Clemente Estable
-
-Uruguay
-
-Sitios de Estudio
-
-
-
-Daniela Andrea Meneses Escudero
-
-Laboratorio de Complejidad Microbiana, Instituto Antofagasta,Universidad de Antofagasta
-
-Chile
-
-Sitios de Estudio
-
-
-
-Daniela Figueroa
-
-Ecología marina, Universidad de Umeå
-
-Suecia
-
-Sitios de Estudio
-
-
-
-Eddy H. Gómez-Ramírez
-
-Oceanografía Química, Ecología Microbiana, CIMAR-Universidad de Costa Rica
-
-Costa Rica
-
-Sitios de Estudio
-
-
-
-Inés O'Farrell
-
-Ecología del fitoplancton. Laboratorio de Limnología, Departamento de Ecología, Genética y Evolución, Facultad de Ciencias Exactas y Naturales, IEGEBA, Universidad de Buenos Aires, CONICET
-
-Argentina
-
-Sitios de Estudio
-
-
-
-Inessa Lacativa Bagatini
-
-Universidade Federal de São Carlos
-
-Brasil
-
-Sitios de Estudio
-
-
-
-Irina Izaguirre
-
-Departamento de Ecología, Genética y Evolución, IEGEBA (CONICET-UBA) Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires
-
-Argentina
-
-Sitios de Estudio
-
-
-
-Johanna Alejandra Cortes Guzman
-
-Laboratorio de Ecologia Molecular y Microbiologia Aplicada. Universidad Católica del Norte
-
-Chile
-
-Sitios de Estudio
-
-
-
-Juan Pablo Niño García
-
-Grupo de Investigación en Gestión y Modelación Ambiental . Universidad de Antioquia.
-
-Colombia
-
-Sitios de Estudio
-
-
-
-Lilen Yema
-
-Laboratorio Limnología, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires.
-
-Argentina
-
-Sitios de Estudio
-
-
-
-Luciana Griffero Ramilo
-
-Ecología microbiana en sistemas acuáticos de transición. Centro Universitario Regional del Este. Universidad de la República
-
-Uruguay
-
-Sitios de Estudio
-
-
-
-Luciana Raggi Hoyos
-
-Laboratorio Nacional de Nutrigenómica y Microbiómica Digestiva Animal, Instituto de Investigaciones Agropecuarias y Forestales, Universidad Michoacana San Nicolás de Hidalgo
-
-Morelia, México
-
-Sitios de Estudio
-
-
-
-Magdalena Licursi
-
-Laboratorio de Plancton. Instituto Nacional de Limnologia (CONICET, UNL)
-
-Argentina
-
-Sitios de Estudio
-
-
-
-María Belén Sathicq
-
-Laboratorio de Plancton y Biofilms. Instituto de Limnología Dr. Raúl A. Ringuelet (ILPLA)
-
-Argentina
-
-Sitios de Estudio
-
-
-
-Maria Carolina Garcia Chaves
-
-Grupo de Investigación en Gestión y Modelación Ambiental (GAIA)
-
-Colombia
-
-Sitios de Estudio
-
-
-
-Maria Eugenia del R. Llames
-
-Laboratorio de Fotobiologia y Ecologia Acuatica. IIB-INTECH. UNSAM-CONICET
-
-Argentina
-
-Sitios de Estudio
-
-
-
-Maria Laura Sanchez
-
-Laboratorio de Limnología, EGE/IEGEBA , UBA/CONICET
-
-Argentina
-
-Sitios de Estudio
-
-
-
-Maria Luz Padulles
-
-Programa de Ecologia de Protistas y Hongos, Instituto de Ecologia y Desarrollo Sustentable, Universidad Nacional de Lujan-CONICET
-
-Argentina
-
-Sitios de Estudio
-
-
-
-María Romina Schiaffino
-
-Centro de Investigaciones y Transferencia del Noroeste de la Provincia de Buenos Aires (CONICET-UNNOBA). Grupo de trabajo original: Limnología, FCEN-UBA. En la actualidad: "grupo en formación".
-
-Argentina
-
-Sitios de Estudio
-
-
-
-María Victoria Quiroga
-
-LEFA, IIB-INTECH (UNSAM-CONICET)
-
-Argentina
-
-Sitios de Estudio
-
-
-
-Marina Gerea
-
-GESAP (Grupo de Ecología de Sistemas Acuáticos a escala de Paisaje)- INIBIOMA - CONICET-UNComahue
-
-San Carlos de Bariloche, Argentina
-
-Sitios de Estudio
-
-
-
-Martha Brigitte Hengst López
-
-Universidad Católica del Norte
-
-Chile
-
-Sitios de Estudio
-
-
-
-Martin Graziano
-
-Ecología urbana en sistemas acuáticos pampeanos. Laboratorio de Limnología, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires. IEGEBA-CONICET
-
-Argentina
-
-Sitios de Estudio
-
-
-
-Melina Devercelli
-
-Metacomunidades microbianas en sistemas fluviales aluviales. INALI, CONICET-UNL
-
-Argentina
-
-Sitios de Estudio
-
-
-
-Michaela Ladeira de Melo
-
-Laboratório de Biodiversidade e Processos Microbianos, Departamento de Hidrobiologia, Universidade Federal de São Carlos
-
-Brazil
-
-Sitios de Estudio
-
-
-
-Paris Leonardo Lavin Sepulveda
-
-Hacia un μ-Observatorio Ambiental Sudamericano, Instituto Antofagasta, Universidad de Antofagasta, Chile
-
-Chile
-
-Sitios de Estudio
-
-
-
-Paula Huber
-
-Instituto Nacional de Limnología (INALI)
-
-Argentina
-
-Sitios de Estudio
-
-
-
-Paulina Fermani
-
-Laboratorio de Ecología y Fotobiología Acuática. IIB_INTECH, Chascomús, Buenos Aires
-
-Argentina
-
-Sitios de Estudio
-
-
-
-Pedro Ciarlini Junger Soares
-
-Laboratório de Biodiversidade e Processos Microbianos. Departamento de Hidrobiologia. Universidade Federal de São Carlos
-
-Brasil
-
-Sitios de Estudio
-
-
-
-Sebastian Metz
-
-Laboratorio de Ecología y Fotobiología Acuática, Instituto de Investigaciones Biotecnológicas-Instituto Tecnológico de Chascomús (IIB-INTECH), UNSAM-CONICET.
-
-Argentina
-
-Sitios de Estudio
-
-
-
-Sofía Baliña
-
-Laboratorio de Limnologia, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires
-
-Argentina
-
-Sitios de Estudio
-
-
-
-Veronica Molina Trincado
-
-Observatorio de Ecología Microbiana, Facultad de Cienciass Naturales y Exactas, Universidad de Playa Ancha
-
-Chile
-
-Sitios de Estudio
+Cecilia Alonso (Ecología microbiana de sistemas acuáticos. Centro Universitario Regional del Este,Universidad de la República) 
+Alvaro González Revello (Ecología Acuática, Departamento de Microbiología, IIBCE)
+Ana Martínez (Dirección Nacional de Recursos Acuáticos)
+Angel Manuel Segura (Modelación y Análisis de Recursos Naturales)
+Carla Kruk (Facultad de Ciencias y CURE, Universidad de la República)
+Claudia Piccini (Departamento de Microbiología. Instituto de Investigaciones Biológicas Clemente Estable)
+Luciana Griffero Ramilo (Ecología microbiana en sistemas acuáticos de transición. Centro Universitario Regional del Este. Universidad de la República)
