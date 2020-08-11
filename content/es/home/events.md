@@ -57,7 +57,7 @@ weight = 90 # Order that this section will appear.
 
 *Fecha*: .../2017
 
-*Local*: Rocha, Uruguai
+*Local*: Rocha, Uruguay
 
 *Descripción*
 
