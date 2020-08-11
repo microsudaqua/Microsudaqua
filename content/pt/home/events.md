@@ -82,5 +82,3 @@ Livro de Resumos
 *Local*: Brasil
 
 *Descrição*
-
-Livro de Resumos
