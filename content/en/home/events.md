@@ -51,7 +51,7 @@ weight = 90 # Order that this section will appear.
 +++
 #
 
-**I taller de la Red**
+**I uSudAqua workshop**
 
 {{< figure library="true" src="sud.png" title=" " lightbox="true" >}}
 
@@ -60,7 +60,7 @@ weight = 90 # Order that this section will appear.
 
 *Description*
 
-**II taller de la Red**
+**II uSudAqua workshop**
 
 {{< figure library="true" src="sud.png" title=" " lightbox="true" >}}
 
@@ -69,7 +69,7 @@ weight = 90 # Order that this section will appear.
 
 *Description*
 
-**II taller de la Red**
+**III uSudAqua workshop**
 
 {{< figure library="true" src="sud.png" title=" " lightbox="true" >}}
 
