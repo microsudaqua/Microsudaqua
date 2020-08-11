@@ -61,7 +61,7 @@ title = "Events"
 
 *Description*
 
-Abstracts
+{{% staticref "files/libro_2017.pdf" "newtab" %}}Abstracts{{% /staticref %}}
 
 **II Workshop of the collaborative Network on Aquatic Microbial Ecology in Latin America**
 
@@ -73,7 +73,7 @@ Abstracts
 
 *Description*
 
-Abstracts
+{{% staticref "files/libro_2019.pdf" "newtab" %}}Abstracts{{% /staticref %}}
 
 **III Workshop of the collaborative Network on Aquatic Microbial Ecology in Latin America**
 
