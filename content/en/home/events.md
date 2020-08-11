@@ -51,7 +51,7 @@ title = "Events"
 +++
 #
 
-**I Workshop of the collaborative Network on Aquatic Microbial Ecology in Latin America**
+## **I Workshop of the collaborative Network on Aquatic Microbial Ecology in Latin America**
 
 *Date*: December 04 to 08, 2017
 
@@ -63,7 +63,7 @@ title = "Events"
 
 {{% staticref "files/libro_2017.pdf" "newtab" %}}Abstracts{{% /staticref %}}
 
-**II Workshop of the collaborative Network on Aquatic Microbial Ecology in Latin America**
+## **II Workshop of the collaborative Network on Aquatic Microbial Ecology in Latin America**
 
 *Date*: November 11 to 14, 2019
 
@@ -75,7 +75,8 @@ title = "Events"
 
 {{% staticref "files/libro_2019.pdf" "newtab" %}}Abstracts{{% /staticref %}}
 
-**III Workshop of the collaborative Network on Aquatic Microbial Ecology in Latin America**
+# Next Event
+## **III Workshop of the collaborative Network on Aquatic Microbial Ecology in Latin America**
 
 *Expected date*: march, 2022
 
