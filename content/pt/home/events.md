@@ -75,7 +75,7 @@ weight = 90 # Order that this section will appear.
 
 {{< figure library="true" src="sud.png" title=" " lightbox="true" >}}
 
-*Data prevista*: marzo de 2022
+*Data prevista*: março de 2022
 
 *Local*: Brasil
 
