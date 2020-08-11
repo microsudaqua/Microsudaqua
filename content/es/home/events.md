@@ -53,7 +53,7 @@ title = "Eventos"
 
 **I taller de la Red**
 
-{{< figure library="true" src="sud.png" title=" " lightbox="true" >}}
+{{< figure library="true" src="2017.jpeg" title=" " lightbox="true" >}}
 
 *Fecha*: .../2017
 
@@ -64,7 +64,7 @@ title = "Eventos"
 
 **II taller de la Red**
 
-{{< figure library="true" src="sud.png" title=" " lightbox="true" >}}
+{{< figure library="true" src="2019.jpg" title=" " lightbox="true" >}}
 
 *Fecha*: .../2019
 
@@ -75,7 +75,6 @@ title = "Eventos"
 
 **III taller de la Red**
 
-{{< figure library="true" src="sud.png" title=" " lightbox="true" >}}
 
 *Fecha prevista*: marzo de 2022
 
