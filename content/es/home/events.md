@@ -75,7 +75,7 @@ title = "Eventos"
 
 *Descripción*
 
-[Libro de Resúmenes](link: files/libro_2019.pdf)
+[Libro de Resúmenes](https://github.com/microsudaqua/Microsudaqua/tree/master/static/files/libro_2019.pdf)
 
 
 
