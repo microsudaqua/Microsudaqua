@@ -61,7 +61,7 @@ weight = 100 # Order that this section will appear.
 
 *Descrição*
 
-Livro de Resumos
+{{% staticref "files/libro_2019.pdf" "newtab" %}}Livro de Resumos{{% /staticref %}}
 
 **II workshop da Rede colaborativa em Ecologia Microbiana Aquática na América Latina (µSudAqua)**
 
@@ -73,7 +73,7 @@ Livro de Resumos
 
 *Descrição*
 
-Livro de Resumos
+{{% staticref "files/libro_2019.pdf" "newtab" %}}Livro de Resumos{{% /staticref %}}
 
 **III workshop da Rede colaborativa em Ecologia Microbiana Aquática na América Latina (µSudAqua)**
 
