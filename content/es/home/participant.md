@@ -74,11 +74,13 @@ Maria Eugenia del R. Llames (Laboratorio de Fotobiologia y Ecologia Acuatica. II
 Maria Laura Sanchez (Laboratorio de Limnología, EGE/IEGEBA , UBA/CONICET)
 
 Maria Luz Padulles (Programa de Ecologia de Protistas y Hongos, Instituto de Ecologia y Desarrollo Sustentable, Universidad Nacional de Lujan-CONICET)
+
 María Romina Schiaffino (Centro de Investigaciones y Transferencia del Noroeste de la Provincia de Buenos Aires (CONICET-UNNOBA). Grupo de trabajo original: Limnología, FCEN-UBA. En la actualidad: "grupo en formación")
 
 María Victoria Quiroga (LEFA, IIB-INTECH - UNSAM-CONICET)
 
 Marina Gerea (GESAP - Grupo de Ecología de Sistemas Acuáticos a escala de Paisaje- INIBIOMA - CONICET-UNComahue)
+
 Martin Graziano (Ecología urbana en sistemas acuáticos pampeanos. Laboratorio de Limnología, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires. IEGEBA-CONICET)
 
 Melina Devercelli (Metacomunidades microbianas en sistemas fluviales aluviales. INALI, CONICET-UNL)
