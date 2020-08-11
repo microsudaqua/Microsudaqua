@@ -78,13 +78,12 @@ title = "Eventos"
 {{% staticref "files/libro_2019.pdf" "newtab" %}}Libro de Resúmenes{{% /staticref %}}
 
 
-
+# Next Event
 ## **III Taller de la Red colaborativa en Ecología Microbiana Acuática en América Latina (µSudAqua)**
 
 *Fecha prevista*: marzo de 2022
 
 *Local*: Brasil
-
 
 
 *Descripción*
