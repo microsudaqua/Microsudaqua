@@ -57,7 +57,7 @@ weight = 100 # Order that this section will appear.
 
 *Local*: Rocha, Uruguai
 
-{{< figure library="true" src="sud.png" title=" " lightbox="true" >}}
+{{< figure library="true" src="2017.jpeg" title=" " lightbox="true" >}}
 
 *Descrição*
 
@@ -69,7 +69,7 @@ Livro de Resumos
 
 *Local*: Chascomús, Argentina
 
-{{< figure library="true" src="sud.png" title=" " lightbox="true" >}}
+{{< figure library="true" src="2019.jpg" title=" " lightbox="true" >}}
 
 *Descrição*
 
