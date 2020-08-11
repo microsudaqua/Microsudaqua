@@ -51,33 +51,40 @@ title = "Eventos"
 +++
 #
 
-**I taller de la Red**
+**I Taller de la Red colaborativa en Ecología Microbiana Acuática en América Latina (µSudAqua)**
 
-{{< figure library="true" src="2017.jpeg" title=" " lightbox="true" >}}
-
-*Fecha*: .../2017
+*Fecha*: 04 al 08 de diciembre de 2017
 
 *Local*: Rocha, Uruguay
 
+{{< figure library="true" src="2017.jpeg" title=" " lightbox="true" >}}
+
+
 *Descripción*
 
+Libro de Resúmenes 
 
-**II taller de la Red**
 
-{{< figure library="true" src="2019.jpg" title=" " lightbox="true" >}}
+**II Taller de la Red colaborativa en Ecología Microbiana Acuática en América Latina (µSudAqua)**
 
-*Fecha*: .../2019
+*Fecha*: 11 al 14 de noviembre de 2019
 
 *Local*: Chascomús, Argentina
 
+{{< figure library="true" src="2019.jpg" title=" " lightbox="true" >}}
+
 *Descripción*
 
+Libro de Resúmenes
 
-**III taller de la Red**
 
+
+**III Taller de la Red colaborativa en Ecología Microbiana Acuática en América Latina (µSudAqua)**
 
 *Fecha prevista*: marzo de 2022
 
 *Local*: Brasil
+
+
 
 *Descripción*
