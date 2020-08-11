@@ -51,32 +51,32 @@ weight = 90 # Order that this section will appear.
 +++
 #
 
-**2017**
-I taller de la Red
+**I workshop da Rede**
 
-{{< figure library="true" src="sud.png" title=" " lightbox="false" >}}
+{{< figure library="true" src="sud.png" title=" " lightbox="true" >}}
 
-*Fecha*: .../2017
+*Data*: .../2017
+
 *Local*: Rocha, Uruguai
 
-*Descripción*
+*Descrição*
 
-**2019**
-II taller de la Red
+**II workshop da Rede**
 
-{{< figure library="true" src="sud.png" title=" " lightbox="false" >}}
+{{< figure library="true" src="sud.png" title=" " lightbox="true" >}}
 
-*Fecha*: .../2019
+*Data*: .../2019
+
 *Local*: Chascomús, Argentina
 
-*Descripción*
+*Descrição*
 
-**2022**
-II taller de la Red
+**III workshop da Rede**
 
-{{< figure library="true" src="sud.png" title=" " lightbox="false" >}}
+{{< figure library="true" src="sud.png" title=" " lightbox="true" >}}
 
-*Fecha prevista*: marzo de 2022
+*Data prevista*: marzo de 2022
+
 *Local*: Brasil
 
-*Descripción*
+*Descrição*
