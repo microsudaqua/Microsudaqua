@@ -51,29 +51,34 @@ title = "Events"
 +++
 #
 
-**I uSudAqua workshop**
+**I Workshop of the collaborative Network on Aquatic Microbial Ecology in Latin America**
 
-{{< figure library="true" src="sud.png" title=" " lightbox="true" >}}
+*Date*: December 04 to 08, 2017
 
-*Date*: .../2017
 *Local*: Rocha, Uruguay
 
-*Description*
-
-**II uSudAqua workshop**
-
 {{< figure library="true" src="sud.png" title=" " lightbox="true" >}}
 
-*Date*: .../2019
+*Description*
+
+Abstracts
+
+**II Workshop of the collaborative Network on Aquatic Microbial Ecology in Latin America**
+
+*Date*: November 11 to 14, 2019
+
 *Local*: Chascomús, Argentina
 
-*Description*
-
-**III uSudAqua workshop**
-
 {{< figure library="true" src="sud.png" title=" " lightbox="true" >}}
 
+*Description*
+
+Abstracts
+
+**III Workshop of the collaborative Network on Aquatic Microbial Ecology in Latin America**
+
 *Expected date*: march, 2022
+
 *Local*: Brazil
 
 *Description*
