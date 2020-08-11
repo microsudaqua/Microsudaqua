@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Biodiversidade e Processos Microbianos
+role: Brasil
 
 # Organizations/Affiliations
 organizations:

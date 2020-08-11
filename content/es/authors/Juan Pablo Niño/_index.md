@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role:Investigación en Gestión y Modelación Ambiental
+role: Colombia
 
 # Organizations/Affiliations
 organizations:

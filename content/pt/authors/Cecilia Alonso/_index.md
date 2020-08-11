@@ -1,24 +1,24 @@
 ---
 # Display name
-title: Fernando Unrein
+title: Cecilia Alonso
 
 # Username (this should match the folder name)
 authors:
-- Fernando Unrein
+- Cecilia Alonso
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Argentina zona 1
+role: Uruguay
 
 # Organizations/Affiliations
 organizations:
-- name: Instituto de Investigaciones Biotecnológicas de Chascomús (IIB-INTECH)
+- name: Universidad de la República
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio:
+bio: .
 
 interests:
 
@@ -30,13 +30,13 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:funrein@intech.gov.ar".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/fer_unrein
+  link: '#contact'  # For a direct email link, use "mailto:calonso@cure.edu.uy".
+# - icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com.br/citations?user=pAZjvJUAAAAJ&hl=pt-BR&oi=ao
+  link: https://scholar.google.com.br/citations?user=dbJYsxQAAAAJ&hl=pt-BR&oi=ao
 # - icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
@@ -47,11 +47,12 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+# email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Nodos
+- Nós
+
 ---
 

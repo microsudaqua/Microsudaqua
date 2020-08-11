@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ecología microbiana de sistemas acuáticos
+role: Uruguay
 
 # Organizations/Affiliations
 organizations:

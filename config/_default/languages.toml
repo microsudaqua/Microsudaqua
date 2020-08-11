@@ -71,7 +71,7 @@
   
 [[pt.menu.main]]
   name = "Nós"
-  url = "#nodes"
+  url = "#people"
   weight = 40
   parent = "people"
   
@@ -179,7 +179,7 @@
   
 [[en.menu.main]]
   name = "Nodes"
-  url = "#nodes"
+  url = "#people"
   weight = 40
   parent = "people"
   

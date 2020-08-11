@@ -1,24 +1,24 @@
 ---
 # Display name
-title: Fernando Unrein
+title: Irina Izaguirre
 
 # Username (this should match the folder name)
 authors:
-- Fernando Unrein
+- Irina Izaguirre
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Argentina zona 1
+role: Argentina Zona 2
 
 # Organizations/Affiliations
 organizations:
-- name: Instituto de Investigaciones Biotecnológicas de Chascomús (IIB-INTECH)
+- name: Universidad de Buenos Aires
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio:
+bio: 
 
 interests:
 
@@ -28,15 +28,15 @@ interests:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:funrein@intech.gov.ar".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/fer_unrein
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com.br/citations?user=pAZjvJUAAAAJ&hl=pt-BR&oi=ao
+# - icon: envelope
+#  icon_pack: fas
+#  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+# - icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
+# - icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 # - icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
@@ -52,6 +52,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Nodos
+- Nodes
 ---
-
