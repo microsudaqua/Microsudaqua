@@ -57,7 +57,7 @@ title = "Events"
 
 *Local*: Rocha, Uruguay
 
-{{< figure library="true" src="sud.png" title=" " lightbox="true" >}}
+{{< figure library="true" src="2017.jpeg" title=" " lightbox="true" >}}
 
 *Description*
 
@@ -69,7 +69,7 @@ Abstracts
 
 *Local*: Chascomús, Argentina
 
-{{< figure library="true" src="sud.png" title=" " lightbox="true" >}}
+{{< figure library="true" src="2019.jpg" title=" " lightbox="true" >}}
 
 *Description*
 
