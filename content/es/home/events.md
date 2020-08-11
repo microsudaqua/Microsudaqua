@@ -73,7 +73,7 @@ weight = 90 # Order that this section will appear.
 *Descripción*
 
 
-**II taller de la Red**
+**III taller de la Red**
 
 {{< figure library="true" src="sud.png" title=" " lightbox="true" >}}
 
