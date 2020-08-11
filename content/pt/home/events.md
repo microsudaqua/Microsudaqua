@@ -51,32 +51,36 @@ weight = 100 # Order that this section will appear.
 +++
 #
 
-**I workshop da Rede**
+**I workshop da Rede colaborativa em Ecologia Microbiana Aquática na América Latina (µSudAqua)**
 
-{{< figure library="true" src="sud.png" title=" " lightbox="true" >}}
-
-*Data*: .../2017
+*Data*: 04 a 08 de dezembro de 2017
 
 *Local*: Rocha, Uruguai
 
-*Descrição*
-
-**II workshop da Rede**
-
 {{< figure library="true" src="sud.png" title=" " lightbox="true" >}}
 
-*Data*: .../2019
+*Descrição*
+
+Livro de Resumos
+
+**II workshop da Rede colaborativa em Ecologia Microbiana Aquática na América Latina (µSudAqua)**
+
+*Data*: 11 a 14 de dezembro de 2019
 
 *Local*: Chascomús, Argentina
 
+{{< figure library="true" src="sud.png" title=" " lightbox="true" >}}
+
 *Descrição*
 
-**III workshop da Rede**
+Livro de Resumos
 
-{{< figure library="true" src="sud.png" title=" " lightbox="true" >}}
+**III workshop da Rede colaborativa em Ecologia Microbiana Aquática na América Latina (µSudAqua)**
 
 *Data prevista*: março de 2022
 
 *Local*: Brasil
 
 *Descrição*
+
+Livro de Resumos
