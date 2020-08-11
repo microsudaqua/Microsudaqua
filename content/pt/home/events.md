@@ -51,7 +51,7 @@ weight = 100 # Order that this section will appear.
 +++
 #
 
-**I workshop da Rede colaborativa em Ecologia Microbiana Aquática na América Latina (µSudAqua)**
+## **I workshop da Rede colaborativa em Ecologia Microbiana Aquática na América Latina (µSudAqua)**
 
 *Data*: 04 a 08 de dezembro de 2017
 
@@ -63,7 +63,7 @@ weight = 100 # Order that this section will appear.
 
 {{% staticref "files/libro_2019.pdf" "newtab" %}}Livro de Resumos{{% /staticref %}}
 
-**II workshop da Rede colaborativa em Ecologia Microbiana Aquática na América Latina (µSudAqua)**
+## **II workshop da Rede colaborativa em Ecologia Microbiana Aquática na América Latina (µSudAqua)**
 
 *Data*: 11 a 14 de dezembro de 2019
 
@@ -75,7 +75,8 @@ weight = 100 # Order that this section will appear.
 
 {{% staticref "files/libro_2019.pdf" "newtab" %}}Livro de Resumos{{% /staticref %}}
 
-**III workshop da Rede colaborativa em Ecologia Microbiana Aquática na América Latina (µSudAqua)**
+# Próximo Evento
+## **III workshop da Rede colaborativa em Ecologia Microbiana Aquática na América Latina (µSudAqua)**
 
 *Data prevista*: março de 2022
 
