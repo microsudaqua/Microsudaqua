@@ -5,10 +5,10 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 90 # Order that this section will appear.
+weight = 100 # Order that this section will appear.
 
 
-# title = "MicroSudAqua"
+title = "Events"
 # subtitle = "Red Colaborativa en ecologia Microbiana de América Latina"
 
 [design]
@@ -51,32 +51,34 @@ weight = 90 # Order that this section will appear.
 +++
 #
 
-**2017**
-I taller de la Red
+**I Workshop of the collaborative Network on Aquatic Microbial Ecology in Latin America**
 
-{{< figure library="true" src="sud.png" title=" " lightbox="false" >}}
+*Date*: December 04 to 08, 2017
 
-*Fecha*: .../2017
-*Local*: Rocha, Uruguai
+*Local*: Rocha, Uruguay
 
-*Descripción*
+{{< figure library="true" src="sud.png" title=" " lightbox="true" >}}
 
-**2019**
-II taller de la Red
+*Description*
 
-{{< figure library="true" src="sud.png" title=" " lightbox="false" >}}
+Abstracts
 
-*Fecha*: .../2019
+**II Workshop of the collaborative Network on Aquatic Microbial Ecology in Latin America**
+
+*Date*: November 11 to 14, 2019
+
 *Local*: Chascomús, Argentina
 
-*Descripción*
+{{< figure library="true" src="sud.png" title=" " lightbox="true" >}}
 
-**2022**
-II taller de la Red
+*Description*
 
-{{< figure library="true" src="sud.png" title=" " lightbox="false" >}}
+Abstracts
 
-*Fecha prevista*: marzo de 2022
-*Local*: Brasil
+**III Workshop of the collaborative Network on Aquatic Microbial Ecology in Latin America**
 
-*Descripción*
+*Expected date*: march, 2022
+
+*Local*: Brazil
+
+*Description*
