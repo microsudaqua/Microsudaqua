@@ -42,6 +42,12 @@
   url = "#traits"
   weight = 20
   parent = "groups"
+
+[[main]]
+  name = "Patrones"
+  url = "#patterns"
+  weight = 20
+  parent = "groups"
  
 [[main]]
   name = "Contacto"

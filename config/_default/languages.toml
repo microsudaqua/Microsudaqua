@@ -58,6 +58,12 @@
   url = "#traits"
   weight = 20
   parent = "groups"
+
+[[pt.menu.main]]
+  name = "Padrões"
+  url = "#patterns"
+  weight = 20
+  parent = "groups"
  
 [[pt.menu.main]]
   name = "Contato"
@@ -164,6 +170,12 @@
 [[en.menu.main]]
   name = "Traits"
   url = "#traits"
+  weight = 20
+  parent = "groups"
+
+[[en.menu.main]]
+  name = "Patterns"
+  url = "#patterns"
   weight = 20
   parent = "groups"
  
