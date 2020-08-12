@@ -51,120 +51,120 @@ title = "Participantes"
 
 **Argentina**
 
-Fernando Unrein (Laboratorio de Ecología y Fotobiología Acuática.Instituto de Investigaciones Biotecnológicas-Instituto Tecnológico de Chascomús (IIB-INTECH) Sede Chascomús, UNSAM-CONICET)
+*Fernando Unrein* (Laboratorio de Ecología y Fotobiología Acuática.Instituto de Investigaciones Biotecnológicas - IIB-INTECH, Sede Chascomús, UNSAM-CONICET)
 
-Ana Torremorell (Programa Ecología de Protistas y Hongos. Instituto de Ecología y Desarrollo Sustentable)
+*Ana Torremorell* (Programa Ecología de Protistas y Hongos. Instituto de Ecología y Desarrollo Sustentable)
 
-Andrea Malits (Laboratorio de Ecología Acuática Microbiana, Centro Austral de Investigaciones Científicas, CONICET, Ushuaia)
+*Andrea Malits* (Laboratorio de Ecología Acuática Microbiana, Centro Austral de Investigaciones Científicas, CONICET, Ushuaia)
 
-Carmen Alejandra Sabio y García (Laboratorio de Limnología. Departamento de Ecología Genética y Evolución, FCEyN, UBA. IEGEBA-UBA)
+*Carmen Alejandra Sabio y García* (Laboratorio de Limnología. Departamento de Ecología Genética y Evolución, FCEyN, UBA. IEGEBA-UBA)
 
-Inés O'Farrell (Ecología del fitoplancton. Laboratorio de Limnología, Departamento de Ecología, Genética y Evolución, Facultad de Ciencias Exactas y Naturales, IEGEBA, Universidad de Buenos Aires, CONICET)
+*Inés O'Farrell* (Ecología del fitoplancton. Laboratorio de Limnología, Departamento de Ecología, Genética y Evolución, Facultad de Ciencias Exactas y Naturales, IEGEBA, Universidad de Buenos Aires, CONICET)
 
-Irina Izaguirre (Departamento de Ecología, Genética y Evolución, IEGEBA (CONICET-UBA) Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires)
+*Irina Izaguirre* (Departamento de Ecología, Genética y Evolución, IEGEBA (CONICET-UBA) Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires)
 
-Lilen Yema (Laboratorio Limnología, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires)
+*Lilen Yema* (Laboratorio Limnología, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires)
 
-Magdalena Licursi (Laboratorio de Plancton. Instituto Nacional de Limnologia - CONICET, UNL)
+*Magdalena Licursi* (Laboratorio de Plancton. Instituto Nacional de Limnologia - CONICET, UNL)
 
-María Belén Sathicq (Laboratorio de Plancton y Biofilms. Instituto de Limnología Dr. Raúl A. Ringuelet - ILPLA)
+*María Belén Sathicq* (Laboratorio de Plancton y Biofilms. Instituto de Limnología Dr. Raúl A. Ringuelet - ILPLA)
 
-Maria Eugenia del R. Llames (Laboratorio de Fotobiologia y Ecologia Acuatica. IIB-INTECH. UNSAM-CONICET)
+*Maria Eugenia del R. Llames* (Laboratorio de Fotobiologia y Ecologia Acuatica. IIB-INTECH. UNSAM-CONICET)
 
-Maria Laura Sanchez (Laboratorio de Limnología, EGE/IEGEBA , UBA/CONICET)
+*Maria Laura Sanchez* (Laboratorio de Limnología, EGE/IEGEBA , UBA/CONICET)
 
-Maria Luz Padulles (Programa de Ecologia de Protistas y Hongos, Instituto de Ecologia y Desarrollo Sustentable, Universidad Nacional de Lujan-CONICET)
+*Maria Luz Padulles* (Programa de Ecologia de Protistas y Hongos, Instituto de Ecologia y Desarrollo Sustentable, Universidad Nacional de Lujan-CONICET)
 
-María Romina Schiaffino (Centro de Investigaciones y Transferencia del Noroeste de la Provincia de Buenos Aires (CONICET-UNNOBA). Grupo de trabajo original: Limnología, FCEN-UBA. En la actualidad: "grupo en formación")
+*María Romina Schiaffino* (Centro de Investigaciones y Transferencia del Noroeste de la Provincia de Buenos Aires (CONICET-UNNOBA). Grupo de trabajo original: Limnología, FCEN-UBA. En la actualidad: "grupo en formación")
 
-María Victoria Quiroga (LEFA, IIB-INTECH - UNSAM-CONICET)
+*María Victoria Quiroga* (LEFA, IIB-INTECH - UNSAM-CONICET)
 
-Marina Gerea (GESAP - Grupo de Ecología de Sistemas Acuáticos a escala de Paisaje- INIBIOMA - CONICET-UNComahue)
+*Marina Gerea* (GESAP - Grupo de Ecología de Sistemas Acuáticos a escala de Paisaje- INIBIOMA - CONICET-UNComahue)
 
-Martin Graziano (Ecología urbana en sistemas acuáticos pampeanos. Laboratorio de Limnología, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires. IEGEBA-CONICET)
+*Martin Graziano* (Ecología urbana en sistemas acuáticos pampeanos. Laboratorio de Limnología, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires. IEGEBA-CONICET)
 
-Melina Devercelli (Metacomunidades microbianas en sistemas fluviales aluviales. INALI, CONICET-UNL)
+*Melina Devercelli* (Metacomunidades microbianas en sistemas fluviales aluviales. INALI, CONICET-UNL)
 
-Paula Huber (Instituto Nacional de Limnología - INALI)
+*Paula Huber* (Instituto Nacional de Limnología - INALI)
 
-Paulina Fermani (Laboratorio de Ecología y Fotobiología Acuática. IIB_INTECH, Chascomús, Buenos Aires)
+*Paulina Fermani* (Laboratorio de Ecología y Fotobiología Acuática. IIB_INTECH, Chascomús, Buenos Aires)
 
-Sebastian Metz (Laboratorio de Ecología y Fotobiología Acuática, Instituto de Investigaciones Biotecnológicas-Instituto Tecnológico de Chascomús - IIB-INTECH, UNSAM-CONICET)
+*Sebastian Metz* (Laboratorio de Ecología y Fotobiología Acuática, Instituto de Investigaciones Biotecnológicas-Instituto Tecnológico de Chascomús - IIB-INTECH, UNSAM-CONICET)
 
-Sofía Baliña (Laboratorio de Limnologia, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires)
+*Sofía Baliña* (Laboratorio de Limnologia, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires)
 
 
 **Brasil**
 
-Hugo Sarmento (Laboratório de Biodiversidade e Processos Microbianos, LMPB; Universidade Federal de São Carlos - UFSCar) 
+*Hugo Sarmento* (Laboratório de Biodiversidade e Processos Microbianos, LMPB; Universidade Federal de São Carlos - UFSCar) 
 
-André Megali Amado (Ecologia Aquática; Universidade Federal de Juiz de Fora)
+*André Megali Amado* (Ecologia Aquática; Universidade Federal de Juiz de Fora)
 
-Bruno Mattos Silva Wanderley(Universidade Federal do Rio Grande do Norte)
+*Bruno Mattos Silva Wanderley* (Universidade Federal do Rio Grande do Norte)
 
-Erick Mateus Barros (Laboratório de Biodiversidade e Processos Microbianos, LMPB; Universidade Federal de São Carlos - UFSCar)
+*Erick Mateus Barros* (Laboratório de Biodiversidade e Processos Microbianos, LMPB; Universidade Federal de São Carlos - UFSCar)
 
-Inessa Lacativa Bagatini (Universidade Federal de São Carlos)
+*Inessa Lacativa Bagatini* (Universidade Federal de São Carlos)
 
-Pedro Ciarlini Junger Soares (Laboratório de Biodiversidade e Processos Microbianos. Departamento de Hidrobiologia. Universidade Federal de São Carlos)
+*Michaela Ladeira de Melo* (Université du Québec à Montréal)
+
+*Pedro Ciarlini Junger Soares* (Laboratório de Biodiversidade e Processos Microbianos. Departamento de Hidrobiologia. Universidade Federal de São Carlos)
 
 
 **Canada**
 
 Paul A. del Giorgio (Université du Québec à Montréal)
 
-Michaela Ladeira de Melo (Université du Québec à Montréal)
-
 
 **Chile**
 
-Daniela Andrea Meneses Escudero (Laboratorio de Complejidad Microbiana, Instituto Antofagasta,Universidad de Antofagasta)
+*Daniela Andrea Meneses Escudero* (Laboratorio de Complejidad Microbiana, Instituto Antofagasta,Universidad de Antofagasta)
 
-Johanna Alejandra Cortes Guzman (Laboratorio de Ecologia Molecular y Microbiologia Aplicada. Universidad Católica del Norte)
+*Johanna Alejandra Cortes Guzman* (Laboratorio de Ecologia Molecular y Microbiologia Aplicada. Universidad Católica del Norte)
 
-Martha Brigitte Hengst López (Universidad Católica del Norte)
+*Martha Brigitte Hengst López* (Universidad Católica del Norte)
 
-Paris Leonardo Lavin Sepulveda (Hacia un μ-Observatorio Ambiental Sudamericano, Instituto Antofagasta, Universidad de Antofagasta)
+*Paris Leonardo Lavin Sepulveda* (Hacia un μ-Observatorio Ambiental Sudamericano, Instituto Antofagasta, Universidad de Antofagasta)
 
-Veronica Molina Trincado (Observatorio de Ecología Microbiana, Facultad de Cienciass Naturales y Exactas, Universidad de Playa Ancha)
+*Veronica Molina Trincado* (Observatorio de Ecología Microbiana, Facultad de Cienciass Naturales y Exactas, Universidad de Playa Ancha)
 
 
 **Colombia**
 
-Juan Pablo Niño García (Grupo de Investigación en Gestión y Modelación Ambiental. Universidad de Antioquia)
+*Juan Pablo Niño García* (Grupo de Investigación en Gestión y Modelación Ambiental. Universidad de Antioquia)
 
-Maria Carolina Garcia Chaves (Grupo de Investigación en Gestión y Modelación Ambiental - GAIA)
+*Maria Carolina Garcia Chaves* (Grupo de Investigación en Gestión y Modelación Ambiental - GAIA)
 
 
 **Costa Rica**
 
-Eddy H. Gómez-Ramírez (Oceanografía Química, Ecología Microbiana, CIMAR-Universidad de Costa Rica)
+*Eddy H. Gómez-Ramírez* (Oceanografía Química, Ecología Microbiana, CIMAR-Universidad de Costa Rica)
 
 
 **México**
 
-Luciana Raggi Hoyos (Laboratorio Nacional de Nutrigenómica y Microbiómica Digestiva Animal, Instituto de Investigaciones Agropecuarias y Forestales, Universidad Michoacana San Nicolás de Hidalgo)
+*Luciana Raggi Hoyos* (Laboratorio Nacional de Nutrigenómica y Microbiómica Digestiva Animal, Instituto de Investigaciones Agropecuarias y Forestales, Universidad Michoacana San Nicolás de Hidalgo)
 
 
 **Suecia**
 
-Daniela Figueroa (Ecología marina, Universidad de Umeå)
+*Daniela Figueroa* (Ecología marina, Universidad de Umeå)
 
 
 **Uruguay**
 
-Cecilia Alonso (Ecología microbiana de sistemas acuáticos. Centro Universitario Regional del Este,Universidad de la República) 
+*Cecilia Alonso* (Ecología microbiana de sistemas acuáticos. Centro Universitario Regional del Este,Universidad de la República) 
 
-Alvaro González Revello (Ecología Acuática, Departamento de Microbiología, IIBCE)
+*Alvaro González Revello* (Ecología Acuática, Departamento de Microbiología, IIBCE)
 
-Ana Martínez (Dirección Nacional de Recursos Acuáticos)
+*Ana Martínez* (Dirección Nacional de Recursos Acuáticos)
 
-Angel Manuel Segura (Modelación y Análisis de Recursos Naturales)
+*Angel Manuel Segura* (Modelación y Análisis de Recursos Naturales)
 
-Belén González (Ecología microbiana en sistemas acuáticos de transición. Centro Universitario Regional del Este. Universidad de la República)
+*Belén González* (Ecología microbiana en sistemas acuáticos de transición. Centro Universitario Regional del Este. Universidad de la República)
 
-Carla Kruk (Facultad de Ciencias y CURE, Universidad de la República)
+*Carla Kruk* (Facultad de Ciencias y CURE, Universidad de la República)
 
-Claudia Piccini (Departamento de Microbiología. Instituto de Investigaciones Biológicas Clemente Estable)
+*Claudia Piccini* (Departamento de Microbiología. Instituto de Investigaciones Biológicas Clemente Estable)
 
-Luciana Griffero Ramilo (Ecología microbiana en sistemas acuáticos de transición. Centro Universitario Regional del Este. Universidad de la República)
+*Luciana Griffero Ramilo* (Ecología microbiana en sistemas acuáticos de transición. Centro Universitario Regional del Este. Universidad de la República)
