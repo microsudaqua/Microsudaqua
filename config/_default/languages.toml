@@ -118,8 +118,9 @@
   
 [[pt.menu.main]]
   name = "Database"
-  url = "https://www.ncbi.nlm.nih.gov/"
-  weight = 70
+  url = "#database"
+  weight = 60
+  parent = "pub"
 
 # Uncomment the lines below to configure your website in a second language.
 [en]
@@ -232,8 +233,8 @@
   
 [[en.menu.main]]
   name = "Database"
-  url = "https://www.ncbi.nlm.nih.gov/"
-  weight = 70
-
+  url = "#database"
+  weight = 60
+  parent = "pub"
 
 
