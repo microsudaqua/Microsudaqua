@@ -54,6 +54,6 @@ South‌ ‌America‌"**
 
 *A short description will be put here soon*
 
-#{{% staticref "files/libro_2019.pdf" "newtab" %}}Click to read the article{{% /staticref %}}
+# {{% staticref "files/libro_2019.pdf" "newtab" %}}Click to read the article{{% /staticref %}}
 
-#Link to the database: https://www.ncbi.nlm.nih.gov/
+# Link to the database: https://www.ncbi.nlm.nih.gov/
