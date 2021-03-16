@@ -52,46 +52,45 @@ title = "Rede de Observatórios Microbianos Aquáticos Latinoamericanos"
 #
 *Resumo*
 
-Los ensambles microbianos tienen la potencialidad de ser indicadores robustos del estado ecológico y sanitario de los ecosistemas debido a su papel fundamental en los mismos, su sensibilidad y rápida respuesta a los cambios ambientales, y al advenimiento de nuevas metodologías para su estudio; sin embargo, poco ha variado su uso en las últimas décadas. En este Grupo de Trabajo nos propusimos la creación de una Red de Observatorios Microbianos de distintos cuerpos de agua de Latinoamérica, estableciendo sus objetivos, su funcionamiento, y la puesta en práctica a través de la selección de diferentes sitios y la producción de protocolos estandarizados. A continuación se presenta un resumen de lo discutido:
+Assembléias microbianas têm o potencial de ser idicadores robusto do estado ecológico e sanitário dos ecossitemas devido a seu papel fundamental dentro dos mesmos, sua sensibilidade e rápida resposta a mudanças ambientais, e ao advento de novas tecnologias para seu estudo; porém, pouco variou seu uso nas ultimas décadas. Neste grupo de trabalho, foi proposta a criação de uma Red de Observatórios Microbianos de distintos corpos de água da América Latina, estabelecendo seus objetivos, seu funcionamento, e a seleção de diferentes sítios de coleta e produção de diferentes protocolos estandardizados. Abaixo segue um resumo do que foi discutido: 
 
+- Objetivo Geral: Conformação de um conjunto de observatórios (sítios) onde o objetivo principal será avaliar de que maneira o impacto antrópico e os fatores climáticos em um gradiente latitudinal afetam a dinâmica da comunidade microbiana a nível continental. 
 
--  Objetivo General: Conformación de un conjunto de observatorios (sitios) donde el objetivo principal sea evaluar de qué manera el impacto antrópico y los factores climáticos en un gradiente latitudinal afectan la dinámica de la comunidad microbiana a nivel continental. 
+- Se avaliarão parâmetros fáceis de medir e em séries temporais grandes com uma periodicidade estabelecida. Se trabalhará com protocolos estandardizados.
 
--   Se evaluarán parámetros fáciles de medir y en series temporales largas con una periodicidad establecida. Se trabajará con protocolos estandarizados.
+- O impacto antrópico será estimado através de indicadores integrdores que abarquem o impacto humano geral. a conformação do indicador será uma das tarefas que o grupo tem a definir.
 
--   El impacto antrópico se estimará a través de indicadores integradores que abarquen el impacto humano general. La conformación del indicador será una de las tareas que tenga el grupo para definir. 
-
--   A su vez se plantea visibilizar el observatorio a través de una plataforma web en donde, de manera visual, se puedan mostrar los cambios temporales de la dinámica microbiana en a, deeflos distintos sitios, a través de un abordaje no-académico (es decir, no los datos crudos si no productos específicos sencillos), orientado a la población en general, comunidad educativa, organizaciones sociales, etc. 
+- Por sua vez, propõe-se tornar o observatório visível através de uma plataforma web onde, de maneira visual, se podem mostrar as mudanças temporais da dinâmica microbiana nos distintos sítios, através de uma abordagem não acadêmica (ou seja, não os dados brutos, mas produtos específicos simples), orientado á população em geral, comunidade educadora, organizações sociais, etc. 
  
--   Se establecieron distintos sitios-observatorios para dar inicio a esta red. Buscamos sitios que sean fácilmente accesibles y con ideas de un compromiso a largo plazo para asegurar la continuidad del observatorio. Estos sitios se irán reevaluando en base a las facilidades/dificultados encontradas hasta llegar a una fase de consolidación. Invitamos a todxs a proponer otros sitios que permitan extender la red de observatorios. 
+- Se estabelecerão distintos sítios-observatórios para dar início a esta Rede. Buscamos sítios que sejam facilmente acessíveis e com ideias de um compromisso a grande prazo para assegurar a continuidade do osbservatório. Estes sítios serão reavaliados com base nas instalações/dificuldades encontradas até chegar a uma fase de consolidação. convidamos a todxs propor outros sítios que permitam extender a rede de observatórios.
 
--   Se estableció un muestreo bimensual (aunque preferentemente mensual) como frecuencia mínima asegurada en todos los sitios-observatorios.  Se estableció que los muestreos serán de mañana, durante la segunda quincena del mes impar, en la capa fótica. 
+- Se estabeleceu uma amostragem bimensal (embora seja preferível mensal) com frequência mínima assegurada a todos os sítios-observatórios. Se estabeleceu que as amostragens aconteçam de manhã, durante a segunda quinzena dos meses ímpares, na camada fótica.
 
--   Se establecieron variables/parámetros a considerar, teniendo en cuenta realizar un estudio de la diversidad citométrica como estimador de diversidad inicial, y la medición de variables que permitan considerar los factores que la modulan temporalmente, e incluyendo el muestreo de otros factores en caso de querer profundizar en las variaciones encontradas (fito y ADN ambiental). Los parámetros/variables definidos fueron:
+- Se estabeleceram variáveis paramétricas a considerar, levando em conta realizar um estudo da diversidade citométrica como etimativa da diversidade inicial, e a medição de variáveis que permitam considerar os fatores que a modulam termporalmente, e incluindo a amostragem de outros fatores em caso de se querer aprofundar nas variações encontradas (fito y DNA ambiental). Os parâmetros/variáveis definidos foram:
 
-Citometría (virus, bacterias, Pcy, Peuk, nanofito)
-Clorofila a
-ADN ambiental
-Fitoplancton cuantitativo
-Nutrientes (FT y NT)
-pH, temperatura, conductividad, Oxígeno Disuelto, Secchi, turbidez (fotometría o solidos totales), profundidad
-Materia Orgánica disuelta (espectrofotometría) y DOC
+Citometria (vírus, bactírias, Pcy, Peuk, nanofito)
+Clorofila *a*
+DNA ambiental
+Fitoplâncton quantitativo
+Nutrientes (FT e NT)
+pH, temperatura, conductividade, Oxigêno Dissolvido, Secchi, Turbidez (fotometria ou sólidos totais), profundidade
+Materia Orgânica Dissolvida (espectrofotometria) e DOC
 
-Síntesis de características/antecedentes de cada sitio-observatorio: Armar un google form con diferentes características básicas de cada sitio (localización, tipo de ambiente, demografía, influencia antrópica -agricultura, ganadería, etc-, clorofila, turbidez).
-
-*Indicaciones generales para muestreos*:
-
-Muestreo bimensual (preferentemente mensual) 
-Muestreos de mañana, durante la segunda quincena del mes impar, en la capa fótica.
-Forma de identificar las muestras: DOS LETRAS PARA SITIO_aammdd
-
-*Uso de datos*: Los datos de cada sitio son propiedad de cada grupo que los toma. No pueden usarse de manera individual para publicar o presentar en cualquier ámbito. Los participantes tendremos acceso a los datos para verlos, analizarlos, etc., a través de una planilla común.
-
-*Cronograma de trabajo y tareas asignadas*: Plazo para ingreso de nuevos observatorios: 31 de Marzo de 2018
-
-*Comienzo de los muestreos*: Septiembre 2018
+Síntese de características/antecedentes de cada sítio-observatório: preparar um google form com diferentes características básicas de cada sítio (localização, tipo de ambiente, demografia, influência antrópica -agricultura, pecuária, etc-, clorofila, turbidez).
 
 
-Los protocolos incluyen toma de muestras, conservación, procesamiento de la muestra en los casos que sea local, y necesidad de intercalibración (para ello se va a evaluar los protocolos actuales de cada grupo de trabajo y el equipamiento disponible).
+*Indicações gerais para amostragens*:
 
-*Plazo para elaboración de protocolos*: Junio 2018
+Amostragem bimensal (preferencialmente mensal) 
+Amostragem pela manhã, durante a segunda quinzena do mês ímpar, em camada fótica.
+Forma de identificar as amostras: DUAS LETRAS PARA SITIO_aammdd
+
+*Uso de dados*: Os dados de cada sítio são prorpiedade de cada grupo que os obtem. Não podem ser usados de maneira individual para publicar ou apresentar em qualquer âmbito. os participantes teremos acesso aos dados para vermos, analizarmos etc., atrav´s de uma planilha comum.
+
+*Cronograma de trabalho e tarefas atribuídas*: Prazo para o ingressod e novos abservatórios: 31 de Março de 2018
+
+*Começo das amostragens*: Setembro de 2018
+
+Os protocolos incluem amostragem, conservação, processamento de amostra em casos que ocorram no local, e necessidade de calibração (para isso, serão avaliados os protocolos atuais de cada grupo de trabalho e os equipamentos dispníveis).
+
+*Prazo para eleboração de protocolos*: Junho de 2018
