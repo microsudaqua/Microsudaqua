@@ -54,5 +54,5 @@ weight = 120 # Order that this section will appear.
 
 Link to the database: https://www.ncbi.nlm.nih.gov/
 
-{{% staticref "files/libro_2019.pdf" "newtab" %}}Click to read the article *"Microsudaqua:‌ ‌a‌ ‌georeferenced‌ ‌16S‌ ‌amplicon‌ ‌database‌ ‌of‌ ‌aquatic‌ ‌microbiome‌ ‌from‌ ‌
+Click to read the article {{% staticref "files/libro_2019.pdf" "newtab" %}}*"Microsudaqua:‌ ‌a‌ ‌georeferenced‌ ‌16S‌ ‌amplicon‌ ‌database‌ ‌of‌ ‌aquatic‌ ‌microbiome‌ ‌from‌ ‌
 South‌ ‌America‌"*{{% /staticref %}}
