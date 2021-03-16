@@ -42,7 +42,7 @@
   identifier = "groups"
 
 [[pt.menu.main]]
-  name = "Observatorio"
+  name = "Observatórios"
   url = "#observatory"
   weight = 20
   parent = "groups"

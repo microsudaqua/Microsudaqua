@@ -50,6 +50,7 @@ title = "Observatory u-SudAqua"
  css_class = ""
 +++
 #
+*Summary*
 
 • Conformation of a set of observatories (sites) where one of the main objectives is to evaluate how the anthropic impact and the climatic factors in a latitudinal gradient affect the dynamics of the microbial community at a continental level.
 

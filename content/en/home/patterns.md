@@ -51,7 +51,7 @@ title = "Patterns"
 +++
 #
 
-*Coordinadores*: Hugo Sarmento, Cecilia Alonso, Irina Izaguirre, M. Victoria Quiroga, Sebastian Metz, Paula Huber, Maria Eugenia Llames, Daniela Figueroa, Inessa Bagatini, Bruno Wanderley, Pedro Junger, Juan Pablo Niño García, Luciana Raggi 
+*Coordinators*: Hugo Sarmento, Cecilia Alonso, Irina Izaguirre, M. Victoria Quiroga, Sebastian Metz, Paula Huber, Maria Eugenia Llames, Daniela Figueroa, Inessa Bagatini, Bruno Wanderley, Pedro Junger, Juan Pablo Niño García, Luciana Raggi 
 
-*Resumen*
+*Summary*
 
