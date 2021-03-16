@@ -49,11 +49,9 @@ title = "Database"
  # CSS class.
  css_class = ""
 +++
-#
-#{{< figure library="true" src="sud.png" title=" " lightbox="false" >}}
+**"Microsudaqua:‌ ‌a‌ ‌georeferenced‌ ‌16S‌ ‌amplicon‌ ‌database‌ ‌of‌ ‌aquatic‌ ‌microbiome‌ ‌from‌ ‌
+South‌ ‌America‌"**{{% staticref "files/libro_2019.pdf" "newtab" %}}Click to read the article{{% /staticref %}}
 
-
-Click to read the article {{% staticref "files/libro_2019.pdf" "newtab" %}}*"Microsudaqua:‌ ‌a‌ ‌georeferenced‌ ‌16S‌ ‌amplicon‌ ‌database‌ ‌of‌ ‌aquatic‌ ‌microbiome‌ ‌from‌ ‌
-South‌ ‌America‌"*{{% /staticref %}}
+A short description will be put here soon
 
 Link to the database: https://www.ncbi.nlm.nih.gov/
