@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 120 # Order that this section will appear.
 
 
-# title = "MicroSudAqua"
+title = "Database"
 # subtitle = "Red Colaborativa en ecologia Microbiana de América Latina"
 
 [design]
@@ -50,9 +50,10 @@ weight = 120 # Order that this section will appear.
  css_class = ""
 +++
 #
-{{< figure library="true" src="sud.png" title=" " lightbox="false" >}}
+#{{< figure library="true" src="sud.png" title=" " lightbox="false" >}}
 
-Link to the database: https://www.ncbi.nlm.nih.gov/
 
 Click to read the article {{% staticref "files/libro_2019.pdf" "newtab" %}}*"Microsudaqua:‌ ‌a‌ ‌georeferenced‌ ‌16S‌ ‌amplicon‌ ‌database‌ ‌of‌ ‌aquatic‌ ‌microbiome‌ ‌from‌ ‌
 South‌ ‌America‌"*{{% /staticref %}}
+
+Link to the database: https://www.ncbi.nlm.nih.gov/
