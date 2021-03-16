@@ -49,8 +49,8 @@ title = "Database"
  # CSS class.
  css_class = ""
 +++
-*"Microsudaqua:‌ ‌a‌ ‌georeferenced‌ ‌16S‌ ‌amplicon‌ ‌database‌ ‌of‌ ‌aquatic‌ ‌microbiome‌ ‌from‌ ‌
-South‌ ‌America‌"* 
+/*"Microsudaqua:‌ ‌a‌ ‌georeferenced‌ ‌16S‌ ‌amplicon‌ ‌database‌ ‌of‌ ‌aquatic‌ ‌microbiome‌ ‌from‌ ‌
+South‌ ‌America‌"*/
 
 A short description will be put here soon
 
