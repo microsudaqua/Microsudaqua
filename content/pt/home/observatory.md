@@ -50,6 +50,7 @@ title = "Rede de Observatórios Microbianos Aquáticos Latinoamericanos"
  css_class = ""
 +++
 #
+*Resumo*
 
 Los ensambles microbianos tienen la potencialidad de ser indicadores robustos del estado ecológico y sanitario de los ecosistemas debido a su papel fundamental en los mismos, su sensibilidad y rápida respuesta a los cambios ambientales, y al advenimiento de nuevas metodologías para su estudio; sin embargo, poco ha variado su uso en las últimas décadas. En este Grupo de Trabajo nos propusimos la creación de una Red de Observatorios Microbianos de distintos cuerpos de agua de Latinoamérica, estableciendo sus objetivos, su funcionamiento, y la puesta en práctica a través de la selección de diferentes sitios y la producción de protocolos estandarizados. A continuación se presenta un resumen de lo discutido:
 
