@@ -52,7 +52,7 @@ title = "Database"
 **"Microsudaqua:‌ ‌a‌ ‌georeferenced‌ ‌16S‌ ‌amplicon‌ ‌database‌ ‌of‌ ‌aquatic‌ ‌microbiome‌ ‌from‌ ‌
 South‌ ‌America‌"**
 
-A short description will be put here soon
+*A short description will be put here soon*
 
 {{% staticref "files/libro_2019.pdf" "newtab" %}}Click to read the article{{% /staticref %}}
 
