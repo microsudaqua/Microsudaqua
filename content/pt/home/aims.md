@@ -50,79 +50,81 @@ title = "Nossos Objetivos"
 +++
 #
 
-**¿Cuáles son los principales objetivos de la Red?**
+**Quais são os principais objetivos da Rede?**
 
-- Fortalecer y expandir la interacción entre investigadores que trabajan en ecología acuática microbiana en Latinoamérica.
+- Fortalecer e expandir a interação entre investigadores que trabalham na área de ecologia microbiana aquática por toda a América Latina.
 
-- Desarrollar un sentido de comunidad científica regional.
+- Desenvolver um sentimento de comunidade científica regional.
 
-- Proveer un espacio fructífero para la colaboración a largo plazo en investigación y formación de recursos humanos en el área.
-
-
-**¿Quiénes integramos la Red?**
-
-Integramos la Red investigadores y estudiantes con interés explícito en participar activamente, con iniciativa para llevar adelante actividades dentro de la misma, compromiso, colegialidad académica (respeto intelectual, solidaridad, espíritu colaborativo) y reciprocidad.
+- Prover um espaço frutífero para a colaboração a longo prazo em investigação e formação de recursos humanos.
 
 
-**¿Qué valor agregado nos otorga la Red?**
+**Quem faz parte da Rede?**
 
-La Red otorga valor agregado a nuestro trabajo a partir de la construcción colectiva, en lo que se refiere a:
-
-- Formación: permite expandir nuestro repertorio técnico y conceptual. Responder a necesidades comunes de formación avanzada (ej. Bioinformática, Bioestadística, Ecología teórica, Ecología de paisaje, GIS, Teledetección) mediante la interacción, organización de cursos y talleres temáticos.
-
-- Comunidad: nos hace parte de un colectivo inclusivo en cuanto a género, temáticas y geografías que convive en un ambiente solidario y nos permite:
-
-o Multiplicar el impacto científico, ambiental y social de nuestra ciencia.
-
-o Resolver problemas que no podríamos abordar individualmente.
-
-o Generar proyectos de investigación colaborativa.
-
-o Desarrollar sinergias, discusiones abiertas, y solidaridad científica, con tolerancia ante la divergencia de ideas.
-
-- Financiación: apuntamos a que la pertenencia a la Red agregue credibilidad y robustez a demandas locales de financiamiento. También permite explorar programas de financiamiento colaborativo a gran escala, a los cuales los grupos individualmente no podrían aspirar.
+Investigadores e estudantes com interesse explícito em participar ativamente, com iniciativa para levar adiante atividades dentra da mesma, compromisso, colegialidade acadêmica (respeito intelectual, solidariedade, espirito colaborativo) e reciprocidade.
 
 
-**¿Con qué contamos al conformar esta Red?**
+**Que valor nos oferece a Rede?**
 
-- Con la capacidad y experiencia de sus integrantes en múltiples dimensiones.
+A Rede oferece valor agregado a nosso trabalho à partir da construção coletiva no que se refere a:
 
-- Con la posibilidad de aunar ejes ambientales a escala Latinoamericana.
+- *Formação:* permite expandir nosso repertório técnico e conceitual. Responder a necesidades comuns de formação avançada (ex.: Bioinformática, Bioestatística, Ecologia teórica, Ecologia de paisagem, GIS, Sensoriamento remoto) mediante a interação, organização de cursos e reuniões temáticas. 
 
-- Con la posibilidad de realizar abordajes desde diferentes comunidades (virus, arqueas, bacterias, protistas, algas, zooplancton) y aspectos (taxonomía, genómica, filogenia, funcionalidad, metabolismo).
+- *Comunidade:* nos torna parte de um grupo inclusivo em termos de gênero, temáticas e geografia que convive em um ambiente solidário e nos permite:
 
+o Multiplicar o impacto científico, ambiental e social de nossa ciência.
 
-**¿Cuáles son algunas de las acciones propuestas para la Red?**
+o Resolver problemas que não poderíamos abordar individualmente.
 
-- Estudiar problemas novedosos y emergentes a una escala temporal y espacial.
+o Gerar projetos de investigação colaborativa.
 
-- Generar un desarrollo conceptual de problemáticas con una perspectiva regional:
+o Desenvolver sinergias, discussões abertas e solidariedade científica, com tolerância diante da divergência de ideas.
 
-o Avanzar sobre marcos conceptuales del funcionamiento del mundo microbiano.
-
-o Desarrollar perspectivas regionales de problemas globales.
-
-- Combinar técnicas que generalmente se aplican separadamente.
-
-- Realizar estudios comparativos
-
-o Integrar datos existentes mediante meta-análisis de datos publicados, re-análisis de datos o datos inéditos.
-
-o Diseñar muestreos que respondan a preguntas específicas.
-
-o Desarrollar protocolos de muestreo, medida, procesamiento de muestras y tratamiento de datos que sean estándar y comunes a todos los grupos.
-
-o Centralizar el procesamiento de muestras, y asegurar el control de calidad
-
-- Generar observatorios
-
-**¿Cómo funciona la Red?**
-
-La Red posee una estructura no jerárquica, con iniciativas que surgen de la base de sus miembros (“bottom-up”) y que respetan el interés del conjunto. Un grupo de investigadores orienta y conduce sus actividades.
-
-Con una frecuencia bianual se realizan talleres presenciales con sede rotativa. En ellos se presenta el trabajo realizado hasta el momento y se toman las definiciones acerca de las actividades a realizar en el período entre los mismos.
+- *Financiamento:* nosso objetivo é fazer parte da Rede para adicionar credibilidade e robustez às demandas locais por financiamento. Também permite explorar programas de financiamento coletivo de grande escala aos quais os grupos individualmente não poderiam aspirar.
 
 
-**¿Cómo integrarse a la Red?**
+**Com o que contamos ao formar a Rede?**
 
-La red es un espacio abierto a todos los investigadores interesados que compartan sus premisas de trabajo. Para solicitar el ingreso a la misma, por favor contactarse a la casilla de correo **microsudaqua2017@gmail.com**.
+- Com a capacidade e experiência de seus integrantes em múltiplas dimensões.
+
+- Com a possibilidade de unir eixos ambientais em escala latino-americana.
+
+- Com a possibilidade de realizar abordagens à partir de diferentes comunidades (vírus, arqueas, bactérias, protistas, algas, zooplâncton) e aspectos (taxonomia, genômica, filogenia, funcionalidade, metabolismo).
+
+
+**Quais são algumas das ações propostas pela Rede?**
+
+- Estudar problemas novos e emergentes a uma escala temporal e espacial.
+
+- Gerar um desenvolvimento conceptual de problemáticas com uma perspectiva regional:
+
+o Avançar sobre marcos conceptuais do funcionament do mundo microbiano.
+
+o Desenvolver perspectivas regionais de problemas globais.
+
+- Combianar técnicas que geralmente se aplciam separaddamente.
+
+- Realizar estudos comparativos
+
+o Integrar dados existentes mediante meta-análisss de dados publicados, re-análises de dados o dados inéditos.
+
+o Delinear experimentos que respondam a perguntas específicas.
+
+o Desenvolver protocolos de amostragem, medida, processamento de amostras e tratamento de dados estandardizados e comuns a todos os grupos.
+
+o Centralizar o processamento de amostras e assegurar o controle de qualidade.
+
+- Gerar observatórios
+
+
+**Como funciona a Rede?**
+
+A Rede possui uma estrutura não hirerarquica, com iniciativas que surgem de seus membros (“bottom-up”) e que respeitam o interesse do grupo. um grupo de investigadores orienta e conduz as atividades.
+
+Com uma frequência bianual são realizadas reuniões presenciais com sede rotativa. Nestes são apresentados os trabalhos realizados até o momento e tomadas as decisões acerca das atividades a serem realizadas no período entre os mesmos.
+
+
+**Como integrar-se à Rede?**
+
+A Rede é um espaço aberto a todos os inestigadores interessados que compartilhem suas premissas de trabalho. Para solicitar o ingresso na Rede, por favor envie e-mail
+para **microsudaqua2017@gmail.com**.
