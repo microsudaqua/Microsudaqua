@@ -102,8 +102,9 @@
   
 [[main]]
   name = "Database"
-  url = "https://www.ncbi.nlm.nih.gov/"
-  weight = 70
+  url = "#database"
+  weight = 60
+  parent = "pub"
 
 ##############################################################
 #[[main]]
