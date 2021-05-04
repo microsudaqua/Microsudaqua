@@ -77,49 +77,54 @@ The Network gives added value to our work based on collective construction, in r
 	- Generate collaborative research projects.
 	- Develop synergies, open discussions, and scientific solidarity, with tolerance for the divergence of ideas.
 
+
 - Financing: we aim to membership in the Network add credibility and robustness to local demands for financing. It also allows exploration of large-scale collaborative funding programs, which individual groups could not aspire to.
 
 
-**¿Con qué contamos al conformar esta Red?**
+**What did we have when the network emerged?**
 
-- Con la capacidad y experiencia de sus integrantes en múltiples dimensiones.
+- Capacity and experience of the participant in multiple studies dimensions. 
 
-- Con la posibilidad de aunar ejes ambientales a escala Latinoamericana.
+- Possibility to study different environmental axes at Latin American scale.
 
-- Con la posibilidad de realizar abordajes desde diferentes comunidades (virus, arqueas, bacterias, protistas, algas, zooplancton) y aspectos (taxonomía, genómica, filogenia, funcionalidad, metabolismo).
+- The availability to study microorganisms from different communities (Virus, Archea, Bacteria, Protist, Algae, Zooplankton) and aspects (Taxonomy, genomics, phylogeny, functionality, metabolism).
 
 
-**¿Cuáles son algunas de las acciones propuestas para la Red?**
 
-- Estudiar problemas novedosos y emergentes a una escala temporal y espacial.
+**What are the proposed actions of the network?**
 
-- Generar un desarrollo conceptual de problemáticas con una perspectiva regional:
+- Study novel and emergent problems at a temporal and spatial scale.
 
-o Avanzar sobre marcos conceptuales del funcionamiento del mundo microbiano.
+- Generate a conceptual development of regional problematics.
 
-o Desarrollar perspectivas regionales de problemas globales.
+- Advance on different concepts of the microbial world functioning.
 
-- Combinar técnicas que generalmente se aplican separadamente.
+- Development regionals perspectives of global problems.
 
-- Realizar estudios comparativos
+- Combine techniques generally applied separately.
 
-o Integrar datos existentes mediante meta-análisis de datos publicados, re-análisis de datos o datos inéditos.
+- Perform comparative studies
 
-o Diseñar muestreos que respondan a preguntas específicas.
+- Integrate new and published data by meta-analysis studies.
 
-o Desarrollar protocolos de muestreo, medida, procesamiento de muestras y tratamiento de datos que sean estándar y comunes a todos los grupos.
+- Design field sampling to answer specific questions.
 
-o Centralizar el procesamiento de muestras, y asegurar el control de calidad
+- Development of standard protocols for sampling, measure, sample processing and data analysis for all the groups. 
+
+- Centralize the processing of the sample, and ensure the quality control
+
+- Create observatories
+
 
 - Generar observatorios
 
-**¿Cómo funciona la Red?**
+**How does the network work?**
 
-La Red posee una estructura no jerárquica, con iniciativas que surgen de la base de sus miembros (“bottom-up”) y que respetan el interés del conjunto. Un grupo de investigadores orienta y conduce sus actividades.
+The network is conformed by a non-hierarchical structure, with initiatives that merge from the member base (“bottom-up”) and respect the general interest of the Network. A group of researchers advise and conduct the activities.
 
-Con una frecuencia bianual se realizan talleres presenciales con sede rotativa. En ellos se presenta el trabajo realizado hasta el momento y se toman las definiciones acerca de las actividades a realizar en el período entre los mismos.
+Face-to-face meetings have placed every two years with a rotating headquarters. During this, the works are presented, and new decisions are made about the further activities to perform.
 
 
-**¿Cómo integrarse a la Red?**
+**How can I join the network?**
 
-La red es un espacio abierto a todos los investigadores interesados que compartan sus premisas de trabajo. Para solicitar el ingreso a la misma, por favor contactarse a la casilla de correo **microsudaqua2017@gmail.com**.
+The network is an open space for every researcher who is interested to share his work. To request entry, please contact the following email **microsudaqua2017@gmail.com**.

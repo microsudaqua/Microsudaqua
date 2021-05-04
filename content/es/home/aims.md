@@ -72,13 +72,14 @@ La Red otorga valor agregado a nuestro trabajo a partir de la construcción cole
 
 - Comunidad: nos hace parte de un colectivo inclusivo en cuanto a género, temáticas y geografías que convive en un ambiente solidario y nos permite:
 
-o Multiplicar el impacto científico, ambiental y social de nuestra ciencia.
+	- Multiplicar el impacto científico, ambiental y social de nuestra ciencia.
 
-o Resolver problemas que no podríamos abordar individualmente.
+	- Resolver problemas que no podríamos abordar individualmente.
 
-o Generar proyectos de investigación colaborativa.
+	- Generar proyectos de investigación colaborativa.
 
-o Desarrollar sinergias, discusiones abiertas, y solidaridad científica, con tolerancia ante la divergencia de ideas.
+	- Desarrollar sinergias, discusiones abiertas, y solidaridad científica, con tolerancia ante la divergencia de ideas.
+
 
 - Financiación: apuntamos a que la pertenencia a la Red agregue credibilidad y robustez a demandas locales de financiamiento. También permite explorar programas de financiamiento colaborativo a gran escala, a los cuales los grupos individualmente no podrían aspirar.
 
@@ -98,21 +99,21 @@ o Desarrollar sinergias, discusiones abiertas, y solidaridad científica, con to
 
 - Generar un desarrollo conceptual de problemáticas con una perspectiva regional:
 
-o Avanzar sobre marcos conceptuales del funcionamiento del mundo microbiano.
+- Avanzar sobre marcos conceptuales del funcionamiento del mundo microbiano.
 
-o Desarrollar perspectivas regionales de problemas globales.
+- Desarrollar perspectivas regionales de problemas globales.
 
 - Combinar técnicas que generalmente se aplican separadamente.
 
 - Realizar estudios comparativos
 
-o Integrar datos existentes mediante meta-análisis de datos publicados, re-análisis de datos o datos inéditos.
+- Integrar datos existentes mediante meta-análisis de datos publicados, re-análisis de datos o datos inéditos.
 
-o Diseñar muestreos que respondan a preguntas específicas.
+- Diseñar muestreos que respondan a preguntas específicas.
 
-o Desarrollar protocolos de muestreo, medida, procesamiento de muestras y tratamiento de datos que sean estándar y comunes a todos los grupos.
+- Desarrollar protocolos de muestreo, medida, procesamiento de muestras y tratamiento de datos que sean estándar y comunes a todos los grupos.
 
-o Centralizar el procesamiento de muestras, y asegurar el control de calidad
+- Centralizar el procesamiento de muestras, y asegurar el control de calidad
 
 - Generar observatorios
 

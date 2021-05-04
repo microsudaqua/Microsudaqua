@@ -72,13 +72,13 @@ A Rede oferece valor agregado a nosso trabalho à partir da construção coletiv
 
 - *Comunidade:* nos torna parte de um grupo inclusivo em termos de gênero, temáticas e geografia que convive em um ambiente solidário e nos permite:
 
-o Multiplicar o impacto científico, ambiental e social de nossa ciência.
+	- Multiplicar o impacto científico, ambiental e social de nossa ciência.
 
-o Resolver problemas que não poderíamos abordar individualmente.
+	- Resolver problemas que não poderíamos abordar individualmente.
 
-o Gerar projetos de investigação colaborativa.
+	- Gerar projetos de investigação colaborativa.
 
-o Desenvolver sinergias, discussões abertas e solidariedade científica, com tolerância diante da divergência de ideas.
+	- Desenvolver sinergias, discussões abertas e solidariedade científica, com tolerância diante da divergência de ideas.
 
 - *Financiamento:* nosso objetivo é fazer parte da Rede para adicionar credibilidade e robustez às demandas locais por financiamento. Também permite explorar programas de financiamento coletivo de grande escala aos quais os grupos individualmente não poderiam aspirar.
 
@@ -98,21 +98,21 @@ o Desenvolver sinergias, discussões abertas e solidariedade científica, com to
 
 - Gerar um desenvolvimento conceptual de problemáticas com uma perspectiva regional:
 
-o Avançar sobre marcos conceptuais do funcionament do mundo microbiano.
+- Avançar sobre marcos conceptuais do funcionament do mundo microbiano.
 
-o Desenvolver perspectivas regionais de problemas globais.
+- Desenvolver perspectivas regionais de problemas globais.
 
 - Combianar técnicas que geralmente se aplciam separaddamente.
 
 - Realizar estudos comparativos
 
-o Integrar dados existentes mediante meta-análisss de dados publicados, re-análises de dados o dados inéditos.
+- Integrar dados existentes mediante meta-análisss de dados publicados, re-análises de dados o dados inéditos.
 
-o Delinear experimentos que respondam a perguntas específicas.
+- Delinear experimentos que respondam a perguntas específicas.
 
-o Desenvolver protocolos de amostragem, medida, processamento de amostras e tratamento de dados estandardizados e comuns a todos os grupos.
+- Desenvolver protocolos de amostragem, medida, processamento de amostras e tratamento de dados estandardizados e comuns a todos os grupos.
 
-o Centralizar o processamento de amostras e assegurar o controle de qualidade.
+- Centralizar o processamento de amostras e assegurar o controle de qualidade.
 
 - Gerar observatórios
 
