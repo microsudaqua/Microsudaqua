@@ -52,6 +52,7 @@ weight = 10 # Order that this section will appear.
 #
 {{< figure library="true" src="sud.png" title=" " lightbox="false" >}}
 
-La Red µSudAqua nuclea a investigadores y estudiantes que trabajan en ecología acuática microbiana de América Latina. Con la conformación de esta Red buscamos aunar esfuerzos, potenciar el trabajo colectivo y consolidar un espacio colaborativo para el impulso del área en la región.
+The MicroSudAqua (µSudAqua) network gathers together researchers and students working on aquatic microbial ecology in Latin America. With the (network´s formation?) formation of this network we seek to combine efforts, promote collective work and consolidate a collaborative space for the promotion of this area in the region.
 
-Tenemos como premisa explotar los insumos que poseemos para explorar al máximo problemas que exceden a lo que podemos desarrollar individualmente. Aspiramos a fomentar la inclusión en todas sus dimensiones, y generar una convivencia donde prime la camaradería y el espíritu de colaboración, desarrollar un sentimiento de pertenencia, compromiso y orgullo por el trabajo colectivo.
+Our premise is to exploit the resources we already have and, in conjunction, explore and fulfill challenges that exceed what we can develop individually. We aim to promote inclusion in all its dimensions, and generate a coexistence where team spirit and collaboration prevail, in addition, develop a sense of belonging, commitment and pride for collective work.
+
