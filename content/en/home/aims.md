@@ -50,37 +50,34 @@ title = "Our Aims"
 +++
 #
 
-**¿Cuáles son los principales objetivos de la Red?**
+**What are the main objectives of the network?**
 
-- Fortalecer y expandir la interacción entre investigadores que trabajan en ecología acuática microbiana en Latinoamérica.
+- Consolidate and expand the interaction among researchers working on microbial aquatic ecology in Latin America.
 
-- Desarrollar un sentido de comunidad científica regional.
+- Develop a regional sense of  scientific community.
 
-- Proveer un espacio fructífero para la colaboración a largo plazo en investigación y formación de recursos humanos en el área.
-
-
-**¿Quiénes integramos la Red?**
-
-Integramos la Red investigadores y estudiantes con interés explícito en participar activamente, con iniciativa para llevar adelante actividades dentro de la misma, compromiso, colegialidad académica (respeto intelectual, solidaridad, espíritu colaborativo) y reciprocidad.
+- Provide a profitable space for long-term collaboration in research and training of human resources in the area.
 
 
-**¿Qué valor agregado nos otorga la Red?**
+**Who is part of the Network?**
 
-La Red otorga valor agregado a nuestro trabajo a partir de la construcción colectiva, en lo que se refiere a:
+This Network comprises researchers and students with an explicit interest in participating actively, with initiative to carry out activities within it, commitment, academic collegiality (intellectual respect, solidarity, collaborative spirit) and reciprocity.
 
-- Formación: permite expandir nuestro repertorio técnico y conceptual. Responder a necesidades comunes de formación avanzada (ej. Bioinformática, Bioestadística, Ecología teórica, Ecología de paisaje, GIS, Teledetección) mediante la interacción, organización de cursos y talleres temáticos.
 
-- Comunidad: nos hace parte de un colectivo inclusivo en cuanto a género, temáticas y geografías que convive en un ambiente solidario y nos permite:
+**What added value does the Network give us?**
 
-o Multiplicar el impacto científico, ambiental y social de nuestra ciencia.
+The Network gives added value to our work based on collective construction, in relation to:
 
-o Resolver problemas que no podríamos abordar individualmente.
+- Training: allows us to expand our technical and conceptual skills. Respond to common needs for advanced training (eg Bioinformatics, Biostatistics, Theoretical Ecology, Landscape Ecology, GIS, Remote Sensing) through interaction, organization of courses and thematic workshops.
 
-o Generar proyectos de investigación colaborativa.
+- Community: makes us part of an inclusive group in terms of gender, themes and geographies that coexists in a supportive environment and allows us to:
 
-o Desarrollar sinergias, discusiones abiertas, y solidaridad científica, con tolerancia ante la divergencia de ideas.
+	- Multiply the scientific, environmental and social impact of our science work.
+	- Resolve problems that we could not address individually.
+	- Generate collaborative research projects.
+	- Develop synergies, open discussions, and scientific solidarity, with tolerance for the divergence of ideas.
 
-- Financiación: apuntamos a que la pertenencia a la Red agregue credibilidad y robustez a demandas locales de financiamiento. También permite explorar programas de financiamiento colaborativo a gran escala, a los cuales los grupos individualmente no podrían aspirar.
+- Financing: we aim to membership in the Network add credibility and robustness to local demands for financing. It also allows exploration of large-scale collaborative funding programs, which individual groups could not aspire to.
 
 
 **¿Con qué contamos al conformar esta Red?**
