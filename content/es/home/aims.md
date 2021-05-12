@@ -52,9 +52,9 @@ title = "Nuestras Metas"
 
 **¿Cuáles son los principales objetivos de la Red?**
 
-- Fortalecer y expandir la interacción entre investigadores que trabajan en ecología acuática microbiana en Latinoamérica.
+- Fortalecer y expandir la interacción entre investigadores que trabajan en ecología acuática microbiana en Latinoamérica,
 
-- Desarrollar un sentido de comunidad científica regional.
+- Desarrollar un sentido de comunidad científica regional,
 
 - Proveer un espacio fructífero para la colaboración a largo plazo en investigación y formación de recursos humanos en el área.
 
@@ -72,11 +72,11 @@ La Red otorga valor agregado a nuestro trabajo a partir de la construcción cole
 
 - Comunidad: nos hace parte de un colectivo inclusivo en cuanto a género, temáticas y geografías que convive en un ambiente solidario y nos permite:
 
-	- Multiplicar el impacto científico, ambiental y social de nuestra ciencia.
+	- Multiplicar el impacto científico, ambiental y social de nuestra ciencia,
 
-	- Resolver problemas que no podríamos abordar individualmente.
+	- Resolver problemas que no podríamos abordar individualmente,
 
-	- Generar proyectos de investigación colaborativa.
+	- Generar proyectos de investigación colaborativa,
 
 	- Desarrollar sinergias, discusiones abiertas, y solidaridad científica, con tolerancia ante la divergencia de ideas.
 
@@ -86,36 +86,37 @@ La Red otorga valor agregado a nuestro trabajo a partir de la construcción cole
 
 **¿Con qué contamos al conformar esta Red?**
 
-- Con la capacidad y experiencia de sus integrantes en múltiples dimensiones.
+- Con la capacidad y experiencia de sus integrantes en múltiples dimensiones,
 
-- Con la posibilidad de aunar ejes ambientales a escala Latinoamericana.
+- Con la posibilidad de aunar ejes ambientales a escala Latinoamericana,
 
 - Con la posibilidad de realizar abordajes desde diferentes comunidades (virus, arqueas, bacterias, protistas, algas, zooplancton) y aspectos (taxonomía, genómica, filogenia, funcionalidad, metabolismo).
 
 
 **¿Cuáles son algunas de las acciones propuestas para la Red?**
 
-- Estudiar problemas novedosos y emergentes a una escala temporal y espacial.
+- Estudiar problemas novedosos y emergentes a una escala temporal y espacial,
 
-- Generar un desarrollo conceptual de problemáticas con una perspectiva regional:
+- Generar un desarrollo conceptual de problemáticas con una perspectiva regional,
 
-- Avanzar sobre marcos conceptuales del funcionamiento del mundo microbiano.
+- Avanzar sobre marcos conceptuales del funcionamiento del mundo microbiano,
 
-- Desarrollar perspectivas regionales de problemas globales.
+- Desarrollar perspectivas regionales de problemas globales,
 
-- Combinar técnicas que generalmente se aplican separadamente.
+- Combinar técnicas que generalmente se aplican separadamente,
 
-- Realizar estudios comparativos
+- Realizar estudios comparativos,
 
-- Integrar datos existentes mediante meta-análisis de datos publicados, re-análisis de datos o datos inéditos.
+- Integrar datos existentes mediante meta-análisis de datos publicados, re-análisis de datos o datos inéditos,
 
-- Diseñar muestreos que respondan a preguntas específicas.
+- Diseñar muestreos que respondan a preguntas específicas,
 
-- Desarrollar protocolos de muestreo, medida, procesamiento de muestras y tratamiento de datos que sean estándar y comunes a todos los grupos.
+- Desarrollar protocolos de muestreo, medida, procesamiento de muestras y tratamiento de datos que sean estándar y comunes a todos los grupos,
 
-- Centralizar el procesamiento de muestras, y asegurar el control de calidad
+- Centralizar el procesamiento de muestras, y asegurar el control de calidad,
 
-- Generar observatorios
+- Generar y mantener observatorios.
+
 
 **¿Cómo funciona la Red?**
 
