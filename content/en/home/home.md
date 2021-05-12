@@ -52,7 +52,7 @@ weight = 10 # Order that this section will appear.
 #
 {{< figure library="true" src="sud.png" title=" " lightbox="false" >}}
 
-The MicroSudAqua (µSudAqua) network gathers together researchers and students working on aquatic microbial ecology in Latin America. With the (network´s formation?) formation of this network we seek to combine efforts, promote collective work and consolidate a collaborative space for the promotion of this area in the region.
+The MicroSudAqua (µSudAqua) network gathers researchers and students working on aquatic microbial ecology in Latin America. We seek to combine efforts to promote collective work and consolidate a collaborative space for the promotion of aquatic microbial ecology in the region.
 
-Our premise is to exploit the resources we already have and, in conjunction, explore and fulfill challenges that exceed what we can develop individually. We aim to promote inclusion in all its dimensions, and generate a coexistence where team spirit and collaboration prevail, in addition, develop a sense of belonging, commitment and pride for collective work.
+Our premise is to exploit the resources available and, to explore new challenges that surpass what we can develop individually. We aim to promote inclusion in all dimensions, and to generate a team spirit where collaboration prevail, to develop a sense of belonging, commitment and pride for collective work.
 
