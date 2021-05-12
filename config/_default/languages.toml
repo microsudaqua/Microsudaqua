@@ -11,7 +11,7 @@
 [pt]
   languageCode = "pt-br"
   contentDir = "content/pt"
-  title = "MicroSudAqua"
+  title = "µSudAqua"
   [pt.params]
     description = "Rede Colaborativa em Ecologia Microbiana Aquática da América Latina"
  # [[pt.menu.main]]
@@ -126,7 +126,7 @@
 [en]
   languageCode = "en-us"
   contentDir = "content/en"
-  title = "MicroSudAqua"
+  title = "µSudAqua"
   [en.params]
     description = "Latin American Collaborative Network in Aquatic Microbial Ecology"
 #[[en.menu.main]]
