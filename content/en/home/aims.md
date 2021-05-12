@@ -52,11 +52,11 @@ title = "Our Aims"
 
 **What are the main objectives of the network?**
 
-- Consolidate and expand the interaction among researchers working on microbial aquatic ecology in Latin America.
+- To consolidate and expand the interaction among researchers working on aquatic microbial ecology in Latin America,
 
-- Develop a regional sense of  scientific community.
+- To develop a regional sense of  scientific community,
 
-- Provide a profitable space for long-term collaboration in research and training of human resources in the area.
+- To provide a profitable space for long-term collaboration in research and training of human resources in aquatic microbial ecology.
 
 
 **Who is part of the Network?**
@@ -66,15 +66,15 @@ This Network comprises researchers and students with an explicit interest in par
 
 **What added value does the Network give us?**
 
-The Network gives added value to our work based on collective construction, in relation to:
+The Network provides added value to our work based on collective construction, in:
 
-- Training: allows us to expand our technical and conceptual skills. Respond to common needs for advanced training (eg Bioinformatics, Biostatistics, Theoretical Ecology, Landscape Ecology, GIS, Remote Sensing) through interaction, organization of courses and thematic workshops.
+- Training: allows us to expand our technical and conceptual skills. Respond to common needs for advanced training (eg Bioinformatics, Biostatistics, Theoretical Ecology, Landscape Ecology, GIS, Remote Sensing) through interaction, courses and thematic workshops.
 
 - Community: makes us part of an inclusive group in terms of gender, themes and geographies that coexists in a supportive environment and allows us to:
 
-	- Multiply the scientific, environmental and social impact of our science work.
-	- Resolve problems that we could not address individually.
-	- Generate collaborative research projects.
+	- Multiply the scientific, environmental and social impact of our work,
+	- Solve problems that we could not address individually,
+	- Generate collaborative research projects,
 	- Develop synergies, open discussions, and scientific solidarity, with tolerance for the divergence of ideas.
 
 
@@ -83,40 +83,38 @@ The Network gives added value to our work based on collective construction, in r
 
 **What did we have when the network emerged?**
 
-- Capacity and experience of the participant in multiple studies dimensions. 
+- Capacity and experience of the participant in multiple studies dimensions, 
 
-- Possibility to study different environmental axes at Latin American scale.
+- Possibility to study different environmental axes at Latin American scale,
 
-- The availability to study microorganisms from different communities (Virus, Archea, Bacteria, Protist, Algae, Zooplankton) and aspects (Taxonomy, genomics, phylogeny, functionality, metabolism).
+- The availability to study microorganisms from different communities (virus, archea, bacteria, protist, algae, zooplankton) and aspects (Taxonomy, genomics, phylogeny, functionality, metabolism).
 
 
 
 **What are the proposed actions of the network?**
 
-- Study novel and emergent problems at a temporal and spatial scale.
+- To study new and emergent problems at temporal and spatial scale,
 
-- Generate a conceptual development of regional problematics.
+- To generate conceptual development of regional problematics,
 
-- Advance on different concepts of the microbial world functioning.
+- To advance on different concepts of the microbial world functioning,
 
-- Development regionals perspectives of global problems.
+- Development regional perspectives of global problems,
 
-- Combine techniques generally applied separately.
+- To combine techniques generally applied separately,
 
-- Perform comparative studies
+- To perform comparative studies,
 
-- Integrate new and published data by meta-analysis studies.
+- To integrate new and published data by meta-analysis studies,
 
-- Design field sampling to answer specific questions.
+- Design field sampling to answer specific questions,
 
-- Development of standard protocols for sampling, measure, sample processing and data analysis for all the groups. 
+- Development of standard protocols for sampling, measure, sample processing and data analysis for all the groups, 
 
-- Centralize the processing of the sample, and ensure the quality control
+- Centralize sample processing, and ensure quality control,
 
-- Create observatories
+- To create and to maintain observatories.
 
-
-- Generar observatorios
 
 **How does the network work?**
 
@@ -127,4 +125,4 @@ Face-to-face meetings have placed every two years with a rotating headquarters. 
 
 **How can I join the network?**
 
-The network is an open space for every researcher who is interested to share his work. To request entry, please contact the following email **microsudaqua2017@gmail.com**.
+The network is an open space for every researcher who is interested to share his work. To join us, please contact **microsudaqua2017@gmail.com**.
