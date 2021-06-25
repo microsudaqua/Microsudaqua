@@ -53,9 +53,7 @@ title = "Our Aims"
 **What are the main objectives of the network?**
 
 - To consolidate and expand the interaction among researchers working on aquatic microbial ecology in Latin America,
-
 - To develop a regional sense of  scientific community,
-
 - To provide a profitable space for long-term collaboration in research and training of human resources in aquatic microbial ecology.
 
 

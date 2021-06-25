@@ -53,9 +53,7 @@ title = "Nossos Objetivos"
 **Quais são os principais objetivos da Rede?**
 
 - Fortalecer e expandir a interação entre investigadores que trabalham na área de ecologia microbiana aquática por toda a América Latina,
-
 - Desenvolver um sentimento de comunidade científica regional,
-
 - Prover um espaço frutífero para a colaboração a longo prazo em investigação e formação de recursos humanos.
 
 
@@ -73,11 +71,8 @@ A Rede oferece valor agregado a nosso trabalho à partir da construção coletiv
 - *Comunidade:* nos torna parte de um grupo inclusivo em termos de gênero, temáticas e geografia que convive em um ambiente solidário e nos permite:
 
 	- Multiplicar o impacto científico, ambiental e social de nossa ciência,
-
 	- Resolver problemas que não poderíamos abordar individualmente,
-
 	- Gerar projetos de investigação colaborativa,
-
 	- Desenvolver sinergias, discussões abertas e solidariedade científica, com tolerância diante da divergência de ideas.
 
 - *Financiamento:* nosso objetivo é fazer parte da Rede para adicionar credibilidade e robustez às demandas locais por financiamento. Também permite explorar programas de financiamento coletivo de grande escala aos quais os grupos individualmente não poderiam aspirar.
@@ -86,34 +81,22 @@ A Rede oferece valor agregado a nosso trabalho à partir da construção coletiv
 **Com o que contamos ao formar a Rede?**
 
 - Com a capacidade e experiência de seus integrantes em múltiplas dimensões,
-
 - Com a possibilidade de unir eixos ambientais em escala latino-americana,
-
 - Com a possibilidade de realizar abordagens à partir de diferentes comunidades (vírus, arqueas, bactérias, protistas, algas, zooplâncton) e aspectos (taxonomia, genômica, filogenia, funcionalidade, metabolismo),
 
 
 **Quais são algumas das ações propostas pela Rede?**
 
 - Estudar problemas novos e emergentes a uma escala temporal e espacial,
-
 - Gerar um desenvolvimento conceptual de problemáticas com uma perspectiva regional,
-
 - Avançar sobre marcos conceptuais do funcionament do mundo microbiano,
-
 - Desenvolver perspectivas regionais de problemas globais,
-
 - Combianar técnicas que geralmente se aplciam separaddamente,
-
 - Realizar estudos comparativos,
-
 - Integrar dados existentes mediante meta-análisss de dados publicados, re-análises de dados o dados inéditos,
-
 - Delinear experimentos que respondam a perguntas específicas,
-
 - Desenvolver protocolos de amostragem, medida, processamento de amostras e tratamento de dados estandardizados e comuns a todos os grupos,
-
 - Centralizar o processamento de amostras e assegurar o controle de qualidade,
-
 - Gerar e manter observatórios.
 
 
