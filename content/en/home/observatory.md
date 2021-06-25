@@ -8,8 +8,8 @@ active = true  # Activate this widget? true/false
 weight = 30 # Order that this section will appear.
 
 
-title = "Observatory u-SudAqua"
-# subtitle = "(basados en rasgos suaves y fáciles de medir)"
+title = "Microbial observatory network  in Latin America"
+# subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -51,7 +51,7 @@ title = "Observatory u-SudAqua"
 +++
 #
 
-**Microbial observatory network  in Latin America**
+
 *Summary*
 
 Microbial observatories are valuable tools that have been set around the world to facilitate the access of systematized information from microbial communities. However, few long-term observatories can be found in Latin America, mainly owing to difficulties in maintaining the necessary infrastructure for this type of activity. In this sense, our goal is to create a set of observatories to (I) evaluate how the anthropic impact and the climatic factors in a latitudinal gradient affect the dynamics of the microbial community at a continental scale; (II) standardize the collection methods to make the data from each site comparable which the others; (III) create a web page where the temporal changes of the microbial dynamics can be shown through a non-scientific approach (i.e. interactive maps, simple specific products), aimed at the population in general, the educational community and social organizations. Samplings of the microbial observatories contemplate at least a bimonthly frequency in the surface layer of the water column (euphotic zone) and the measurements of simple parameters to facilitate a long-time series data. So far, thirteen different observatory sites have been established to start this network through Latin America. In the selection of each site, the accessibility of them was also taken into account to achieve a continuity on the samplings. These sites will be reevaluated based on the difficulties encountered during the consolidation phase. 
