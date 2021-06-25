@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 55 # Order that this section will appear.
 
 
-title = "Patterns"
+title = "Patterns of microbial diversity"
 # subtitle = " "
 
 [design]
@@ -51,7 +51,6 @@ title = "Patterns"
 +++
 #
 
-*Coordinators*: Hugo Sarmento, Cecilia Alonso, Irina Izaguirre, M. Victoria Quiroga, Sebastian Metz, Paula Huber, Maria Eugenia Llames, Daniela Figueroa, Inessa Bagatini, Bruno Wanderley, Pedro Junger, Juan Pablo Niño García, Luciana Raggi 
-
 *Summary*
 
+We propose a collaboration among  South American researchers on microbial ecology to promote the generation and compilation of a large microbiome database from aquatic ecosystems across South-America. We will try to elucidate large-scale patterns of South American aquatic microbial life, which are key players of all biogeochemical cycles, and to reconstruct the bacterial South American biogeography. We will compile, analyze and consolidate the largest geo-referenced freshwater database of aquatic microbial diversity: the µSudAqua database that covers several South American biomes. The curated georeferenced database will allow to test hypotheses from a metacommunity perspective, such as microbial biogeography, community ecology processes, keystone species and interaction networks. 
