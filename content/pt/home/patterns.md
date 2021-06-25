@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 55 # Order that this section will appear.
 
 
-title = "Padrões"
+title = "Padrões da diversidade microbiana"
 subtitle = " "
 
 [design]
@@ -50,7 +50,7 @@ subtitle = " "
  css_class = ""
 +++
 #
-*Coordenadores*: Hugo Sarmento, Cecilia Alonso, Irina Izaguirre, M. Victoria Quiroga, Sebastian Metz, Paula Huber, Maria Eugenia Llames, Daniela Figueroa, Inessa Bagatini, Bruno Wanderley, Pedro Junger, Juan Pablo Niño García, Luciana Raggi 
 
 *Resumo*
 
+Nós propomos uma colaboração entre pesquisadores sul-americanos em ecologia microbiana para promover a geração e compilação de uma larga base de dados microbiana de ecossistemas aquáticos englobando a América do Sul. Nós vamos tentar elucidar padrões de larga escala da vida microbiana sul-americana, organismos-chave para todos os ciclos biogeoquímicos, e reconstruir a biogeografia bacteriana da região. Nós vamos compilar, analisar e consolidar a maior base de dados geo-referenciada  a englobar a diversidade microbiana de água doce: a base de dados µSudAqua, que cobre a maioria dos biomas sul-americanos. A base de dados curada vai permitir testar hipóteses de uma perspectiva de metacomunidades, como biogeografia microbiana, processos significativos à ecologia de comunidades, identificação de espécies-chave e redes de interação.
