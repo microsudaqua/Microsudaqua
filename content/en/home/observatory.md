@@ -50,47 +50,8 @@ title = "Observatory u-SudAqua"
  css_class = ""
 +++
 #
+
+**Patterns of microbial diversity**
 *Summary*
 
-• Conformation of a set of observatories (sites) where one of the main objectives is to evaluate how the anthropic impact and the climatic factors in a latitudinal gradient affect the dynamics of the microbial community at a continental level.
-
- • Easy parameters to measure and in long time series with an established periodicity will be evaluated. It will work with standardized protocols.
-
- • The anthropic impact will be estimated through integrative indicators that encompass the general human impact. The conformation of the indicator will be one of the tasks that the group has to define.
-
- • At the same time, it is proposed to make the observatory visible through a web platform where, in a visual way, the temporal changes of the microbial dynamics can be shown in a, from different places, through a non-scientific approach (ie, not the raw data, but simple specific products), aimed at the population in general, the educational community, social organizations, etc.
-
- • Different observatory sites were established to start this network. We look for sites that are easily accessible and with ideas of a long-term commitment to ensure the continuity of the observatory. These sites will be reevaluated based on the facilities / difficulties encountered until reaching a consolidation phase. We invite everyone to propose other sites that allow extending the network of observatories.
-
- • A bimonthly (although preferably monthly) sampling was established as the minimum frequency guaranteed in all observatory sites. It was established that the samplings will be tomorrow, during the second fortnight of the odd month, in the photic layer.
-
- • Variables / parameters to be considered were established, taking into account a study of the cytometric diversity as an initial diversity estimator, and the measurement of variables that allow to consider the factors that temporarily modulate it, and including the sampling of other factors in case of wanting to delve into the variations found (phyto and environmental DNA). The parameters / variables are:
-
-
-
-1. Cytometry (virus, bacteria, Pcy, Peuk, nanophyte)
-
-2. Chlorophyll a
-
-3. Environmental DNA
-
-4. Quantitative phytoplankton
-
-5. Nutrients (PT and NT)
-
-6. pH, temp, conduct, OD, secchi, turbidity (photometry or total solids), depth
-
-7. Dissolved organic matter (spectrophotometry)
-
- 
-
- • Stages of the project with division of tasks to be conformed the observatory (assignment of tasks to be discussed):
-
- ◦ Internal communication form (arm google groups, coordinate periodic meetings (define frequency and modality)
-
- ◦ Standardized protocols
-
- ◦ Synthesis of characteristics / background of each site-observatory
-
- ◦ web platform integrated in the u-Sudaqua network (compilation, assembly and dissemination of data)
-
+We propose a collaboration among  South American researchers on microbial ecology to promote the generation and compilation of a large microbiome database from aquatic ecosystems across South-America. We will try to elucidate large-scale patterns of South American aquatic microbial life, which are key players of all biogeochemical cycles, and to reconstruct the bacterial South American biogeography. We will compile, analyze and consolidate the largest geo-referenced freshwater database of aquatic microbial diversity: the µSudAqua database that covers several South American biomes. The curated georeferenced database will allow to test hypotheses from a metacommunity perspective, such as microbial biogeography, community ecology processes, keystone species and interaction networks.
