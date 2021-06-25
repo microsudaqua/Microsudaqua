@@ -75,6 +75,7 @@ A Rede oferece valor agregado a nosso trabalho à partir da construção coletiv
 	- Gerar projetos de investigação colaborativa,
 	- Desenvolver sinergias, discussões abertas e solidariedade científica, com tolerância diante da divergência de ideas.
 
+
 - *Financiamento:* nosso objetivo é fazer parte da Rede para adicionar credibilidade e robustez às demandas locais por financiamento. Também permite explorar programas de financiamento coletivo de grande escala aos quais os grupos individualmente não poderiam aspirar.
 
 

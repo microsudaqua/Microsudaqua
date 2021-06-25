@@ -75,6 +75,7 @@ La Red otorga valor agregado a nuestro trabajo a partir de la construcción cole
 	- Generar proyectos de investigación colaborativa,
 	- Desarrollar sinergias, discusiones abiertas, y solidaridad científica, con tolerancia ante la divergencia de ideas.
 
+
 - Financiación: apuntamos a que la pertenencia a la Red agregue credibilidad y robustez a demandas locales de financiamiento. También permite explorar programas de financiamiento colaborativo a gran escala, a los cuales los grupos individualmente no podrían aspirar.
 
 
