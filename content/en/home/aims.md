@@ -69,14 +69,11 @@ This Network comprises researchers and students with an explicit interest in par
 The Network provides added value to our work based on collective construction, in:
 
 - Training: allows us to expand our technical and conceptual skills. Respond to common needs for advanced training (eg Bioinformatics, Biostatistics, Theoretical Ecology, Landscape Ecology, GIS, Remote Sensing) through interaction, courses and thematic workshops.
-
 - Community: makes us part of an inclusive group in terms of gender, themes and geographies that coexists in a supportive environment and allows us to:
-
 	- Multiply the scientific, environmental and social impact of our work,
 	- Solve problems that we could not address individually,
 	- Generate collaborative research projects,
 	- Develop synergies, open discussions, and scientific solidarity, with tolerance for the divergence of ideas.
-
 
 - Financing: we aim to membership in the Network add credibility and robustness to local demands for financing. It also allows exploration of large-scale collaborative funding programs, which individual groups could not aspire to.
 
@@ -84,35 +81,22 @@ The Network provides added value to our work based on collective construction, i
 **What did we have when the network emerged?**
 
 - Capacity and experience of the participant in multiple studies dimensions, 
-
 - Possibility to study different environmental axes at Latin American scale,
-
 - The availability to study microorganisms from different communities (virus, archea, bacteria, protist, algae, zooplankton) and aspects (Taxonomy, genomics, phylogeny, functionality, metabolism).
-
 
 
 **What are the proposed actions of the network?**
 
 - To study new and emergent problems at temporal and spatial scale,
-
 - To generate conceptual development of regional problematics,
-
 - To advance on different concepts of the microbial world functioning,
-
 - Development regional perspectives of global problems,
-
 - To combine techniques generally applied separately,
-
 - To perform comparative studies,
-
 - To integrate new and published data by meta-analysis studies,
-
 - Design field sampling to answer specific questions,
-
 - Development of standard protocols for sampling, measure, sample processing and data analysis for all the groups, 
-
 - Centralize sample processing, and ensure quality control,
-
 - To create and to maintain observatories.
 
 
