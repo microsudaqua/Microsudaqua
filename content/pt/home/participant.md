@@ -57,6 +57,8 @@ title = "Participantes"
 
 *Andrea Malits* (Laboratorio de Ecología Acuática Microbiana, Centro Austral de Investigaciones Científicas, CONICET, Ushuaia)
 
+*Beatriz Modenutti* (Laboratorio de Limnología. Instituto de Investigaciones en Biodiversidad y Medioambiente (CONICET - Universidad Nacional del Comahue, Bariloche)
+
 *Carmen Alejandra Sabio y García* (Laboratorio de Limnología. Departamento de Ecología Genética y Evolución, FCEyN, UBA. IEGEBA-UBA)
 
 *Inés O'Farrell* (Ecología del fitoplancton. Laboratorio de Limnología, Departamento de Ecología, Genética y Evolución, Facultad de Ciencias Exactas y Naturales, IEGEBA, Universidad de Buenos Aires, CONICET)
@@ -66,6 +68,8 @@ title = "Participantes"
 *Lilen Yema* (Laboratorio Limnología, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires)
 
 *Magdalena Licursi* (Laboratorio de Plancton. Instituto Nacional de Limnologia - CONICET, UNL)
+
+*Marcela Bastidas Navarro* (Laboratorio de Limnología. Instituto de Investigaciones en Biodiversidad y Medioambiente (CONICET - Universidad Nacional del Comahue, Bariloche)
 
 *María Belén Sathicq* (Laboratorio de Plancton y Biofilms. Instituto de Limnología Dr. Raúl A. Ringuelet - ILPLA)
 
