@@ -49,10 +49,8 @@ title = "Database"
  # CSS class.
  css_class = ""
 +++
-**"Microsudaqua:‌ ‌a‌ ‌georeferenced‌ ‌16S‌ ‌amplicon‌ ‌database‌ ‌of‌ ‌aquatic‌ ‌microbiome‌ ‌from‌ ‌South‌ ‌America‌"**
-
-*A short description will be put here soon*
-
+**µSudAqua[db]: a georeferenced rRNA amplicon database of aquatic microbiomes from South America‌**
+ 
 {{% staticref "files/libro_2019.pdf" "newtab" %}}inprep article{{% /staticref %}}
 
-Link to the database: https://www.ncbi.nlm.nih.gov/
+*The biogeography of bacterial communities is a key topic in Microbial Ecology. Regarding continental water, most studies are carried out in the northern hemisphere, leaving a gap on microorganism’s diversity patterns on a global scale. South America harbours approximatelly one third of the world's total fresh water resources, and is one of these understudied regions. To fill this gap, we compiled 16S rRNA amplicon sequencing data of microbial communities across South America continental water ecosystems, presenting the first database µSudAqua[db]. The database contains over 872 georeferenced samples from 9 different ecoregions with contextual environmental information. For its integration and validation we constructed a curated database (µSudAqua[db.sp]) using samples sequenced in Illumina MiSeq platform using the same prokaryote universal primers. This comprised ~60% of the total georeferenced samples of the µSudAqua[db]. This compilation was carried out in the scope of the µSudAqua collaborative network and represents one of the most complete databases of continental water microbial communities from South America.* See the [documentation](https://github.com/microsudaqua/usudaquadb) for more details, or access the [database](http://200.9.237.240:9005/usudaqua/).
