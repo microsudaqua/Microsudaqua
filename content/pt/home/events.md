@@ -75,6 +75,17 @@ weight = 100 # Order that this section will appear.
 
 {{% staticref "files/libro_2019.pdf" "newtab" %}}Livro de Resumos{{% /staticref %}}
 
+
+## **workshop virtual da Rede colaborativa em Ecologia Microbiana Aquática na América Latina (µSudAqua)**
+
+*Data*: 21 a 22 de outubro de 2021
+
+
+*Descrição*
+
+{{% staticref "files/libro_virtual_2021.pdf" "newtab" %}}Livro de Resumos{{% /staticref %}}
+
+
 # Próximo Evento
 ## **III workshop da Rede colaborativa em Ecologia Microbiana Aquática na América Latina (µSudAqua)**
 
