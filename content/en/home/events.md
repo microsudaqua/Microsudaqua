@@ -75,6 +75,15 @@ title = "Events"
 
 {{% staticref "files/libro_2019.pdf" "newtab" %}}Abstracts{{% /staticref %}}
 
+## **Virtual Workshop of the collaborative Network on Aquatic Microbial Ecology in Latin America**
+
+*Date*: October 21 to 22, 2021
+
+*Description*
+
+{{% staticref "files/libro_virtual_2021.pdf" "newtab" %}}Abstracts{{% /staticref %}}
+
+
 # Next Event
 ## **III Workshop of the collaborative Network on Aquatic Microbial Ecology in Latin America**
 

@@ -77,6 +77,13 @@ title = "Eventos"
 
 {{% staticref "files/libro_2019.pdf" "newtab" %}}Libro de Resúmenes{{% /staticref %}}
 
+## ** Taller virtual de la Red colaborativa en Ecología Microbiana Acuática en América Latina (µSudAqua)**
+
+*Fecha*: 21 al 22 de octubre de 2019
+
+*Descripción*
+
+{{% staticref "files/libro_virtual_2021.pdf" "newtab" %}}Libro de Resúmenes{{% /staticref %}}
 
 # Próximo evento
 ## **III Taller de la Red colaborativa en Ecología Microbiana Acuática en América Latina (µSudAqua)**
