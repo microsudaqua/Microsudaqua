@@ -69,7 +69,10 @@ subtitle = ""
 #exemplos
 #* Huber, P., Metz, S., Unrein, F., Mayora, G., Sarmento, H., Devercelli, M.. 2020. [Environmental heterogeneity determines the ecological processes that govern bacterial metacommunity assembly in a floodplain river system.](https://www.nature.com/articles/s41396-020-0723-2) ISME Journal. (DOI: 10.1038/s41396-020-0723-2)
 
-#* Mateus-Barros, E., de Melo, M.L., Bagatini, I.L., Caliman, A., Sarmento, H. 2020. [Local and Geographic Factors Shape the Occupancy-Frequency Distribution of Freshwater Bacteria.](https://link.springer.com/article/10.1007/s00248-020-01560-3) Microbial Ecology. (DOI:10.1007/s00248-020-01560-3)
+
 +++
 
-**2020**
+**2022**
+
+* Metz S., Huber P., Mateus-Barros E., Junger  P.C.,de Melo M., Bagatini I. L., Izaguirre I., dos Reis M.C., Llames M.E., Accattatis V., Quiroga M.V., Devercelli M., Schiaffino M.R., Niño-García J.P., Navarro M.B., Modenutti B., Vieira H., Saraceno M., Sabio y García C.A., Pereira E., Revello A.G., Piccini C., Fernando Unrein F., Alonso C. & Sarmento H. 2022. A georeferenced rRNa amplicon database of aquatic microbiomes from South america. Scientific Data. [link](https://doi.org/10.1038/s41597-022-01665-z) | {{% staticref "files/Metz-Huber_et_al-2022-a georeferenced rRNA amplicon database of aquatic microbiomes from South America.pdf" "newtab" %}} pdf{{% /staticref %}}
+
