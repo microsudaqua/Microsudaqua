@@ -32,7 +32,7 @@
   parent = "groups"
   
 [[main]]
-  name = "Estequimetría"
+  name = "Estequiometría"
   url = "#stoichiometry"
   weight = 20
   parent = "groups"
@@ -46,6 +46,12 @@
 [[main]]
   name = "Patrones"
   url = "#patterns"
+  weight = 20
+  parent = "groups"
+
+[[main]]
+  name = "PicoSudAqua"
+  url = "#picosudaqua"
   weight = 20
   parent = "groups"
  
@@ -105,6 +111,12 @@
   url = "#database"
   weight = 60
   parent = "pub"
+
+[[main]]
+  name = "Oportunidades de financiación"
+  url = "https://docs.google.com/spreadsheets/d/1gR2lXpfa63DL88pfsaHFULMNj_-XlEG7NuT1i1NmWbM/edit?usp=sharing"
+  weight = 70
+  identifier = "opo"
 
 ##############################################################
 #[[main]]

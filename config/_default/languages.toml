@@ -64,6 +64,12 @@
   url = "#patterns"
   weight = 20
   parent = "groups"
+
+[[pt.menu.main]]
+  name = "PicoSudAqua"
+  url = "#picosudaqua"
+  weight = 20
+  parent = "groups"
  
 [[pt.menu.main]]
   name = "Contato"
@@ -122,6 +128,12 @@
   weight = 60
   parent = "pub"
 
+[[pt.menu.main]]
+  name = "Oportunidades de financiación"
+  url = "https://docs.google.com/spreadsheets/d/1gR2lXpfa63DL88pfsaHFULMNj_-XlEG7NuT1i1NmWbM/edit?usp=sharing"
+  weight = 70
+  identifier = "opo"
+
 # Uncomment the lines below to configure your website in a second language.
 [en]
   languageCode = "en-us"
@@ -177,6 +189,12 @@
 [[en.menu.main]]
   name = "Patterns"
   url = "#patterns"
+  weight = 20
+  parent = "groups"
+
+[[en.menu.main]]
+  name = "PicoSudAqua"
+  url = "#picosudaqua"
   weight = 20
   parent = "groups"
  
@@ -236,5 +254,11 @@
   url = "#database"
   weight = 60
   parent = "pub"
+
+[[en.menu.main]]
+  name = "Oportunidades de financiación"
+  url = "https://docs.google.com/spreadsheets/d/1gR2lXpfa63DL88pfsaHFULMNj_-XlEG7NuT1i1NmWbM/edit?usp=sharing"
+  weight = 70
+  identifier = "opo"
 
 
