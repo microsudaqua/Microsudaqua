@@ -59,17 +59,11 @@ Fernando Unrein
 **Argentina zona 2**
 Irina Izaguirre
 
-**Chile**
-Verónica Molina
-
 **Brasil**
 Hugo Sarmento
 
 **Colombia**
 Juan Pablo Niño
-
-**México**
-Luciana Raggi
 
 **Canadá**
 Paul del Giorgio
