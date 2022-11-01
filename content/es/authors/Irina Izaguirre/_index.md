@@ -31,10 +31,10 @@ social:
 # - icon: envelope
 #  icon_pack: fas
 #  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-# - icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
+ - icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/Camilleii3
+ - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com.br/citations?user=lcJ0AoYAAAAJ&hl=pt-BR&oi=ao
 # - icon: github
