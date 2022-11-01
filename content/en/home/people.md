@@ -16,7 +16,7 @@ subtitle = ""
   user_groups = ["Nodes",
 		 "Researchers",
                  "Students", 	
-		 "young researchers"]
+		 "Young researchers"]
 
 [design]
   # Show user's social networking links? (true/false)
