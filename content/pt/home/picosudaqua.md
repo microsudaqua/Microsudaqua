@@ -9,7 +9,7 @@ weight = 57 # Order that this section will appear.
 
 
 title = "PicoSudAqua"
-subtitle = "Early stage investigators"
+subtitle = "Investigadores em estágio inicial (IEI)"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
