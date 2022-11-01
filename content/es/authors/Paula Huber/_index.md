@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Emiliano Pereira
+title: Paula Huber
 
 # Username (this should match the folder name)
 authors:
-- Emiliano Pereira
+- Paula Huber
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Uruguai
+role: Argentina
 
 # Organizations/Affiliations
 organizations:
-- name: Universidad de la República
+- name: Universidade Federal de São Carlos
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -31,12 +31,12 @@ social:
 # - icon: envelope
 #   icon_pack: fas
 #   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-# - icon: twitter
-#   icon_pack: fab
-#   link: https://twitter.com/seba_metz
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/paulita_huber
 # - icon: google-scholar
 #   icon_pack: ai
-#   link: https://scholar.google.com.br/citations?user=NEBQ-ukAAAAJ&hl=pt-BR&oi=ao
+#   link: https://scholar.google.com.br/citations?user=jcEqRpgAAAAJ&hl=pt-BR&oi=ao
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/gcushen
@@ -52,6 +52,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Jovens pesquisadores
+- Jóvenes investigadores
 
 ---

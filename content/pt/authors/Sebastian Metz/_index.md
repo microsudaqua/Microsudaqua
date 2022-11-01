@@ -14,7 +14,7 @@ role: International
 
 # Organizations/Affiliations
 organizations:
-- name: 
+- name: Sorbonne Université
   url: ""
 
 # Short bio (displayed in user profile at end of posts)

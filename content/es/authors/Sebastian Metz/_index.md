@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Emiliano Pereira
+title: Sebastian Metz
 
 # Username (this should match the folder name)
 authors:
-- Emiliano Pereira
+- Sebastian Metz
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Uruguai
+role: International
 
 # Organizations/Affiliations
 organizations:
-- name: Universidad de la República
+- name: Sorbonne Université
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -31,12 +31,12 @@ social:
 # - icon: envelope
 #   icon_pack: fas
 #   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-# - icon: twitter
-#   icon_pack: fab
-#   link: https://twitter.com/seba_metz
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.com.br/citations?user=NEBQ-ukAAAAJ&hl=pt-BR&oi=ao
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/seba_metz
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com.br/citations?user=NEBQ-ukAAAAJ&hl=pt-BR&oi=ao
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/gcushen
@@ -52,6 +52,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Jovens pesquisadores
+- Jóvenes investigadores
 
 ---
