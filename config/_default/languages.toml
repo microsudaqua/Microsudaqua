@@ -129,7 +129,7 @@
   parent = "pub"
 
 [[pt.menu.main]]
-  name = "Oportunidades de financiación"
+  name = "Oportunidades de financiamento"
   url = "https://docs.google.com/spreadsheets/d/1gR2lXpfa63DL88pfsaHFULMNj_-XlEG7NuT1i1NmWbM/edit?usp=sharing"
   weight = 70
   identifier = "opo"
@@ -256,7 +256,7 @@
   parent = "pub"
 
 [[en.menu.main]]
-  name = "Oportunidades de financiación"
+  name = "Funding opportunities"
   url = "https://docs.google.com/spreadsheets/d/1gR2lXpfa63DL88pfsaHFULMNj_-XlEG7NuT1i1NmWbM/edit?usp=sharing"
   weight = 70
   identifier = "opo"
