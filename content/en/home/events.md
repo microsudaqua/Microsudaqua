@@ -84,11 +84,22 @@ title = "Events"
 {{% staticref "files/libro_virtual_2021.pdf" "newtab" %}}Abstracts{{% /staticref %}}
 
 
-# Next Event
 ## **III Workshop of the collaborative Network on Aquatic Microbial Ecology in Latin America**
 
-*Expected date*: march, 2022
+*Date*: October 11 to 15, 2022
 
 *Local*: Brazil
 
+{{< figure library="true" src="2022.jpg" title=" " lightbox="true" >}}
+
 *Description*
+
+{{% staticref "files/libro_2022.pdf" "newtab" %}}Abstracts{{% /staticref %}}
+
+
+# Next Event
+## **IV Workshop of the collaborative Network on Aquatic Microbial Ecology in Latin America**
+
+*Expected date*: December, 2024
+
+*Local*: Argentina

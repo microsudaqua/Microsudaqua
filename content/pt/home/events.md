@@ -83,14 +83,25 @@ weight = 100 # Order that this section will appear.
 
 *Descrição*
 
-{{% staticref "files/libro_virtual_2021.pdf" "newtab" %}}Livro de Resumos{{% /staticref %}}
+{{% staticref "files/libro_2021.pdf" "newtab" %}}Livro de Resumos{{% /staticref %}}
 
 
-# Próximo Evento
 ## **III workshop da Rede colaborativa em Ecologia Microbiana Aquática na América Latina (µSudAqua)**
 
-*Data prevista*: março de 2022
+*Data*: 11 a 15 de Outubro de 2022
 
 *Local*: Brasil
 
+{{< figure library="true" src="2022.jpg" title=" " lightbox="true" >}}
+
 *Descrição*
+
+{{% staticref "files/libro_2022.pdf" "newtab" %}}Livro de Resumos{{% /staticref %}}
+
+
+# Próximo Evento
+## **IV workshop da Rede colaborativa em Ecologia Microbiana Aquática na América Latina (µSudAqua)**
+
+*Data prevista*: Dezembro de 2024
+
+*Local*: Argentina
