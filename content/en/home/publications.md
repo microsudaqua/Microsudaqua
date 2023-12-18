@@ -70,3 +70,6 @@ subtitle = ""
 **2022**
 
 * Metz S., Huber P., Mateus-Barros E., Junger  P.C.,de Melo M., Bagatini I. L., Izaguirre I., dos Reis M.C., Llames M.E., Accattatis V., Quiroga M.V., Devercelli M., Schiaffino M.R., Niño-García J.P., Navarro M.B., Modenutti B., Vieira H., Saraceno M., Sabio y García C.A., Pereira E., Revello A.G., Piccini C., Fernando Unrein F., Alonso C. & Sarmento H. _2022_. __A georeferenced rRNA amplicon database of aquatic microbiomes from South america.__ _Scientific Data_. ([link](https://doi.org/10.1038/s41597-022-01665-z) | {{% staticref "files/Metz-Huber_et_al-2022-a georeferenced rRNA amplicon database of aquatic microbiomes from South America.pdf" "newtab" %}} pdf{{% /staticref %}} )
+
+**2023**
+* Protocols of standadization and water sampling in Latin America ([link] | {{% staticref "files/Libro de Protocolos Microobservatorio_1era edicion_dic2023.pdf" "newtab" %}} pdf{{% /staticref %}} )
