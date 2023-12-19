@@ -50,7 +50,7 @@
   parent = "groups"
 
 [[main]]
-  name = "PicoSudAqua"
+  name = "Inicio de carrera"
   url = "#picosudaqua"
   weight = 20
   parent = "groups"

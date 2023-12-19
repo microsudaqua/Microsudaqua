@@ -66,7 +66,7 @@
   parent = "groups"
 
 [[pt.menu.main]]
-  name = "PicoSudAqua"
+  name = "Inicio de Carreira"
   url = "#picosudaqua"
   weight = 20
   parent = "groups"
@@ -193,7 +193,7 @@
   parent = "groups"
 
 [[en.menu.main]]
-  name = "PicoSudAqua"
+  name = "Early carreer"
   url = "#picosudaqua"
   weight = 20
   parent = "groups"
