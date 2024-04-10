@@ -61,7 +61,7 @@
   identifier = "contacto"
 
 [[main]]
-  name = "Mail"
+  name = "webmail"
   url = "#contact"
   weight = 30
   parent = "contacto"
