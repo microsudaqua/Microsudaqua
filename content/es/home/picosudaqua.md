@@ -55,6 +55,6 @@ subtitle = "Investigadores en etapa inicial (IEI)"
 
 Él grupo formado por los investigadores latinoamericanos en etapas iniciales de carrera tién por objetivo principal ayudar otros estudiantes en inicio de carrera, especialmente de la ecología microbiana acuática, fomentando la realisación de encuentros y cursos con foco en la ecología microbiana acuática y la criación y manutención de canales de comunicación online con otros pesquisadores y la comunidad.
 
-El grupo esta envolvido con los Encuentros Virtuales IEI - µSudAqua, y en la criación de nuestros canales en ([Youtube]( https://www.youtube.com/channel/UC9fbpMSqVo-ev5npXWlmkRQ) y  ([Instaram]( https://www.instagram.com/microsudaqua/).
+El grupo esta envolvido con los Encuentros Virtuales IEI - µSudAqua, y en la criación de nuestros canales en [Youtube]( https://www.youtube.com/channel/UC9fbpMSqVo-ev5npXWlmkRQ) y  [Instaram]( https://www.instagram.com/microsudaqua/).
 
 Veja lo sitio web https://iei-sudaqua.netlify.app/ para más detalles.
