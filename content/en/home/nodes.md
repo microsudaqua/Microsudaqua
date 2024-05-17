@@ -49,27 +49,11 @@ title = "Coordinators"
  css_class = ""
 +++
 #
+**Argentina**
+Paula Huber
 
-**Uruguay**
-Cecilia Alonso
-
-**Argentina zone 1**
-Fernando Unrein
-
-**Argentina zone 2**
-Irina Izaguirre
-
-**Chile**
-Verónica Molina
-
-**Brazil**
-Hugo Sarmento
+**Brasil**
+Michaela de Melo
 
 **Colombia**
 Juan Pablo Niño
-
-**Mexico**
-Luciana Raggi
-
-**Canada**
-Paul del Giorgio

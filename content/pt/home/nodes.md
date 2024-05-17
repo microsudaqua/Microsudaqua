@@ -50,26 +50,11 @@ title = "Coordenadores"
 +++
 #
 
-**Uruguai**
-Cecilia Alonso
-
-**Argentina zona 1**
-Fernando Unrein
-
-**Argentina zona 2**
-Irina Izaguirre
-
-**Chile**
-Verónica Molina
+**Argentina**
+Paula Huber
 
 **Brasil**
-Hugo Sarmento
+Michaela de Melo
 
 **Colombia**
 Juan Pablo Niño
-
-**México**
-Luciana Raggi
-
-**Canadá**
-Paul del Giorgio
