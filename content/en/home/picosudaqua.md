@@ -52,3 +52,9 @@ subtitle = "Early stage investigators"
 #
 
 *Summary*
+
+The group founded by early career Latin-American investigators of µSudAqua has as its main objectives the assistance of other early career students, in special in aquatic microbial ecology, by encouraging the holding of meetings and courses focusing on the study of aquatic microbial ecology. Also, the group is interested in the creation and maintenance of online communication channels with other researchers and the community.
+
+The group is involved with the IEI - µSudAqua Virtual Meetings, and the creation of our channels on ([Youtube]( https://www.youtube.com/channel/UC9fbpMSqVo-ev5npXWlmkRQ) and  ([Instaram]( https://www.instagram.com/microsudaqua/).
+
+See the webpage https://iei-sudaqua.netlify.app/ for more details.
