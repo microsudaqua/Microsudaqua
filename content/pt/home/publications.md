@@ -73,3 +73,6 @@ subtitle = ""
 
 **2023**
 * Fermani P., Gerea M., Graziano M., Mateus-Barros E., Sabio y García C., Sánchez M. L. & Schiaffino R. _2023_. __Protocolos de estandardização e amostragem de água na América Latina.__ ({{% staticref "files/Libro de Protocolos Microobservatorio_1era edicion_dic2023.pdf" "newtab" %}} es version {{% /staticref %}}| {{% staticref "files/Livro de Protocolos Observatorio Microbiano_1a_edição_Maio2024.pdf" "newtab" %}} pt version {{% /staticref %}})
+
+**2024**
+* Schiaffino M.R., Quiroga M.V., Metz S., Arboleda C., Padulles M.L., Alonso C., Unrein F., Izaguirre I. & Sarmento H. _2024_. __Inequality in Academic Publishing Latin American Researchers Against the Odds.__ _SILnews_. ([link](https://www.doi.org/10.5281/zenodo.10324505) | {{% staticref "files/Schiaffino_et_al-2024-Inequality_in_Academic_Publishing_Latin_American_Researchers_Against_the_Odds.pdf" "newtab" %}} pdf{{% /staticref %}} )
