@@ -10,13 +10,13 @@
 
 [[main]]
   name = "Presentación"
-  url = "#home"
+  url = "home"
   weight = 10
   parent = "home"
   
 [[main]]
   name = "Objetivos"
-  url = "#aims"
+  url = "aims"
   weight = 10
   parent = "home"
 
