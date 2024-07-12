@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "{{ replace .Name "-" " " | A georeferenced rRNA amplicon database of aquatic microbiomes from South america}}"
+title: "{{ replace .Name "-" " " | title}}"
 authors: [Metz S., Huber P., Mateus-Barros E., Junger P.C.,de Melo M., Bagatini I. L., Izaguirre I., dos Reis M.C., Llames M.E., Accattatis V., Quiroga M.V., Devercelli M., Schiaffino M.R., Niño-García J.P., Navarro M.B., Modenutti B., Vieira H., Saraceno M., Sabio y García C.A., Pereira E., Revello A.G., Piccini C., Fernando Unrein F., Alonso C. & Sarmento H.]
 date: {{ .2022 }}
 doi: "https://doi.org/10.1038/s41597-022-01665-z"
