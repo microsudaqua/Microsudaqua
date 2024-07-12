@@ -55,24 +55,24 @@
   weight = 20
   parent = "groups"
  
-[[footer]]
+[[main]]
   name = "Contacto"
   weight = 30
   identifier = "contacto"
 
-[[footer]]
+[[main]]
   name = "Webmail"
   url = "#contact"
   weight = 30
   parent = "contacto"
 
-[[footer]]
+[[main]]
   name = "Instagram"
   url = "https://www.instagram.com/microsudaqua/"
   weight = 30
   parent = "contacto"
 
-[[footer]]
+[[main]]
   name = "Youtube"
   url = "https://www.youtube.com/channel/UC9fbpMSqVo-ev5npXWlmkRQ"
   weight = 30
