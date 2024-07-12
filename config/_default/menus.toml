@@ -55,7 +55,7 @@
   weight = 20
   parent = "groups"
  
-[[main]]
+[[footer]]
   name = "Contacto"
   weight = 30
   identifier = "contacto"
