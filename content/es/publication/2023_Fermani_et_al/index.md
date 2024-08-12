@@ -15,7 +15,7 @@ authors:
 #- "Equal contribution"
 
 date: "2023"
-doi: " "
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2022-01-13"
@@ -27,8 +27,8 @@ doi: " "
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-#publication: "*Scientific Data, 9*(565)"
-#publication_short: ""
+publication: " "
+publication_short: ""
 
 abstract: El impacto antrópico y los factores climáticos actúan de manera conjunta sobre los ecosistemas como agentes forzantes de cambios, llevando muchas veces al deterioro de los mismos. El efecto de estos agentes depende de la localización geográfica, el clima y la vegetación, entre otros factores naturales y antrópicos que caracterizan los ambientes estudiados. Para comprender el impacto de estos factores sobre los ecosistemas acuáticos y/o terrestres es importante contar con información continua, estandarizada y extendida en el tiempo.
 Dentro de los ecosistemas acuáticos, los ensambles microbianos juegan un rol fundamental en los ciclos de la materia y energía; y además tienen la potencialidad de ser indicadores robustos del estado ecológico y sanitario de los mismos, debido a su sensibilidad y rápida respuesta a los cambios ambientales. En este sentido, el monitoreo a largo plazo de los ensambles microbianos podría brindar valiosa información sobre las características de los cuerpos de agua y los cambios que éstos sufren.
