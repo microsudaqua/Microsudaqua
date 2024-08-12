@@ -96,9 +96,3 @@ projects: []
 {{% alert note %}}
 See the [documentation](https://github.com/microsudaqua/usudaquadb) for more details, or access the [database](https://doi.org/10.5281/zenodo.6802178).
 {{% /alert %}}
-
-#{{% alert note %}}
-#Click the *Slides* button above to demo Academic's Markdown slides feature.
-#{{% /alert %}}
-
-#Supplementary notes can be added here, including [code and math]##(https://sourcethemes.com/academic/docs/writing-markdown-latex/).
