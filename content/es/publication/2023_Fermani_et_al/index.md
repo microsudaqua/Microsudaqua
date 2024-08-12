@@ -76,5 +76,5 @@ projects: []
 ---
 
 {{% alert note %}}
-Alternetivelly, you can find the brazilian Portugese version {{% staticref "files/Livro de Protocolos Observatorio Microbiano_1a_edição_Maio2024.pdf" "newtab" %}} here {{% /staticref %}}).
+Alternetivelly, you can find the brazilian Portugese version {{% staticref "files/Livro de Protocolos Observatorio Microbiano_1a_edição_Maio2024.pdf" "newtab" %}} here {{% /staticref %}}.
 {{% /alert %}}
