@@ -11,13 +11,13 @@
 [[main]]
   name = "Presentación"
   url = "#home"
-  weight = 10
+  weight = 11
   parent = "home"
   
 [[main]]
   name = "Objetivos"
   url = "#aims"
-  weight = 10
+  weight = 12
   parent = "home"
 
 [[main]]
@@ -28,31 +28,31 @@
 [[main]]
   name = "Observatorio"
   url = "#observatory"
-  weight = 20
+  weight = 21
   parent = "groups"
   
 [[main]]
   name = "Estequiometría"
   url = "#stoichiometry"
-  weight = 20
+  weight = 22
   parent = "groups"
   
 [[main]]
   name = "Rasgos"
   url = "#traits"
-  weight = 20
+  weight = 23
   parent = "groups"
 
 [[main]]
   name = "Patrones"
   url = "#patterns"
-  weight = 20
+  weight = 24
   parent = "groups"
 
 [[main]]
   name = "Inicio de carrera"
   url = "#picosudaqua"
-  weight = 20
+  weight = 25
   parent = "groups"
  
 [[main]]
@@ -63,19 +63,19 @@
 [[main]]
   name = "Webmail"
   url = "#contact"
-  weight = 30
+  weight = 31
   parent = "contacto"
 
 [[main]]
   name = "Instagram"
   url = "https://www.instagram.com/microsudaqua/"
-  weight = 30
+  weight = 32
   parent = "contacto"
 
 [[main]]
   name = "Youtube"
   url = "https://www.youtube.com/channel/UC9fbpMSqVo-ev5npXWlmkRQ"
-  weight = 30
+  weight = 33
   parent = "contacto"
   
 [[main]]
@@ -86,13 +86,13 @@
 [[main]]
   name = "Nodos"
   url = "#people"
-  weight = 40
+  weight = 41
   parent = "people"
   
 [[main]]
   name = "Participantes"
   url = "#participant"
-  weight = 40
+  weight = 42
   parent = "people"
   
 [[main]]
@@ -109,25 +109,25 @@
 [[main]]
   name = "Publicaciones"
   url = "#publications"
-  weight = 60
+  weight = 61
   parent = "pub"
 
 [[main]]
   name = "Protocolos"
   url = " "
-  weight = 60
+  weight = 62
   parent = "pub"
 
 [[main]]
   name = "Scripts"
   url = "https://github.com/microsudaqua"
-  weight = 60
+  weight = 63
   parent = "pub"
   
 [[main]]
   name = "Database"
   url = "#database"
-  weight = 60
+  weight = 64
   parent = "pub"
 
 [[main]]
