@@ -53,6 +53,10 @@ abstract: The biogeography of bacterial communities is a key topic in Microbial 
 
 tags:
 - Database
+- Microbial diversity
+- South America
+- Patterns
+
 featured: false
 
 # links:
