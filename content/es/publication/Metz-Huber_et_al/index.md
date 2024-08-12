@@ -34,7 +34,7 @@ date: "2022-09-13"
 doi: "https://doi.org/10.1038/s41597-022-01665-z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-01-13"
+#publishDate: "2022-01-13"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -43,7 +43,7 @@ publishDate: "2022-01-13"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Scientific Data, 1*(1)"
+publication: "*Scientific Data, 9*(565)"
 publication_short: ""
 
 abstract: The biogeography of bacterial communities is a key topic in Microbial Ecology. Regarding continental water, most studies are carried out in the northern hemisphere, leaving a gap on microorganism’s diversity patterns on a global scale. South America harbours approximately one third of the world’s total freshwater resources, and is one of these understudied regions. To fill this gap, we compiled 16S rRNA amplicon sequencing data of microbial communities across South America continental water ecosystems, presenting the first database µSudAqua[db]. The database contains over 866 georeferenced samples from 9 different ecoregions with contextual environmental information. For its integration and validation we constructed a curated database (µSudAqua[db.sp]) using samples sequenced by Illumina MiSeq platform with commonly used prokaryote universal primers. This comprised ~60% of the total georeferenced samples of the µSudAqua[db]. This compilation was carried out in the scope of the µSudAqua collaborative network and represents one of the most complete databases of continental water microbial communities from South America.
