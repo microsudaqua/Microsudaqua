@@ -57,14 +57,14 @@ featured: false
 
 # links:
 # - name: ""
-#   url: ""
+url: https://doi.org/10.1038/s41597-022-01665-z
 url_pdf: ''
 url_code: ''
-url_dataset: ''
+url_dataset: https://zenodo.org/records/6802178
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: https://doi.org/10.1038/s41597-022-01665-z
+url_source: ''
 url_video: ''
 
 # Featured image
