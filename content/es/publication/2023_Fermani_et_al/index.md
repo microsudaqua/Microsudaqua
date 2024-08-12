@@ -13,7 +13,7 @@ authors:
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
-date: "2023-01-01"
+date: "2023-12-01"
 #doi: " "
 
 # Schedule page publish date (NOT publication's date).
@@ -45,6 +45,7 @@ featured: false
 # - name: ""
 # url: ""
 url_pdf: 'files/Libro de Protocolos Microobservatorio_1era edicion_dic2023.pdf'
+url_pdf: 'files/Livro de Protocolos Observatorio Microbiano_1a_edição_Maio2024.pdf'
 url_code: ''
 url_dataset: ''
 #url_poster: ''
