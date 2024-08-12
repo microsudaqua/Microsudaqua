@@ -8,7 +8,7 @@ authors:
 - Junger  P.C.
 - de Melo M.
 - Bagatini I. L.
-- Izaguirre I., 
+- Izaguirre I. 
 - dos Reis M.C.
 - Llames M.E. 
 - Accattatis V.
