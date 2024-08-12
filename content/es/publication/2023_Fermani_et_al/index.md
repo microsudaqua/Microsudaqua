@@ -13,9 +13,8 @@ authors:
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
-
 date: "2023-01-01"
-doi: ""
+doi: "https://doi.org/10.1038/s41597-022-01665-z"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2022-01-13"
@@ -24,10 +23,10 @@ doi: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["6"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "teste"
+publication: "*Scientific Data, 9*(565)"
 publication_short: ""
 
 abstract: El impacto antrópico y los factores climáticos actúan de manera conjunta sobre los ecosistemas como agentes forzantes de cambios, llevando muchas veces al deterioro de los mismos. El efecto de estos agentes depende de la localización geográfica, el clima y la vegetación, entre otros factores naturales y antrópicos que caracterizan los ambientes estudiados. Para comprender el impacto de estos factores sobre los ecosistemas acuáticos y/o terrestres es importante contar con información continua, estandarizada y extendida en el tiempo.
@@ -41,17 +40,19 @@ Esta red tiene como objetivo fundamental afianzar los lazos de colaboración ent
 
 
 tags:
-- Protocols
-- Microbial Observatories
+- Database
+- Microbial diversity
+- South America
+- Patterns
 
 featured: false
 
 # links:
 # - name: ""
 # url: ""
-url_pdf: 'files/Livro de Protocolos Observatorio Microbiano_1a_edição_Maio2024.pdf'
-url_code: ''
-url_dataset: ''
+url_pdf: 'files/Metz-Huber_et_al-2022-a georeferenced rRNA amplicon database of aquatic microbiomes from South America.pdf'
+url_code: 'https://github.com/microsudaqua/usudaquadb'
+url_dataset: 'https://zenodo.org/records/6802178'
 #url_poster: ''
 #url_project: ''
 #url_slides: ''
