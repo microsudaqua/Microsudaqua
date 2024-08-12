@@ -58,7 +58,7 @@ featured: false
 # links:
 # - name: ""
 url: https://doi.org/10.1038/s41597-022-01665-z
-url_pdf: ''
+url_pdf: {{% staticref "files/Metz-Huber_et_al-2022-a georeferenced rRNA amplicon database of aquatic microbiomes from South America.pdf" "newtab" %}}
 url_code: ''
 url_dataset: https://zenodo.org/records/6802178
 url_poster: ''
