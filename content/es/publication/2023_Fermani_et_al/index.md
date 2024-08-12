@@ -45,7 +45,6 @@ featured: false
 # - name: ""
 # url: ""
 url_pdf: 'files/Libro de Protocolos Microobservatorio_1era edicion_dic2023.pdf'
-url_pdf: ''
 url_code: ''
 url_dataset: ''
 #url_poster: ''
