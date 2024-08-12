@@ -12,9 +12,10 @@ authors:
 - Izaguirre I. 
 - Sarmento H.
 
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+#author_notes:
+#- "Equal contribution"
+#- "Equal contribution"
+
 date: "2024-01"
 doi: "https://www.doi.org/10.5281/zenodo.10324505"
 
