@@ -77,7 +77,7 @@
   identifier = "contato"
 
 [[pt.menu.main]]
-  name = "e-mail"
+  name = "E-mail"
   url = "#contact"
   weight = 31
   parent = "contato"
@@ -222,7 +222,7 @@
   identifier = "contact"
 
 [[en.menu.main]]
-  name = "e-mail"
+  name = "E-mail"
   url = "#contact"
   weight = 31
   parent = "contact"
