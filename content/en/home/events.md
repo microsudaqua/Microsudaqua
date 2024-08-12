@@ -100,6 +100,4 @@ title = "Events"
 # Next Event
 ## **IV Workshop of the collaborative Network on Aquatic Microbial Ecology in Latin America**
 
-*Expected date*: December, 2024
-
-*Local*: Argentina
+The meeting will take place between __October 28 and November 1st__ in the vibrant neighborhood of San Telmo, in the city of Buenos Aires - Argentina 

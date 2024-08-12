@@ -102,6 +102,5 @@ weight = 100 # Order that this section will appear.
 # Próximo Evento
 ## **IV workshop da Rede colaborativa em Ecologia Microbiana Aquática na América Latina (µSudAqua)**
 
-*Data prevista*: Dezembro de 2024
+O encontro acontecerá entre os dias __28 de outubro e 1º de novembro de 2024__ no vibrante bairro de San Telmo, na cidade de Buenos Aires - Argentina
 
-*Local*: Argentina
