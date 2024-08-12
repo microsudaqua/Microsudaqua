@@ -76,6 +76,6 @@ projects: []
 ---
 
 {{% alert note %}}
-Alternetivelly, you can find the brazilian Portugese version {{% staticref "files/Libro de Protocolos Microobservatorio_1era edicion_dic2023.pdf" "newtab" %}} here {{% /staticref %}}.
+Alternetivelly, you can find the latin-american spanish version {{% staticref "files/Libro de Protocolos Microobservatorio_1era edicion_dic2023.pdf" "newtab" %}} here {{% /staticref %}}.
 {{% /alert %}}
 
