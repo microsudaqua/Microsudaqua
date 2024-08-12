@@ -2,36 +2,21 @@
 title: "A georeferenced rRNA amplicon database of aquatic microbiomes from South america"
 
 authors:
-- Metz S.
-- Huber P.
-- Mateus-Barros E.
-- Junger  P.C.
-- de Melo M.
-- Bagatini I. L.
-- Izaguirre I., 
-- dos Reis M.C.
-- Llames M.E. 
-- Accattatis V.
-- Quiroga M.V. 
-- Devercelli M. 
 - Schiaffino M.R. 
-- Niño-García J.P. 
-- Navarro M.B.
-- Modenutti B.
-- Vieira H.
-- Saraceno M.
-- Sabio y García C.A.
-- Pereira E.
-- Revello A.G. 
-- Piccini C. 
-- Fernando Unrein F. 
+- Quiroga M.V.
+- Metz S.
+- Arboleda C.
+- Padulles M.L.
 - Alonso C. 
-- Sarmento H
+- Unrein F.
+- Izaguirre I. 
+- Sarmento H.
+
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2022-09-13"
-doi: "https://doi.org/10.1038/s41597-022-01665-z"
+date: "2024-01"
+doi: "https://www.doi.org/10.5281/zenodo.10324505"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2022-01-13"
@@ -40,31 +25,31 @@ doi: "https://doi.org/10.1038/s41597-022-01665-z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Scientific Data, 9*(565)"
+publication: "*SillNews,83*"
 publication_short: ""
 
-abstract: The biogeography of bacterial communities is a key topic in Microbial Ecology. Regarding continental water, most studies are carried out in the northern hemisphere, leaving a gap on microorganism’s diversity patterns on a global scale. South America harbours approximately one third of the world’s total freshwater resources, and is one of these understudied regions. To fill this gap, we compiled 16S rRNA amplicon sequencing data of microbial communities across South America continental water ecosystems, presenting the first database __µSudAqua[db]__. The database contains over 866 georeferenced samples from 9 different ecoregions with contextual environmental information. For its integration and validation we constructed a curated database __(µSudAqua[db.sp])__ using samples sequenced by Illumina MiSeq platform with commonly used prokaryote universal primers. This comprised ~60% of the total georeferenced samples of the µSudAqua[db]. This compilation was carried out in the scope of the µSudAqua collaborative network and represents one of the most complete databases of continental water microbial communities from South America.
+abstract: Researchers from Latin America have been facing many obstacles in science, ranging fromlimited research funding to language barriers, and in recent years the increase in pay-to-publish journals. Journals use a variety of models to meet their income needs and publishing service costs, and Article Processing Charges (APCs) is one of them. APCs are charged to authors of arƟcles during the publication process and used by open-access journals in place of subscription feesthat libraries and readers have traditionally paid to obtain access to research articles. Thus, APCs shift the burden of journal production costs (e.g., editing, peer review, archiving) directly to authors or their funders or institutions. APCs applied to academic research are usually quite high (ranging from around 350 to 3600 USD), effectively limiting the publishing opportunities for researchers from developing countries(...)
 
 # Summary. An optional shortened abstract.
 
 
 tags:
-- Database
+- Opinion
 - Microbial diversity
 - South America
-- Patterns
+
 
 featured: false
 
 # links:
 # - name: ""
 # url: ""
-url_pdf: 'files/Metz-Huber_et_al-2022-a georeferenced rRNA amplicon database of aquatic microbiomes from South America.pdf'
-url_code: 'https://github.com/microsudaqua/usudaquadb'
-url_dataset: 'https://zenodo.org/records/6802178'
+url_pdf: 'files/Schiaffino_et_al-2024-Inequality_in_Academic_Publishing_Latin_American_Researchers_Against_the_Odds.pdf'
+url_code: ''
+url_dataset: ''
 #url_poster: ''
 #url_project: ''
 #url_slides: ''
@@ -92,7 +77,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-
-{{% alert note %}}
-See the [documentation](https://github.com/microsudaqua/usudaquadb) for more details, or access the [database](https://doi.org/10.5281/zenodo.6802178).
-{{% /alert %}}
