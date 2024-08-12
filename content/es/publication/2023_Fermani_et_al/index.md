@@ -27,7 +27,7 @@ doi: ""
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: " "
+publication: "teste"
 publication_short: ""
 
 abstract: El impacto antrópico y los factores climáticos actúan de manera conjunta sobre los ecosistemas como agentes forzantes de cambios, llevando muchas veces al deterioro de los mismos. El efecto de estos agentes depende de la localización geográfica, el clima y la vegetación, entre otros factores naturales y antrópicos que caracterizan los ambientes estudiados. Para comprender el impacto de estos factores sobre los ecosistemas acuáticos y/o terrestres es importante contar con información continua, estandarizada y extendida en el tiempo.
@@ -49,7 +49,7 @@ featured: false
 # links:
 # - name: ""
 # url: ""
-url_pdf: ''
+url_pdf: 'files/Livro de Protocolos Observatorio Microbiano_1a_edição_Maio2024.pdf'
 url_code: ''
 url_dataset: ''
 #url_poster: ''
