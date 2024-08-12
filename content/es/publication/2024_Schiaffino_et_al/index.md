@@ -1,5 +1,5 @@
 ---
-title: "nequality in Academic Publishing Latin American Researchers Against the Odds"
+title: "Inequality in academic publishing: Latin American researchers against the odds"
 
 authors:
 - Schiaffino M.R. 
