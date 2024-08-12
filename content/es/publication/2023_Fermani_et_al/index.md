@@ -45,7 +45,7 @@ featured: false
 # - name: ""
 # url: ""
 url_pdf: 'files/Libro de Protocolos Microobservatorio_1era edicion_dic2023.pdf'
-url_pdf: 'files/Livro de Protocolos Observatorio Microbiano_1a_edição_Maio2024.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 #url_poster: ''
@@ -77,5 +77,5 @@ projects: []
 ---
 
 {{% alert note %}}
-See the [documentation](https://github.com/microsudaqua/usudaquadb) for more details, or access the [database](https://doi.org/10.5281/zenodo.6802178).
+Alternetivelly, you can find the brazilian Portugese version [here](files/Livro de Protocolos Observatorio Microbiano_1a_edição_Maio2024.pdf).
 {{% /alert %}}
