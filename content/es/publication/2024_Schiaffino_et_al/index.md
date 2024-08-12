@@ -29,7 +29,7 @@ doi: "https://www.doi.org/10.5281/zenodo.10324505"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*SillNews,83*"
+publication: "*SillNews, 83*"
 publication_short: ""
 
 abstract: Researchers from Latin America have been facing many obstacles in science, ranging fromlimited research funding to language barriers, and in recent years the increase in pay-to-publish journals. Journals use a variety of models to meet their income needs and publishing service costs, and Article Processing Charges (APCs) is one of them. APCs are charged to authors of arƟcles during the publication process and used by open-access journals in place of subscription feesthat libraries and readers have traditionally paid to obtain access to research articles. Thus, APCs shift the burden of journal production costs (e.g., editing, peer review, archiving) directly to authors or their funders or institutions. APCs applied to academic research are usually quite high (ranging from around 350 to 3600 USD), effectively limiting the publishing opportunities for researchers from developing countries(...)
