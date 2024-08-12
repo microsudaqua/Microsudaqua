@@ -78,3 +78,7 @@ projects: []
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
+
+{{% alert note %}}
+Researchers supporting this letter are detailed in the (Annex)(https://docs.google.com/forms/d/e/1FAIpQLSf0qGAuKGnhTpQ6ScH0PYoEJXU1CJCjg4sjdMwH_VrLRHYPGw/viewform).
+{{% /alert %}}
