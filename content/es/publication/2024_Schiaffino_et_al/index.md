@@ -16,7 +16,7 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2024-01"
+date: "2024-01-01"
 doi: "https://www.doi.org/10.5281/zenodo.10324505"
 
 # Schedule page publish date (NOT publication's date).
