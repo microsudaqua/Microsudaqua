@@ -62,7 +62,7 @@ featured: false
 # links:
 # - name: ""
 # url: ""
-url_pdf: ''
+url_pdf: 'files/Metz-Huber_et_al-2022-a georeferenced rRNA amplicon database of aquatic microbiomes from South America.pdf'
 url_code: 'https://github.com/microsudaqua/usudaquadb'
 url_dataset: 'https://zenodo.org/records/6802178'
 #url_poster: ''
