@@ -1,37 +1,21 @@
 ---
-title: "A georeferenced rRNA amplicon database of aquatic microbiomes from South america"
+title: "Protocolos de estandarización y toma de muestras de agua en América Latina"
 
 authors:
-- Metz S.
-- Huber P.
+- Fermani P.
+- Gerea M.
+- Graziano M.
 - Mateus-Barros E.
-- Junger  P.C.
-- de Melo M.
-- Bagatini I. L.
-- Izaguirre I., 
-- dos Reis M.C.
-- Llames M.E. 
-- Accattatis V.
-- Quiroga M.V. 
-- Devercelli M. 
-- Schiaffino M.R. 
-- Niño-García J.P. 
-- Navarro M.B.
-- Modenutti B.
-- Vieira H.
-- Saraceno M.
-- Sabio y García C.A.
-- Pereira E.
-- Revello A.G. 
-- Piccini C. 
-- Fernando Unrein F. 
-- Alonso C. 
-- Sarmento H
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2022-09-13"
-doi: "https://doi.org/10.1038/s41597-022-01665-z"
+- Sabio y García C.
+- Sánchez M. L. 
+- Schiaffino R
+
+#author_notes:
+#- "Equal contribution"
+#- "Equal contribution"
+
+date: "2023"
+doi: " "
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2022-01-13"
@@ -40,31 +24,34 @@ doi: "https://doi.org/10.1038/s41597-022-01665-z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Scientific Data, 9*(565)"
-publication_short: ""
+#publication: "*Scientific Data, 9*(565)"
+#publication_short: ""
 
-abstract: The biogeography of bacterial communities is a key topic in Microbial Ecology. Regarding continental water, most studies are carried out in the northern hemisphere, leaving a gap on microorganism’s diversity patterns on a global scale. South America harbours approximately one third of the world’s total freshwater resources, and is one of these understudied regions. To fill this gap, we compiled 16S rRNA amplicon sequencing data of microbial communities across South America continental water ecosystems, presenting the first database __µSudAqua[db]__. The database contains over 866 georeferenced samples from 9 different ecoregions with contextual environmental information. For its integration and validation we constructed a curated database __(µSudAqua[db.sp])__ using samples sequenced by Illumina MiSeq platform with commonly used prokaryote universal primers. This comprised ~60% of the total georeferenced samples of the µSudAqua[db]. This compilation was carried out in the scope of the µSudAqua collaborative network and represents one of the most complete databases of continental water microbial communities from South America.
+abstract: El impacto antrópico y los factores climáticos actúan de manera conjunta sobre los ecosistemas como agentes forzantes de cambios, llevando muchas veces al deterioro de los mismos. El efecto de estos agentes depende de la localización geográfica, el clima y la vegetación, entre otros factores naturales y antrópicos que caracterizan los ambientes estudiados. Para comprender el impacto de estos factores sobre los ecosistemas acuáticos y/o terrestres es importante contar con información continua, estandarizada y extendida en el tiempo.
+Dentro de los ecosistemas acuáticos, los ensambles microbianos juegan un rol fundamental en los ciclos de la materia y energía; y además tienen la potencialidad de ser indicadores robustos del estado ecológico y sanitario de los mismos, debido a su sensibilidad y rápida respuesta a los cambios ambientales. En este sentido, el monitoreo a largo plazo de los ensambles microbianos podría brindar valiosa información sobre las características de los cuerpos de agua y los cambios que éstos sufren.
+Teniendo en cuenta estas premisas, en el marco de la primera reunión de la red colaborativa en ecología acuática microbiana de América Latina (µSudAqua), realizada en La Paloma (Rocha, Uruguay) en diciembre de 2017, se decidió crear un conjunto de observatorios cuyo objetivo principal es evaluar de qué manera el impacto antrópico y los factores climáticos, en un gradiente latitudinal, influencian la estructura y dinámica de la comunidad microbiana a nivel continental en la diversidad de ambientes acuáticos de la región. Es así que nace la Red de Observatorios Microbianos de Latinoamérica.
+Los observatorios microbianos son herramientas valiosas que se han establecido alrededor del mundo para tener acceso a información sistematizada sobre las comunidades microscópicas. Sin embargo, en América Latina son escasos. En esta Red de Observatorios se seleccionaron sitios-observatorios correspondientes a diferentes ambientes acuáticos (dulces, marinos, lénticos, lóticos, con diferentes tipos de impacto antrópico) teniendo en cuenta la accesibilidad a los mismos para lograr la continuidad de los muestreos. Asimismo, los sitios-observatorios elegidos contemplan una frecuencia mínima bimestral (preferentemente mensual) y simultánea, en la capa superficial de la columna de agua (eufótica), y la medición de parámetros sencillos, utilizando protocolos consensuados entre sus integrantes, que faciliten la continuidad a largo plazo y la posibilidad de realizar análisis comparativos entre los distintos sitios.
+El presente libro pretende enumerar los protocolos establecidos y estandarizados para la toma de muestras de parámetros físico-químicos y comunidades biológicas en el agua, y el posterior análisis en el laboratorio, teniendo en cuenta los diferentes cuerpos de agua.
+Esta red tiene como objetivo fundamental afianzar los lazos de colaboración entre laboratorios de investigación de diferentes países latinoamericanos para potenciar las capacidades y conocimientos de cada grupo. De esta manera, pretendemos promover el intercambio de saberes para encontrar respuestas colectivas a preguntas que nos conciernen como región.
 
 # Summary. An optional shortened abstract.
 
 
 tags:
-- Database
-- Microbial diversity
-- South America
-- Patterns
+- Protocols
+- Microbial Observatories
 
 featured: false
 
 # links:
 # - name: ""
 # url: ""
-url_pdf: 'files/Metz-Huber_et_al-2022-a georeferenced rRNA amplicon database of aquatic microbiomes from South America.pdf'
-url_code: 'https://github.com/microsudaqua/usudaquadb'
-url_dataset: 'https://zenodo.org/records/6802178'
+url_pdf: ''
+url_code: ''
+url_dataset: ''
 #url_poster: ''
 #url_project: ''
 #url_slides: ''
