@@ -1,5 +1,5 @@
 ---
-title: "A georeferenced rRNA amplicon database of aquatic microbiomes from South america"
+title: "nequality in Academic Publishing Latin American Researchers Against the Odds"
 
 authors:
 - Schiaffino M.R. 
