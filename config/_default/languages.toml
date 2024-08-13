@@ -21,6 +21,7 @@
     
 [[pt.menu.main]]
   name = "Início"
+  url = "aims/"
   weight = 10
   identifier = "home"
 
@@ -32,7 +33,7 @@
   
 [[pt.menu.main]]
   name = "Objetivos"
-  url = "#aims"
+  url = "aims/aims"
   weight = 12
   parent = "home"
 
@@ -119,7 +120,7 @@
     
 [[pt.menu.main]]
   name = "Produção"
-  url = " "
+  url = "products/"
   weight = 60
   identifier = "pub"
 
@@ -143,7 +144,7 @@
   
 [[pt.menu.main]]
   name = "Database"
-  url = "#database"
+  url = "products/database"
   weight = 64
   parent = "pub"
 
@@ -167,6 +168,7 @@
 
 [[en.menu.main]]
   name = "Home"
+  url = "aims/"
   weight = 11
   identifier = "home"
 
@@ -178,7 +180,7 @@
   
 [[en.menu.main]]
   name = "Aims"
-  url = "#aims"
+  url = "aims/aims"
   weight = 13
   parent = "home"
 
@@ -265,7 +267,7 @@
     
 [[en.menu.main]]
   name = "Production"
-  url = " "
+  url = "products/"
   weight = 60
   identifier = "pub"
 
@@ -289,7 +291,7 @@
   
 [[en.menu.main]]
   name = "Database"
-  url = "#database"
+  url = "products/database"
   weight = 64
   parent = "pub"
 
