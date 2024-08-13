@@ -38,36 +38,37 @@
 
 [[pt.menu.main]]
   name = "Grupos de Estudo"
+  url = "groups/"
   weight = 20
   identifier = "groups"
 
 [[pt.menu.main]]
   name = "Observatórios"
-  url = "#observatory"
+  url = "groups/observatory"
   weight = 21
   parent = "groups"
   
 [[pt.menu.main]]
   name = "Estequimetria"
-  url = "#stoichiometry"
+  url = "groups/stoichiometry"
   weight = 22
   parent = "groups"
   
 [[pt.menu.main]]
   name = "Traços"
-  url = "#traits"
+  url = "groups/traits"
   weight = 23
   parent = "groups"
 
 [[pt.menu.main]]
   name = "Padrões"
-  url = "#patterns"
+  url = "groups/patterns"
   weight = 24
   parent = "groups"
 
 [[pt.menu.main]]
   name = "Inicio de Carreira"
-  url = "#picosudaqua"
+  url = "groups/picosudaqua"
   weight = 25
   parent = "groups"
  
@@ -183,36 +184,37 @@
 
 [[en.menu.main]]
   name = "Study Groups"
+  url = "groups/"
   weight = 20
   identifier = "groups"
 
 [[en.menu.main]]
   name = "Observatory"
-  url = "#observatory"
+  url = "groups/observatory"
   weight = 21
   parent = "groups"
   
 [[en.menu.main]]
   name = "Stoichiometry"
-  url = "#stoichiometry"
+  url = "groups/stoichiometry"
   weight = 22
   parent = "groups"
   
 [[en.menu.main]]
   name = "Traits"
-  url = "#traits"
+  url = "groups/traits"
   weight = 23
   parent = "groups"
 
 [[en.menu.main]]
   name = "Patterns"
-  url = "#patterns"
+  url = "groups/patterns"
   weight = 24
   parent = "groups"
 
 [[en.menu.main]]
   name = "Early carreer"
-  url = "#picosudaqua"
+  url = "groups/picosudaqua"
   weight = 25
   parent = "groups"
  

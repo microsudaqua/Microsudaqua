@@ -22,6 +22,7 @@
 
 [[main]]
   name = "Grupos de Estudio"
+  url = "groups/"
   weight = 20
   identifier = "groups"
 
@@ -39,19 +40,19 @@
   
 [[main]]
   name = "Rasgos"
-  url = "#traits"
+  url = "groups/traits"
   weight = 23
   parent = "groups"
 
 [[main]]
   name = "Patrones"
-  url = "#patterns"
+  url = "groups/patterns"
   weight = 24
   parent = "groups"
 
 [[main]]
   name = "Inicio de carrera"
-  url = "#picosudaqua"
+  url = "groups/picosudaqua"
   weight = 25
   parent = "groups"
  
