@@ -3,8 +3,8 @@
 title: Juan Pablo Niño-Garcia
 
 # Username (this should match the folder name)
-authors:
-- Juan Pablo Niño
+#authors:
+#- Juan Pablo Niño
 
 # Is this the primary user of the site?
 superuser: true
