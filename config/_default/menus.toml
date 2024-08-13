@@ -81,12 +81,13 @@
   
 [[main]]
   name = "Personas"
+  url = "people/"
   weight = 40
   identifier = "people"
   
 [[main]]
   name = "Nodos"
-  url = "home/people"
+  url = "#people"
   weight = 41
   parent = "people"
   
@@ -103,7 +104,7 @@
     
 [[main]]
   name = "Producción"
-  url = " "
+  url = "products/"
   weight = 60
   identifier = "pub"
 
