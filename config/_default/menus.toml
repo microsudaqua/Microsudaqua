@@ -102,6 +102,7 @@
     
 [[main]]
   name = "Producción"
+  url = products/
   weight = 60
   identifier = "pub"
 
