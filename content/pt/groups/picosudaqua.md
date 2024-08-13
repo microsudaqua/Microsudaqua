@@ -51,7 +51,7 @@ subtitle = "Investigadores em estágio inicial (IEI)"
 +++
 #
 
-*Summary*
+*Resumo*
 
 O grupo formado pelos investigadores latino americanos em estágio inicial de carreira do µSudAqua tem como principais objetivos auxiliar outros estudantes em inicio de carreira, especialmente em ecologia microbiana aquática, fomentando a realização de palestras e cursos com foco na ecologia microbiana aquática e na criação e manutenção de canais de comunicação online com outros pesquisadores e a comunidade.
 
