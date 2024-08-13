@@ -22,6 +22,7 @@
 
 [[main]]
   name = "Grupos de Estudio"
+  url = "groups/"
   weight = 20
   identifier = "groups"
 
