@@ -22,7 +22,6 @@
 
 [[main]]
   name = "Grupos de Estudio"
-  url = "groups/"
   weight = 20
   identifier = "groups"
 
@@ -81,7 +80,6 @@
   
 [[main]]
   name = "Personas"
-  url = "people/"
   weight = 40
   identifier = "people"
   
@@ -104,7 +102,6 @@
     
 [[main]]
   name = "Producción"
-  url = "products/"
   weight = 60
   identifier = "pub"
 
