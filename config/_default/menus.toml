@@ -86,19 +86,19 @@
   
 [[main]]
   name = "Nodos"
-  url = "#people"
+  url = "people/people"
   weight = 41
   parent = "people"
   
 [[main]]
   name = "Participantes"
-  url = "#participant"
+  url = "people/participant"
   weight = 42
   parent = "people"
   
 [[main]]
   name = "Eventos"
-  url = "#events"
+  url = "events/events"
   weight = 50
     
 [[main]]
@@ -109,7 +109,7 @@
 
 [[main]]
   name = "Publicaciones"
-  url = "#publications"
+  url = "products/publications"
   weight = 61
   parent = "pub"
 
@@ -127,7 +127,7 @@
   
 [[main]]
   name = "Database"
-  url = "#database"
+  url = "products/database"
   weight = 64
   parent = "pub"
 
