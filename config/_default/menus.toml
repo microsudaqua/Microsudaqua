@@ -103,12 +103,13 @@
     
 [[main]]
   name = "Producción"
+  url = "products/"
   weight = 60
   identifier = "pub"
 
 [[main]]
   name = "Publicaciones"
-  url = "#publications"
+  url = "products/publications"
   weight = 61
   parent = "pub"
 
@@ -126,7 +127,7 @@
   
 [[main]]
   name = "Database"
-  url = "#database"
+  url = "products/database"
   weight = 64
   parent = "pub"
 
