@@ -5,6 +5,7 @@
 
 [[main]]
   name = "Home"
+  url = "aims/"
   weight = 10
   identifier = "home"
 
@@ -103,7 +104,7 @@
     
 [[main]]
   name = "Producción"
-  
+  url = "products/"
   weight = 60
   identifier = "pub"
 
