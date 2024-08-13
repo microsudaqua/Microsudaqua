@@ -85,7 +85,7 @@
   
 [[main]]
   name = "Nodos"
-  url = "people/people"
+  url = "#people"
   weight = 41
   parent = "people"
   
@@ -107,7 +107,7 @@
 
 [[main]]
   name = "Publicaciones"
-  url = "products/publications"
+  url = "#publications"
   weight = 61
   parent = "pub"
 
