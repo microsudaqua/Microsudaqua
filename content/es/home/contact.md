@@ -5,6 +5,10 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
+menus:
+- main
+- footer
+
 title = "Contacto"
 subtitle = "Envía un mesage al webmail o contacta uno de los coordinadores de la Red"
 
@@ -17,7 +21,6 @@ autolink = true
 #   2: formspree.io
 email_form = 0
 
-menus:
-- footer
+
 +++
 
