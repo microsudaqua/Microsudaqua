@@ -22,37 +22,37 @@
 
 [[main]]
   name = "Grupos de Estudio"
-  url = "grupos/"
+  url = "groups/"
   weight = 20
   identifier = "groups"
 
 [[main]]
   name = "Observatorio"
-  url = "grupos/#observatory"
+  url = "groups/#observatory"
   weight = 21
   parent = "groups"
   
 [[main]]
   name = "Estequiometría"
-  url = "grupos/#stoichiometry"
+  url = "groups/#stoichiometry"
   weight = 22
   parent = "groups"
   
 [[main]]
   name = "Rasgos"
-  url = "grupos/#traits"
+  url = "groups/#traits"
   weight = 23
   parent = "groups"
 
 [[main]]
   name = "Patrones"
-  url = "grupos/#patterns"
+  url = "groups/#patterns"
   weight = 24
   parent = "groups"
 
 [[main]]
   name = "Inicio de carrera"
-  url = "grupos/#picosudaqua"
+  url = "groups/#picosudaqua"
   weight = 25
   parent = "groups"
  
