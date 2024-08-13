@@ -113,7 +113,7 @@
   
 [[pt.menu.main]]
   name = "Eventos"
-  url = "#events"
+  url = "events/events"
   weight = 50
     
 [[pt.menu.main]]
@@ -258,7 +258,7 @@
   
 [[en.menu.main]]
   name = "Events"
-  url = "#events"
+  url = "events/events"
   weight = 50
     
 [[en.menu.main]]

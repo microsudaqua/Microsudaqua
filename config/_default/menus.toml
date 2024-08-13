@@ -97,7 +97,7 @@
   
 [[main]]
   name = "Eventos"
-  url = "#events"
+  url = "events/events"
   weight = 50
     
 [[main]]
