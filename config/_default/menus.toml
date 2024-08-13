@@ -126,7 +126,7 @@
   
 [[main]]
   name = "Database"
-  url = "products/database"
+  url = "#database"
   weight = 64
   parent = "pub"
 
