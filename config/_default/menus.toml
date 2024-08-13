@@ -107,7 +107,7 @@
 
 [[main]]
   name = "Publicaciones"
-  url = "publication/publications"
+  url = "products/publications"
   weight = 61
   parent = "pub"
 
