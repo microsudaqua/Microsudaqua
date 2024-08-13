@@ -16,7 +16,7 @@
   
 [[main]]
   name = "Objetivos"
-  url = "#aims"
+  url = "aims/aims"
   weight = 12
   parent = "home"
 
@@ -127,7 +127,7 @@
   
 [[main]]
   name = "Database"
-  url = "#database"
+  url = "products/database"
   weight = 64
   parent = "pub"
 
