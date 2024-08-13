@@ -86,13 +86,13 @@
   
 [[main]]
   name = "Nodos"
-  url = "people"
+  url = "authors/people"
   weight = 41
-  parent = "authors/people"
+  parent = "people"
   
 [[main]]
   name = "Participantes"
-  url = "people/participant"
+  url = "authors/participant"
   weight = 42
   parent = "people"
   
