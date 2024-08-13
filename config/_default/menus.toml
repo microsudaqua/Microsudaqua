@@ -27,31 +27,31 @@
 
 [[main]]
   name = "Observatorio"
-  url = "groups/observatory"
+  url = "#observatory"
   weight = 21
   parent = "groups"
   
 [[main]]
   name = "Estequiometría"
-  url = "groups/stoichiometry"
+  url = "#stoichiometry"
   weight = 22
   parent = "groups"
   
 [[main]]
   name = "Rasgos"
-  url = "groups/traits"
+  url = "#traits"
   weight = 23
   parent = "groups"
 
 [[main]]
   name = "Patrones"
-  url = "groups/patterns"
+  url = "#patterns"
   weight = 24
   parent = "groups"
 
 [[main]]
   name = "Inicio de carrera"
-  url = "groups/picosudaqua"
+  url = "#picosudaqua"
   weight = 25
   parent = "groups"
  
@@ -91,13 +91,13 @@
   
 [[main]]
   name = "Participantes"
-  url = "people/participant"
+  url = "#participant"
   weight = 42
   parent = "people"
   
 [[main]]
   name = "Eventos"
-  url = "events/events"
+  url = "#events"
   weight = 50
     
 [[main]]
@@ -107,7 +107,7 @@
 
 [[main]]
   name = "Publicaciones"
-  url = "products/publications"
+  url = "#publications"
   weight = 61
   parent = "pub"
 
@@ -125,7 +125,7 @@
   
 [[main]]
   name = "Database"
-  url = "products/database"
+  url = "#database"
   weight = 64
   parent = "pub"
 
