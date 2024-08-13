@@ -51,7 +51,7 @@ subtitle = "Investigadores en etapa inicial (IEI)"
 +++
 #
 
-*Summary*
+*Resumen*
 
 Él grupo formado por los investigadores latinoamericanos en etapas iniciales de carrera tién por objetivo principal ayudar otros estudiantes en inicio de carrera, especialmente de la ecología microbiana acuática, fomentando la realisación de encuentros y cursos con foco en la ecología microbiana acuática y la criación y manutención de canales de comunicación online con otros pesquisadores y la comunidad.
 
