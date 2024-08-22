@@ -14,18 +14,18 @@ authors:
 - Espolau, G.
 - Schiaffino R.
 
-author_notes:
-- "Compilation"
-- "Compilation & Translation"
-- "Compilation"
-- "Compilation & Translation"
-- "Compilation"
-- "Compilation"
-- "Translation"
-- "Translation"
-- "Translation"
-- "Translation"
-- "Compilation"
+#author_notes:
+#- "Compilation"
+#- "Compilation & Translation"
+#- "Compilation"
+#- "Compilation & Translation"
+#- "Compilation"
+#- "Compilation"
+#- "Translation"
+#- "Translation"
+#- "Translation"
+#- "Translation"
+#- "Compilation"
 
 date: "2024-08-21"
 doi: "https://doi.org/10.5281/zenodo.11066937"
