@@ -13,7 +13,8 @@ authors:
 - de Azevedo Garcia, N.
 - Espolau, G.
 - Schiaffino R.
-#author_notes:
+
+author_notes:
 - "Compilation"
 - "Compilation & Translation"
 - "Compilation"
@@ -36,7 +37,7 @@ date: "2024-08-21"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["5"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Zenodo"
