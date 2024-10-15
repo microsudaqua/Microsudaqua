@@ -21,7 +21,7 @@ authors:
 #- "Equal contribution"
 
 date: "2023-12-01"
-doi: "https://doi.org/10.25260/EA.23.33.3.0.2093"
+doi: "10.25260/EA.23.33.3.0.2093"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2022-01-13"

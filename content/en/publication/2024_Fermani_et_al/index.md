@@ -28,7 +28,7 @@ authors:
 #- "Compilation"
 
 date: "2024-08-21"
-doi: "https://doi.org/10.5281/zenodo.11066937"
+doi: "10.5281/zenodo.11066937"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2022-01-13"
