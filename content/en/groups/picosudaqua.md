@@ -51,7 +51,6 @@ subtitle = "Early stage investigators"
 +++
 #
 
-*Summary*
 
 The group founded by early career Latin-American investigators of µSudAqua has as its main objectives the assistance of other early career students, in special in aquatic microbial ecology, by encouraging the holding of meetings and courses focusing on the study of aquatic microbial ecology. Also, the group is interested in the creation and maintenance of online communication channels with other researchers and the community.
 

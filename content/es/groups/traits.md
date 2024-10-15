@@ -51,6 +51,5 @@ subtitle = "(basados en rasgos suaves y fáciles de medir)"
 +++
 #
 
-*Resumen*
 
 Los rasgos son características medibles o cuantificables de los organismos que se relacionan directa o indirectamente con algún componente de su adecuación biológica, y varían a lo largo de los gradientes ambientales. La idea que subyace a la utilización de rasgos es que las comunidades se estructuran en base a características de sus organismos, y no por la identidad de las especies. Éstos pueden ser del tipo morfológico, fisiológico, comportamental o relacionado al ciclo de vida, y organizarse alrededor de funciones ecológicas como la reproducción, la adquisición de recursos y la evasión a la predación. En este sentido, los rasgos son funcionales cuando permiten predecir o explicar procesos, estrategias o respuestas a diferentes condiciones. Nuestro objetivo es estudiar el uso de rasgos funcionales a lo largo de todo el espectro de las comunidades microbianas (virus, picoplancton, fitoplancton > 5 um, nanoflagelados heterótrofos, microzooplancton) que resultan relevantes en ecología. Para ello: i) analizaremos el uso de esta aproximación en la literatura; ii) identificaremos rasgos transversales a todos los grupos y rasgos específicos de cada uno de ellos; iii) e indagaremos sobre los tipos de preguntas que se pueden responder mediante la aproximación de rasgos.

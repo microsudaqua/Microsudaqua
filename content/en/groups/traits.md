@@ -51,6 +51,5 @@ subtitle = "(based on soft, easy-to-measure, traits)"
 +++
 #
 
-*Summary*
 
 Traits are measurable or quantifiable characteristics of organisms that are directly or indirectly related to some component of their biological fitness, and vary along environmental gradients. The idea that underlies the use of traits is that communities are structured based on the characteristics of their organisms, and not on the identity of the species. These can be morphological, physiological, behavioral or related to the life cycle, and organize around ecological functions such as reproduction, acquisition of resources and evasion of predation. In this sense, traits are functional when they allow us to predict or explain processes, strategies or responses to different conditions. Our objective is to study the use of functional traits throughout the spectrum of microbial communities (viruses, picoplankton, phytoplankton >5 µm, heterotrophic nanoflagellates, microzooplankton) that are relevant in ecology. To do this: i) we will analyze the use of this approach in the literature; ii) we will identify transversal features to all the groups and specific features of each one of them; iii) and we will investigate the types of questions that can be answered by approaching traits.
