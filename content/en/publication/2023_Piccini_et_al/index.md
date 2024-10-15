@@ -15,7 +15,6 @@ authors:
 - Lara E.
 - Kruk C.
 
-
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
@@ -36,7 +35,7 @@ publication_types: ["2"]
 publication: "*Ecología Austral, 33(3)*"
 publication_short: ""
 
-abstract:
+abstract:Prevailing social, economic and political ideas and paradigms constitute the lens through which scientists observe, assess, and understand the world.
 
 
 # Summary. An optional shortened abstract.
