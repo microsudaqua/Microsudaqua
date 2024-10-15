@@ -36,7 +36,7 @@ publication_types: ["2"]
 publication: "*Ecología Austral, 33(3)*"
 publication_short: ""
 
-abstract: 
+abstract: Prevailing social, economic and political ideas and paradigms constitute the lens through which scientists observe, assess, and understand the world. This affect how we interpret and nderstand the mchanisms governing the interaction between organisms and has led, in most cases, to dominant explanations and paradigms that are difficult to overthrow.
 
 
 # Summary. An optional shortened abstract.
