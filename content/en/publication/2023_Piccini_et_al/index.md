@@ -35,8 +35,7 @@ publication_types: ["2"]
 publication: "*Ecología Austral, 33(3)*"
 publication_short: ""
 
-abstract:Prevailing social, economic and political ideas and paradigms constitute the lens through which scientists observe, assess, and understand the world.
-
+abstract: The biogeography of bacterial communities is a key topic in Microbial Ecology. Regarding continental water, most studies are carried out in the northern hemisphere, leaving a gap on microorganism’s diversity patterns on a global scale. South America harbours approximately one third of the world’s total freshwater resources, and is one of these understudied regions. To fill this gap, we compiled 16S rRNA amplicon sequencing data of microbial communities across South America continental water ecosystems, presenting the first database __µSudAqua[db]__. The database contains over 866 georeferenced samples from 9 different ecoregions with contextual environmental information. For its integration and validation we constructed a curated database __(µSudAqua[db.sp])__ using samples sequenced by Illumina MiSeq platform with commonly used prokaryote universal primers. This comprised ~60% of the total georeferenced samples of the µSudAqua[db]. This compilation was carried out in the scope of the µSudAqua collaborative network and represents one of the most complete databases of continental water microbial communities from South America.
 
 # Summary. An optional shortened abstract.
 
