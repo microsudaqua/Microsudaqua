@@ -1,5 +1,5 @@
 ---
-title: "Inequality in academic publishing: Latin American researchers against the odds"
+title: "From competition to cooperation: Paradigm shifts in trait-based ecology change our understanding of the processes that structure microbial communities"
 
 authors:
 - Piccini C. 
