@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 50 # Order that this section will appear.
 
 
-title = "Functional traits across freshwater microbial communities"
+title = "Functional traits across aquatic communities"
 subtitle = "(based on soft, easy-to-measure, traits)"
 
 [design]

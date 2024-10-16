@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 50 # Order that this section will appear.
 
 
-title = "Traços funcionais em comunidades microbianas de água doce"
+title = "Traços funcionais em comunidades acuatica"
 subtitle = "(baseados em traços suaves e fáceis de medir)"
 
 [design]
