@@ -31,7 +31,7 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 date: "2022-09-13"
-doi: "https://doi.org/10.1038/s41597-022-01665-z"
+doi: "10.1038/s41597-022-01665-z"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2022-01-13"
