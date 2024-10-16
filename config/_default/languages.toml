@@ -98,19 +98,18 @@
   
 [[pt.menu.main]]
   name = "Pessoal"
-  url = "people"
   weight = 40
   identifier = "people"
   
 [[pt.menu.main]]
   name = "Nós"
-  url = "people/people"
+  url = "#people"
   weight = 41
   parent = "people"
   
 [[pt.menu.main]]
   name = "Participantes"
-  url = "people/participant"
+  url = "#participant"
   weight = 42
   parent = "people"
   
