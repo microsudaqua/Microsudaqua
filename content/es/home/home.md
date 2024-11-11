@@ -23,7 +23,7 @@ weight = 10 # Order that this section will appear.
 
   # Background color.
    color = "Grey10"
-  
+
   # Background gradient.
   #gradient_start = "DarkBlue"
   #gradient_end = "Cyan"
