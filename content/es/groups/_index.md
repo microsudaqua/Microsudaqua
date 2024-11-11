@@ -1,1 +1,0 @@
-showFooter = false  # content footnotes
