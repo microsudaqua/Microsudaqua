@@ -25,7 +25,7 @@ title = "Red de observatorios microbianos acuáticos latinoamericanos"
    color = "Grey10"
 
   # content footnotes
-   showFooter: false
+   showFooter = false
 
   # Background gradient.
   #gradient_start = "DarkBlue"
