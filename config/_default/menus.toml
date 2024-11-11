@@ -29,31 +29,31 @@
 
 [[main]]
   name = "Observatorio"
-  url = "groups/observatory"
+  url = "groups/#observatory"
   weight = 21
   parent = "groups"
   
 [[main]]
   name = "Estequiometría"
-  url = "groups/stoichiometry"
+  url = "groups/#stoichiometry"
   weight = 22
   parent = "groups"
   
 [[main]]
   name = "Rasgos"
-  url = "groups/traits"
+  url = "groups/#traits"
   weight = 23
   parent = "groups"
 
 [[main]]
   name = "Patrones"
-  url = "groups/patterns"
+  url = "groups/#patterns"
   weight = 24
   parent = "groups"
 
 [[main]]
   name = "Inicio de carrera"
-  url = "groups/picosudaqua"
+  url = "groups/#picosudaqua"
   weight = 25
   parent = "groups"
  
