@@ -85,7 +85,7 @@
   
 [[main]]
   name = "Nodos"
-  url = "/people"
+  url = "#people"
   weight = 41
   parent = "people"
   
