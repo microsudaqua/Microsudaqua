@@ -6,7 +6,7 @@ widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 100 # Order that this section will appear.
-page_footer = false 
+
 
 title = "Eventos"
 # subtitle = "Red Colaborativa en ecologia Microbiana de América Latina"
