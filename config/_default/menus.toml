@@ -5,7 +5,6 @@
 
 [[main]]
   name = "Home"
-  url = "aims/"
   weight = 10
   identifier = "home"
 
@@ -23,7 +22,6 @@
 
 [[main]]
   name = "Grupos de Estudio"
-  url = "groups/"
   weight = 20
   identifier = "groups"
 
@@ -104,7 +102,6 @@
     
 [[main]]
   name = "Producción"
-  url = "products/"
   weight = 60
   identifier = "pub"
 
@@ -136,7 +133,6 @@
   name = "Oportunidades"
   url = "https://docs.google.com/spreadsheets/d/1gR2lXpfa63DL88pfsaHFULMNj_-XlEG7NuT1i1NmWbM/edit?usp=sharing"
   weight = 70
-  identifier = "opo"
 
 ##############################################################
 #[[main]]
