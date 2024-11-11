@@ -172,7 +172,7 @@ highlight_superuser = false
 
 # Link authors to their profile page? (true/false)
 link_authors = true
-showFooter = false  # content footnotes
+
 
 # Abstract length (characters) in the Compact and Portfolio Card list views. Also, see `summaryLength` in `config.toml`.
 abstract_length = 300
@@ -227,10 +227,10 @@ plugins_js  = []
   #   0: Disabled
   #   1: Disqus (https://disqus.com)
   #   2: Commento (https://commento.io)
-  engine = 0
+  engine = 1
 
   # Which page types are commentable?
-  commentable = {page = true, post = true, docs = true, project = true, publication = true, talk = true}
+  commentable = {page = false, post = true, docs = true, project = true, publication = false, talk = true}
 
   # Configuration of Disqus.
   [comments.disqus]
