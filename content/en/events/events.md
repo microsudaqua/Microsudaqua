@@ -101,7 +101,7 @@ title = "Events"
 
 *Date*: October 28 to November 1st, 2024
 
-*Local*: Buenos Aires - Argentina
+*Local*: Buenos Aires, Argentina
 
 {{< figure library="true" src="2024.jpg" title=" " lightbox="true" >}}
 

@@ -99,9 +99,16 @@ title = "Eventos"
 {{% staticref "files/libro_2022.pdf" "newtab" %}}Libro de Resúmenes{{% /staticref %}}
 
 
-# Próximo evento
 ## **IV Taller de la Red colaborativa en Ecología Microbiana Acuática en América Latina (µSudAqua)**
 
-El encuentro se llevará a cabo del __28 de octubre al 1 de noviembre de 2024__ en el vibrante barrio de San Telmo, en la ciudad de Buenos Aires - Argentina
 
+*Fecha*: 28 de octubre al 1 de noviembre de 2024
+
+*Local*: Buenos Aires, Argentina
+
+{{< figure library="true" src="2024.jpg" title=" " lightbox="true" >}}
+
+*Descripción*
+
+{{% staticref "files/libro_2024.pdf" "newtab" %}}Libro de Resúmenes{{% /staticref %}}
 
