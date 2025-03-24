@@ -97,7 +97,16 @@ title = "Events"
 {{% staticref "files/libro_2022.pdf" "newtab" %}}Abstracts{{% /staticref %}}
 
 
-# Next Event
 ## **IV Workshop of the collaborative Network on Aquatic Microbial Ecology in Latin America**
 
-The meeting will take place between __October 28 and November 1st__ in the vibrant neighborhood of San Telmo, in the city of Buenos Aires - Argentina 
+*Date*: October 28 to November 1st, 2024
+
+*Local*: Buenos Aires - Argentina
+
+{{< figure library="true" src="2024.jpg" title=" " lightbox="true" >}}
+
+*Description*
+
+{{% staticref "files/libro_2024.pdf" "newtab" %}}Abstracts{{% /staticref %}}
+
+
