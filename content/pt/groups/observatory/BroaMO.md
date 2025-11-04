@@ -54,18 +54,20 @@ subtitle = "Brasil"
 {{< figure library="true" src="BroaMO.jpg" title=" " lightbox="true" >}}
 ##### *Crédito: Israel Cassiano de Oliveira*
 
+
 **Coordenadas:** 22° 11′ S, 47° 53′ W
 
-**Tempo ativo:** Março/2018 - *atualmente*
+**Tempo ativo:** Março/2018 -- *atualmente*
 
-**Coleta mensal**
+**Coleta:** mensal
 
 **Ambiente:** Reservatório, água doce
 
 **Ecoregião:** Cerrado, Mata Atlântica
 
 
-**Impacto principal:** Disturbios antropogênicos locais (Recreação, gado, esgoto)
+**Impacto principal:** Disturbios antropogênicos locais 
+> Recreação, gado, esgoto
 
 
 
