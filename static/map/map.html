@@ -71,9 +71,9 @@
       imagem: "/img/Edificio_Independencia.jpg"
     },
     {
-      nome: "Palácio do Planalto - Brasil",
+      nome: "BroaMO",
       coords: [-22.213775, -47.87960278],
-      url: "broamo/",
+      url: "#/broamo/",
       imagem: "/img/BroaMO.jpg"
     }
   ];
@@ -85,7 +85,7 @@
       <div class="popup-content" style="text-align:center;">
         <img class="popup-img" src="${edificio.imagem}" alt="${edificio.nome}" style="width:200px;border-radius:8px;">
         <div><strong>${edificio.nome}</strong></div>
-        <a href="${edificio.url}" target="_blank">Visitar sitio oficial</a>
+        <a href="${edificio.url}" target="_blank">Detalhes</a>
       </div>
     `;
     marker.bindPopup(popupHTML);
