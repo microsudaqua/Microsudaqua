@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 120 # Order that this section will appear.
 
 
-title = "Observatório Microbiano no Atlântico Sul (SAMO)"
+title = "SAMO -- Observatório Microbiano no Atlântico Sul"
 subtitle = "Uruguai"
 
 [design]
