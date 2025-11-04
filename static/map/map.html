@@ -104,10 +104,6 @@
     map.invalidateSize();
   });
 
-  // 🔧 Ajuste 2 — fallback: recentraliza após o zoom (corrige o deslocamento residual)
-  map.on("zoomend", function() {
-    map.setView([-20, -60], map.getZoom(), { animate: false });
-  });
 </script>
 
 </body>
