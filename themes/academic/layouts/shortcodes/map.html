@@ -125,6 +125,15 @@
     window.addEventListener("resize", () => {
       map.invalidateSize();
     });
+
+  // Adiciona o novo ajuste no carregamento completo da página
+  window.addEventListener("load", function() {
+    setTimeout(() => {
+      map.invalidateSize();
+      map.setView([-20, -60], 4);
+    }, 500);
+  });
+
   </script>
 
 
