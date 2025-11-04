@@ -52,7 +52,7 @@ subtitle = "Uruguai"
 +++
 
 {{< figure library="true" src="imagem.jpg" title=" " lightbox="true" >}}
-> *Crédito: *
+> *Crédito:*
 
 
 **Coordenadas:** 34° 37′ S, 54° 17′ W
