@@ -51,7 +51,7 @@ subtitle = "Uruguai"
 
 +++
 
-{{< figure library="true" src="imagem.jpeg" title=" " lightbox="true" >}}
+{{< figure library="true" src="imagem.jpg" title=" " lightbox="true" >}}
 > *Crédito: *
 
 
