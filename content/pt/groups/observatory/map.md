@@ -49,6 +49,5 @@ weight = 120 # Order that this section will appear.
  # CSS class.
  css_class = ""
 
-{{ partial "map.html" . }}
 +++
 
