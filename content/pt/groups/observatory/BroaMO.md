@@ -51,23 +51,29 @@ subtitle = "Brasil"
 
 +++
 
-{{< figure library="true" src="BroaMO.jpeg" title=" " lightbox="true" >}}
+{{< figure library="true" src="BroaMO.jpg" title=" " lightbox="true" >}}
 *Crédito: Israel Cassiano de Oliveira*
 
-_Coordenadas:_ 22° 11′ S, 47° 53′ W
-Tempo ativo: Março-2018 até *hoje*
-Coleta mensal
+**Coordenadas:** 22° 11′ S, 47° 53′ W
 
-Ambiente: Reservatório, água doce
-Ecoregião: Cerrado, Mata Atlântica
+**Tempo ativo:** Março-2018 até *hoje*
 
-Impacto principal: Disturbios antropogênicos locais (Recreação, gado, esgoto)
+**Coleta mensal**
+
+**Ambiente:** Reservatório, água doce
+
+> **Ecoregião:** Cerrado, Mata Atlântica
+
+
+**Impacto principal:** Disturbios antropogênicos locais (Recreação, gado, esgoto)
+
 
 
 The Broa Microbial Observatory  (BroaMO)  was established at a small, shallow reservoir known as the Broa Reservoir or Lobo Reservoir (47°53’44.2”W, 22°10’58.2”S). This reservoir is dammed to meet local needs for water,  energy  supplies, and recreation.  Due to its regional significance and proximity to some study centers in ecology  and environmental management, the site has been extensively  studied since the 1970s (*e.g.*, Rocha and Matsumura-Tundisi 1976). However,  it had not previously hosted a long-term  microbial observatory.  Sampling began on March 15, 2018, following the initial call for the establishment of observatories  proposed by the μSudAqua network  in late 2017. Since then, samples have been collected  monthly, leading to the accumulation of extensive environmental and microbial data. The observatory  has since become a training ground  for newcomer students and a venue for  testing new methodologies. Additionally, visiting researchers are regularly invited  to participate in sampling cruises and interact with lab members. Over  the years, some challenges have included maintaining sampling routines during the COVID-19  pandemic and managing sample processing, particularly when using equipment  maintained by other  study centers.
 
 
-
-References:
+#####
+*Reference*
 
 Rocha,O., and T. Matsumura-Tundisi. Atlas do zooplâncton (represa  do broa, São Carlos).  São Carlos: Universidade Federal  de São Carlos. 1976;1
+#####
