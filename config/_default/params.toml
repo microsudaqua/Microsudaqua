@@ -282,11 +282,6 @@ plugins_js  = []
   api_key = ""
   zoom = 15
 
-##corrgindo problema com Zoom no mapa dos observatórios
-[params]
-  custom_css = ["css/mapa-fix.css"]
-
-
 ############################
 ## Marketing
 ############################
