@@ -51,4 +51,4 @@ title = "Mapa Interativo"
 
 +++
 
-{{< mapa >}}
+{{< map >}}
