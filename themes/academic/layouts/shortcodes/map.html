@@ -46,11 +46,10 @@
 
 
   // Corrige o bug de redimensionamento no Hugo
-  const center = map.getCenter();
 	setTimeout(() => {
- 	 map.invalidateSize();
-  	 map.setView(center);
-	}, 2000);
+	  map.invalidateSize();
+	  map.setView([-20, -60], 4);
+	}, 800);
 
 
     // Lista das sedes de governo com imagens locais
