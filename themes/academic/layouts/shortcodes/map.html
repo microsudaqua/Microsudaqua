@@ -53,80 +53,63 @@
   }
 </style>
 
-  <script>
-    // Cria o mapa, mas sem centralizar ainda
-    const map = L.map('map', {
-      center: [-20, -60],
-      zoom: 4
-    });
+<script>
+  // Cria o mapa centralizado sobre a América do Sul
+  const map = L.map('map').setView([-20, -60], 4);
 
-    // Adiciona o layer base
-    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-      attribution: '&copy; OpenStreetMap contributors'
-    }).addTo(map);
+  // Adiciona o mapa base
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; OpenStreetMap contributors'
+  }).addTo(map);
 
-    // Lista das sedes de governo com imagens locais
-    const edificios = [
-      {
-        nome: "Torre Ejecutiva - Uruguay",
-        coords: [-34.9057, -56.1990],
-        url: "https://www.presidencia.gub.uy/",
-        imagem: "/img/Edificio_Independencia.jpg"
-      },
-      {
-        nome: "Casa Rosada - Argentina",
-        coords: [-34.6081, -58.3702],
-        url: "https://www.casarosada.gob.ar/",
-        imagem: "/img/Casa_Rosada.jpg"
-      },
-      {
-        nome: "Palacio de La Moneda - Chile",
-        coords: [-33.4429, -70.6531],
-        url: "https://www.gob.cl/",
-        imagem: "/img/Palacio_de_La_Moneda.jpg"
-      },
-      {
-        nome: "Palácio do Planalto - Brasil",
-        coords: [-15.7993, -47.8619],
-        url: "https://www.gov.br/planalto/",
-        imagem: "/img/Palácio_do_Planalto_GGFD8938.jpg"
-      },
-      {
-        nome: "Casa de Nariño - Colômbia",
-        coords: [4.5906, -74.0731],
-        url: "https://m.www.gov.co/",
-        imagem: "/img/Casa_Narino.jpg"
-      }
-    ];
+  // Lista das sedes de governo com imagens locais
+  const edificios = [
+    {
+      nome: "Torre Ejecutiva - Uruguay",
+      coords: [-34.9057, -56.1990],
+      url: "https://www.presidencia.gub.uy/",
+      imagem: "/img/Edificio_Independencia.jpg"
+    },
+    {
+      nome: "Casa Rosada - Argentina",
+      coords: [-34.6081, -58.3702],
+      url: "https://www.casarosada.gob.ar/",
+      imagem: "/img/Casa_Rosada.jpg"
+    },
+    {
+      nome: "Palacio de La Moneda - Chile",
+      coords: [-33.4429, -70.6531],
+      url: "https://www.gob.cl/",
+      imagem: "/img/Palacio_de_La_Moneda.jpg"
+    },
+    {
+      nome: "Palácio do Planalto - Brasil",
+      coords: [-15.7993, -47.8619],
+      url: "https://www.gov.br/planalto/",
+      imagem: "/img/Palácio_do_Planalto_GGFD8938.jpg"
+    },
+    {
+      nome: "Casa de Nariño - Colômbia",
+      coords: [4.5906, -74.0731],
+      url: "https://m.www.gov.co/",
+      imagem: "/img/Casa_Narino.jpg"
+    }
+  ];
 
-    // Adiciona os marcadores
-    edificios.forEach(edificio => {
-      const marker = L.marker(edificio.coords).addTo(map);
-      const popupHTML = `
-        <div class="popup-content" style="text-align:center;">
-          <img class="popup-img" src="${edificio.imagem}" alt="${edificio.nome}" style="width:200px;border-radius:8px;">
-          <div><strong>${edificio.nome}</strong></div>
-          <a href="${edificio.url}" target="_blank">Visitar sitio oficial</a>
-        </div>
-      `;
-      marker.bindPopup(popupHTML);
-    });
+  // Cria os marcadores e popups
+  edificios.forEach(edificio => {
+    const marker = L.marker(edificio.coords).addTo(map);
+    const popupHTML = `
+      <div class="popup-content" style="text-align:center;">
+        <img class="popup-img" src="${edificio.imagem}" alt="${edificio.nome}" style="width:200px;border-radius:8px;">
+        <div><strong>${edificio.nome}</strong></div>
+        <a href="${edificio.url}" target="_blank">Visitar sitio oficial</a>
+      </div>
+    `;
+    marker.bindPopup(popupHTML);
+  });
 
-    // Correção do bug do deslocamento no zoom
-    // Espera o mapa e o DOM estarem 100% prontos antes de centralizar
-    map.whenReady(() => {
-      requestAnimationFrame(() => {
-        map.invalidateSize();
-        map.setView([-20, -60], 4);
-      });
-    });
-
-    // Garante recálculo também se o Hugo re-renderizar ou redimensionar
-    window.addEventListener("resize", () => {
-      map.invalidateSize();
-    });
-
-  // Adiciona o novo ajuste no carregamento completo da página
+  // 🔧 Ajuste 1 — recalcula o tamanho do mapa após o carregamento completo da página
   window.addEventListener("load", function() {
     setTimeout(() => {
       map.invalidateSize();
@@ -134,19 +117,16 @@
     }, 500);
   });
 
-  // observação: pode incomodar se o usuário quiser explorar outra área
-  // se preferir um reposicionamento sem animação, use setView(..., {animate:false})
-  map.on("zoomend", function() {
-    // alternativa 1: reposiciona com animação (padrão)
-    // map.panTo([-20, -60]);
-
-    // alternativa 2: reposiciona sem animação (menos "pulso")
-    map.setView([-20, -60], map.getZoom(), { animate: false });
+  // 🔧 Mantém o ajuste se a janela for redimensionada
+  window.addEventListener("resize", () => {
+    map.invalidateSize();
   });
 
-  </script>
-
-
+  // 🔧 Ajuste 2 — fallback: recentraliza após o zoom (corrige o deslocamento residual)
+  map.on("zoomend", function() {
+    map.setView([-20, -60], map.getZoom(), { animate: false });
+  });
+</script>
 
 </body>
 </html>
