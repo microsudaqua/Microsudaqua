@@ -34,11 +34,16 @@
 </head>
 
 <body>
-  <div id="map"></div>
+  <div id="map" style="width:100%;height:100vh;"></div>
 
   <script>
-    const map = L.map('map').setView([-20, -60], 4);
+    // Cria o mapa, mas sem centralizar ainda
+    const map = L.map('map', {
+      center: [-20, -60],
+      zoom: 4
+    });
 
+    // Adiciona o layer base
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
       attribution: '&copy; OpenStreetMap contributors'
     }).addTo(map);
@@ -77,17 +82,33 @@
       }
     ];
 
+    // Adiciona os marcadores
     edificios.forEach(edificio => {
       const marker = L.marker(edificio.coords).addTo(map);
       const popupHTML = `
-        <div class="popup-content">
-          <img class="popup-img" src="${edificio.imagem}" alt="${edificio.nome}">
+        <div class="popup-content" style="text-align:center;">
+          <img class="popup-img" src="${edificio.imagem}" alt="${edificio.nome}" style="width:200px;border-radius:8px;">
           <div><strong>${edificio.nome}</strong></div>
           <a href="${edificio.url}" target="_blank">Visitar sitio oficial</a>
         </div>
       `;
       marker.bindPopup(popupHTML);
     });
+
+    // Correção do bug do deslocamento no zoom
+    // Espera o mapa e o DOM estarem 100% prontos antes de centralizar
+    map.whenReady(() => {
+      requestAnimationFrame(() => {
+        map.invalidateSize();
+        map.setView([-20, -60], 4);
+      });
+    });
+
+    // Garante recálculo também se o Hugo re-renderizar ou redimensionar
+    window.addEventListener("resize", () => {
+      map.invalidateSize();
+    });
   </script>
 </body>
 </html>
+
