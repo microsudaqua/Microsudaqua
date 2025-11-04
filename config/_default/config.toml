@@ -12,11 +12,6 @@ title = "µSudAqua"
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 baseurl = "/"
 
-#Tentando fazer aparecer conteúdo html
-[markup.goldmark]
-  [markup.goldmark.renderer]
-    unsafe = true
-
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
 copyright = "µSudAqua, 2017-{year}"
