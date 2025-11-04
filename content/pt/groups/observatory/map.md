@@ -8,8 +8,8 @@ active = true  # Activate this widget? true/false
 weight = 120 # Order that this section will appear.
 
 
-title = "Mapa Interativo"
-# subtitle = "Red Colaborativa en ecologia Microbiana de América Latina"
+title = "Rede Latinoamericana de Observatórios Microbianos"
+subtitle = "Mapa Interativo"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -50,5 +50,7 @@ title = "Mapa Interativo"
  css_class = ""
 
 +++
+
+Clique no pino para mais informações sobre cada sítio
 
 <iframe src="/map/map.html" width="100%" height="800" style="border:none;"></iframe>
