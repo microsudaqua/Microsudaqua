@@ -301,7 +301,7 @@ plugins_js  = []
 ############################
 
 #remove footnotes
-[params]
-  show_author = false
-  show_social_links = false
-  share = false
+#[params]
+#  show_author = false
+#  show_social_links = false
+#  share = false
