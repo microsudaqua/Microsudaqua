@@ -36,6 +36,23 @@
 <body>
   <div id="map" style="width:100%;height:100vh;"></div>
 
+<style>
+  #map,
+  .leaflet-container {
+    width: 100% !important;
+    height: 100vh !important;
+    position: relative !important;
+    transform: none !important;
+    will-change: auto !important;
+  }
+
+  /* Impede que o tema ou contêiner pai cause distorção */
+  .page, .content, .article-container, main, section {
+    transform: none !important;
+    overflow: visible !important;
+  }
+</style>
+
   <script>
     // Cria o mapa, mas sem centralizar ainda
     const map = L.map('map', {
@@ -109,6 +126,9 @@
       map.invalidateSize();
     });
   </script>
+
+
+
 </body>
 </html>
 
