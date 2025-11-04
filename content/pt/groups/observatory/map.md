@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 120 # Order that this section will appear.
 
 
-title = "Rede Latinoamericana de Observatórios Microbianos (AMOlat)"
+title = "Rede Latinoamericana de Observatórios Microbianos (AMOLat)"
 subtitle = "Mapa Interativo"
 
 [design]
