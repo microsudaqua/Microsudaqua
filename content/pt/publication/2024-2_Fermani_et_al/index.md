@@ -81,7 +81,7 @@ featured: false
 # links:
 # - name: ""
 # url: ""
-url_pdf: 'files/Fermani_et_al - 2024 - A Latin American network of microbial observatories for monitoring aquatic ecosystems'
+url_pdf: 'files/Fermani_et_al-2024-A Latin American network of microbial observatories for monitoring aquatic ecosystems'
 url_code: ''
 url_dataset: ''
 #url_poster: ''
