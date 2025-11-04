@@ -39,10 +39,9 @@
   <script>
     const map = L.map('map').setView([-20, -60], 4);
 
-    setTimeout(() => {
- 	 map.invalidateSize();
-	}, 400);
-
+    window.addEventListener('load', () => {
+  	map.invalidateSize();
+	});
 
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
       attribution: '&copy; OpenStreetMap contributors'
