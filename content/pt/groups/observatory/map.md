@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 120 # Order that this section will appear.
 
 
-#title = "Database"
+title = "Mapa Interativo"
 # subtitle = "Red Colaborativa en ecologia Microbiana de América Latina"
 
 [design]
@@ -51,3 +51,4 @@ weight = 120 # Order that this section will appear.
 
 +++
 
+{{< mapa >}}
