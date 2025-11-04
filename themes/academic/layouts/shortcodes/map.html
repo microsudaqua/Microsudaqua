@@ -134,6 +134,16 @@
     }, 500);
   });
 
+  // observação: pode incomodar se o usuário quiser explorar outra área
+  // se preferir um reposicionamento sem animação, use setView(..., {animate:false})
+  map.on("zoomend", function() {
+    // alternativa 1: reposiciona com animação (padrão)
+    // map.panTo([-20, -60]);
+
+    // alternativa 2: reposiciona sem animação (menos "pulso")
+    map.setView([-20, -60], map.getZoom(), { animate: false });
+  });
+
   </script>
 
 
