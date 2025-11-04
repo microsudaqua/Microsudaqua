@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 120 # Order that this section will appear.
 
 
-title = "BroaMO -- Observatório Microbiano na Represa do Broa"
+title = "BroaMO - Observatório Microbiano na Represa do Broa"
 subtitle = "Brasil"
 
 [design]
