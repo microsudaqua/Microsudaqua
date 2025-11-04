@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <title>Sedes de Gobierno - América del Sur</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Leaflet -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+
+  <style>
+    body { margin: 0; padding: 0; }
+    #map { height: 100vh; width: 100%; }
+
+    .popup-img {
+      width: 220px;
+      border-radius: 8px;
+      margin-bottom: 5px;
+      box-shadow: 0 0 6px rgba(0,0,0,0.3);
+    }
+
+    .popup-content {
+      text-align: center;
+      font-family: sans-serif;
+    }
+
+    .popup-content a {
+      text-decoration: none;
+      color: #005fa3;
+      font-weight: bold;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="map" style="width:100%;height:100vh;"></div>
+
+<style>
+  #map,
+  .leaflet-container {
+    width: 100% !important;
+    height: 100vh !important;
+    position: relative !important;
+    transform: none !important;
+    will-change: auto !important;
+  }
+
+  /* Impede que o tema ou contêiner pai cause distorção */
+  .page, .content, .article-container, main, section {
+    transform: none !important;
+    overflow: visible !important;
+  }
+</style>
+
+<script>
+  // Cria o mapa centralizado sobre a América do Sul
+  const map = L.map('map').setView([-20, -60], 4);
+
+  // Adiciona o mapa base
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; OpenStreetMap contributors'
+  }).addTo(map);
+
+  // Lista das sedes de governo com imagens locais
+  const edificios = [
+    {
+      nome: "Torre Ejecutiva - Uruguay",
+      coords: [-34.9057, -56.1990],
+      url: "https://www.presidencia.gub.uy/",
+      imagem: "/img/Edificio_Independencia.jpg"
+    },
+    {
+      nome: "Casa Rosada - Argentina",
+      coords: [-34.6081, -58.3702],
+      url: "https://www.casarosada.gob.ar/",
+      imagem: "/img/Casa_Rosada.jpg"
+    },
+    {
+      nome: "Palacio de La Moneda - Chile",
+      coords: [-33.4429, -70.6531],
+      url: "https://www.gob.cl/",
+      imagem: "/img/Palacio_de_La_Moneda.jpg"
+    },
+    {
+      nome: "Palácio do Planalto - Brasil",
+      coords: [-15.7993, -47.8619],
+      url: "https://www.gov.br/planalto/",
+      imagem: "/img/Palácio_do_Planalto_GGFD8938.jpg"
+    },
+    {
+      nome: "Casa de Nariño - Colômbia",
+      coords: [4.5906, -74.0731],
+      url: "https://m.www.gov.co/",
+      imagem: "/img/Casa_Narino.jpg"
+    }
+  ];
+
+  // Cria os marcadores e popups
+  edificios.forEach(edificio => {
+    const marker = L.marker(edificio.coords).addTo(map);
+    const popupHTML = `
+      <div class="popup-content" style="text-align:center;">
+        <img class="popup-img" src="${edificio.imagem}" alt="${edificio.nome}" style="width:200px;border-radius:8px;">
+        <div><strong>${edificio.nome}</strong></div>
+        <a href="${edificio.url}" target="_blank">Visitar sitio oficial</a>
+      </div>
+    `;
+    marker.bindPopup(popupHTML);
+  });
+
+  // 🔧 Ajuste 1 — recalcula o tamanho do mapa após o carregamento completo da página
+  window.addEventListener("load", function() {
+    setTimeout(() => {
+      map.invalidateSize();
+      map.setView([-20, -60], 4);
+    }, 500);
+  });
+
+  // 🔧 Mantém o ajuste se a janela for redimensionada
+  window.addEventListener("resize", () => {
+    map.invalidateSize();
+  });
+
+  // 🔧 Ajuste 2 — fallback: recentraliza após o zoom (corrige o deslocamento residual)
+  map.on("zoomend", function() {
+    map.setView([-20, -60], map.getZoom(), { animate: false });
+  });
+</script>
+
+</body>
+</html>
+

@@ -51,4 +51,5 @@ title = "Mapa Interativo"
 
 +++
 
-{{< map >}}
+#{{< map >}}
+<iframe src="/mapa.html" width="100%" height="800" style="border:none;"></iframe>
