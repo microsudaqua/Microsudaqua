@@ -9,7 +9,7 @@ weight = 120 # Order that this section will appear.
 
 
 title = "SAMO - Observatório Microbiano no Atlântico Sul"
-subtitle = "Uruguai"
+subtitle = "Argentina"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
