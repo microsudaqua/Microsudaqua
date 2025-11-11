@@ -36,148 +36,136 @@
 <body>
   <div id="map" style="width:100%;height:100vh;"></div>
 
-<style>
-  #map,
-  .leaflet-container {
-    width: 100% !important;
-    height: 100vh !important;
-    position: relative !important;
-    transform: none !important;
-    will-change: auto !important;
-  }
-
-  /* Impede que o tema ou contêiner pai cause distorção */
-  .page, .content, .article-container, main, section {
-    transform: none !important;
-    overflow: visible !important;
-  }
-</style>
-
-<script>
-  // Cria o mapa centralizado sobre a América do Sul
-  const map = L.map('map').setView([-20, -60], 4);
-
-  // Adiciona o mapa base
-  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    attribution: '&copy; OpenStreetMap contributors'
-  }).addTo(map);
-
-  // Lista das sedes de governo com imagens locais
-  const edificios = [
-    {
-      nome: "South Atlântic Microbial Observatory - SAMO",
-      coords: [-34.87583333, -54.50638889],
-      url: "https://microsudaqua.netlify.app/pt/groups/observatory/samo/",
-      imagem: "/img/imagem.jpg"
-    },
-    {
-      nome: "Broa Microbial Observatory - BroaMO",
-      coords: [-22.213775, -47.87960278],
-      url: "https://microsudaqua.netlify.app/pt/groups/observatory/broamo/",
-      imagem: "/img/BroaMO.jpg"
-    },
-    {
-      nome: "Las Grutas Microbial Observatory - LG",
-      coords: [-40.872, -65.07783333],
-      url: "https://microsudaqua.netlify.app/pt/groups/observatory/bsa_lg_rn/",
-      imagem: "/img/imagem.jpg"
-    },
-    {
-      nome: "Bahía San Antonio Microbial Observatory - BSA",
-      coords: [-40.72966667, -64.9125],
-      url: "https://microsudaqua.netlify.app/pt/groups/observatory/bsa_lg_rn/",
-      imagem: "/img/imagem.jpg"
-    },
-    {
-      nome: "Mouth of Río Negro Microbial Observatory - RN",
-      coords: [-41.10013889, -62.78513611],
-      url: "https://microsudaqua.netlify.app/pt/groups/observatory/bsa_lg_rn/",
-      imagem: "/img/imagem.jpg"
-    },
-    {
-      nome: "Río Luján Microbial Observatory - LJ",
-      coords: [-34.56769444, -59.12435556],
-      url: "https://microsudaqua.netlify.app/pt/groups/observatory/lj/",
-      imagem: "/img/imagem.jpg"
-    },
-    {
-      nome: "Golfo Nuevo Microbial Observatory - GN",
-      coords: [-42.79433333, -64.93872222],
-      url: "https://microsudaqua.netlify.app/pt/groups/observatory/gn/",
-      imagem: "/img/imagem.jpg"
-    },
-    {
-      nome: "Golfo Nuevo Microbial Observatory - GN",
-      coords: [-42.79433333, -64.93872222],
-      url: "https://microsudaqua.netlify.app/pt/groups/observatory/gn/",
-      imagem: "/img/imagem.jpg"
-    },
-    {
-      nome: "Golfo de Nicoya Microbial Observatory - CR",
-      coords: [10.063478, -84.971044],
-      url: "https://microsudaqua.netlify.app/pt/groups/observatory/cr/",
-      imagem: "/img/imagem.jpg"
-    },
-    {
-      nome: "Chascomús Microbial Observatory - CH",
-      coords: [-35.59035, -58.02825833],
-      url: "https://microsudaqua.netlify.app/pt/groups/observatory/ch/",
-      imagem: "/img/imagem.jpg"
-    },
-    {
-      nome: "Él Trebol Microbial Observatory - TR",
-      coords: [-41.07045, -71.49383611],
-      url: "https://microsudaqua.netlify.app/pt/groups/observatory/tr/",
-      imagem: "/img/imagem.jpg"
-    },
-    {
-      nome: "San Francisco stream Microbial Observatory - SF",
-      coords: [-34.81552778, -58.35813333],
-      url: "https://microsudaqua.netlify.app/pt/groups/observatory/sf/",
-      imagem: "/img/imagem.jpg"
-    },
-    {
-      nome: "Negro stream Microbial Observatory - NE",
-      coords: [-41.21055833, -71.81734167],
-      url: "https://microsudaqua.netlify.app/pt/groups/observatory/ne/",
-      imagem: "/img/imagem.jpg"
-    },
-    {
-      nome: "Blanco stream Microbial Observatory - BL",
-      coords: [-41.20927222, -71.81693611],
-      url: "https://microsudaqua.netlify.app/pt/groups/observatory/bl/",
-      imagem: "/img/imagem.jpg"
+  <style>
+    #map,
+    .leaflet-container {
+      width: 100% !important;
+      height: 100vh !important;
+      position: relative !important;
+      transform: none !important;
+      will-change: auto !important;
     }
-  ];
 
-  // Cria os marcadores e popups
-  edificios.forEach(edificio => {
-    const marker = L.marker(edificio.coords).addTo(map);
-    const popupHTML = `
-      <div class="popup-content" style="text-align:center;">
-        <img class="popup-img" src="${edificio.imagem}" alt="${edificio.nome}" style="width:200px;border-radius:8px;">
-        <div><strong>${edificio.nome}</strong></div>
-        <a href="${edificio.url}" target="_blank">Detalhes</a>
-      </div>
-    `;
-    marker.bindPopup(popupHTML);
-  });
+    .page, .content, .article-container, main, section {
+      transform: none !important;
+      overflow: visible !important;
+    }
+  </style>
 
-  // 🔧 Ajuste 1 — recalcula o tamanho do mapa após o carregamento completo da página
-  window.addEventListener("load", function() {
-    setTimeout(() => {
-      map.invalidateSize();
-      map.setView([-20, -60], 4);
-    }, 500);
-  });
+  <script>
+    // 🔧 Cria o mapa (sem definir ainda o centro nem zoom fixo)
+    const map = L.map('map');
 
-  // 🔧 Mantém o ajuste se a janela for redimensionada
-  window.addEventListener("resize", () => {
-    map.invalidateSize();
-  });
+    // Adiciona o mapa base
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(map);
 
-</script>
+    // Lista dos observatórios microbianos
+    const edificios = [
+      {
+        nome: "South Atlântic Microbial Observatory - SAMO",
+        coords: [-34.87583333, -54.50638889],
+        url: "https://microsudaqua.netlify.app/pt/groups/observatory/samo/",
+        imagem: "/img/imagem.jpg"
+      },
+      {
+        nome: "Broa Microbial Observatory - BroaMO",
+        coords: [-22.213775, -47.87960278],
+        url: "https://microsudaqua.netlify.app/pt/groups/observatory/broamo/",
+        imagem: "/img/BroaMO.jpg"
+      },
+      {
+        nome: "Las Grutas Microbial Observatory - LG",
+        coords: [-40.872, -65.07783333],
+        url: "https://microsudaqua.netlify.app/pt/groups/observatory/bsa_lg_rn/",
+        imagem: "/img/imagem.jpg"
+      },
+      {
+        nome: "Bahía San Antonio Microbial Observatory - BSA",
+        coords: [-40.72966667, -64.9125],
+        url: "https://microsudaqua.netlify.app/pt/groups/observatory/bsa_lg_rn/",
+        imagem: "/img/imagem.jpg"
+      },
+      {
+        nome: "Mouth of Río Negro Microbial Observatory - RN",
+        coords: [-41.10013889, -62.78513611],
+        url: "https://microsudaqua.netlify.app/pt/groups/observatory/bsa_lg_rn/",
+        imagem: "/img/imagem.jpg"
+      },
+      {
+        nome: "Río Luján Microbial Observatory - LJ",
+        coords: [-34.56769444, -59.12435556],
+        url: "https://microsudaqua.netlify.app/pt/groups/observatory/lj/",
+        imagem: "/img/imagem.jpg"
+      },
+      {
+        nome: "Golfo Nuevo Microbial Observatory - GN",
+        coords: [-42.79433333, -64.93872222],
+        url: "https://microsudaqua.netlify.app/pt/groups/observatory/gn/",
+        imagem: "/img/imagem.jpg"
+      },
+      {
+        nome: "Golfo de Nicoya Microbial Observatory - CR",
+        coords: [10.063478, -84.971044],
+        url: "https://microsudaqua.netlify.app/pt/groups/observatory/cr/",
+        imagem: "/img/imagem.jpg"
+      },
+      {
+        nome: "Chascomús Microbial Observatory - CH",
+        coords: [-35.59035, -58.02825833],
+        url: "https://microsudaqua.netlify.app/pt/groups/observatory/ch/",
+        imagem: "/img/imagem.jpg"
+      },
+      {
+        nome: "Él Trebol Microbial Observatory - TR",
+        coords: [-41.07045, -71.49383611],
+        url: "https://microsudaqua.netlify.app/pt/groups/observatory/tr/",
+        imagem: "/img/imagem.jpg"
+      },
+      {
+        nome: "San Francisco stream Microbial Observatory - SF",
+        coords: [-34.81552778, -58.35813333],
+        url: "https://microsudaqua.netlify.app/pt/groups/observatory/sf/",
+        imagem: "/img/imagem.jpg"
+      },
+      {
+        nome: "Negro stream Microbial Observatory - NE",
+        coords: [-41.21055833, -71.81734167],
+        url: "https://microsudaqua.netlify.app/pt/groups/observatory/ne/",
+        imagem: "/img/imagem.jpg"
+      },
+      {
+        nome: "Blanco stream Microbial Observatory - BL",
+        coords: [-41.20927222, -71.81693611],
+        url: "https://microsudaqua.netlify.app/pt/groups/observatory/bl/",
+        imagem: "/img/imagem.jpg"
+      }
+    ];
+
+    // Cria os marcadores e popups
+    edificios.forEach(edificio => {
+      const marker = L.marker(edificio.coords).addTo(map);
+      const popupHTML = `
+        <div class="popup-content" style="text-align:center;">
+          <img class="popup-img" src="${edificio.imagem}" alt="${edificio.nome}" style="width:200px;border-radius:8px;">
+          <div><strong>${edificio.nome}</strong></div>
+          <a href="${edificio.url}" target="_blank">Detalhes</a>
+        </div>
+      `;
+      marker.bindPopup(popupHTML);
+    });
+
+    // 🔧 Enquadramento automático com base em todos os pontos
+    const bounds = L.latLngBounds(edificios.map(e => e.coords));
+    map.fitBounds(bounds, { padding: [40, 40] });
+
+    // 🔧 Ajusta o tamanho do mapa se a página carregar ou redimensionar
+    window.addEventListener("load", function() {
+      setTimeout(() => map.invalidateSize(), 500);
+    });
+    window.addEventListener("resize", () => map.invalidateSize());
+  </script>
 
 </body>
 </html>
-
