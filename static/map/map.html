@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
   <meta charset="utf-8">
-  <title>Observatórios Microbianos - América Latina</title>
+  <title>Sedes de Gobierno - América del Sur</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <!-- Leaflet -->
@@ -62,7 +62,7 @@
     }).addTo(map);
 
     // Lista dos observatórios microbianos
-    const observatories = [
+    const edificios = [
       {
         nome: "South Atlântic Microbial Observatory - SAMO",
         coords: [-34.87583333, -54.50638889],
@@ -132,32 +132,32 @@
       {
         nome: "Negro stream Microbial Observatory - NE",
         coords: [-41.21055833, -71.81734167],
-        url: "https://microsudaqua.netlify.app/pt/report/observatory/bl_ne/",
+        url: "https://microsudaqua.netlify.app/pt/report/observatory/ne/",
         imagem: "/img/imagem.jpg"
       },
       {
         nome: "Blanco stream Microbial Observatory - BL",
         coords: [-41.20927222, -71.81693611],
-        url: "https://microsudaqua.netlify.app/pt/report/observatory/bl_ne/",
+        url: "https://microsudaqua.netlify.app/pt/report/observatory/bl/",
         imagem: "/img/imagem.jpg"
       }
     ];
 
     // Cria os marcadores e popups
-    observatories.forEach(site => {
-      const marker = L.marker(observatories.coords).addTo(map);
+    edificios.forEach(edificio => {
+      const marker = L.marker(edificio.coords).addTo(map);
       const popupHTML = `
         <div class="popup-content" style="text-align:center;">
-          <img class="popup-img" src="${observatories.imagem}" alt="${observatories.nome}" style="width:200px;border-radius:8px;">
-          <div><strong>${observatories.nome}</strong></div>
-          <a href="${observatories.url}" target="_blank">Detalhes</a>
+          <img class="popup-img" src="${edificio.imagem}" alt="${edificio.nome}" style="width:200px;border-radius:8px;">
+          <div><strong>${edificio.nome}</strong></div>
+          <a href="${edificio.url}" target="_blank">Detalhes</a>
         </div>
       `;
       marker.bindPopup(popupHTML);
     });
 
     // 🔧 Enquadramento automático com base em todos os pontos
-    const bounds = L.latLngBounds(observatories.map(e => e.coords));
+    const bounds = L.latLngBounds(edificios.map(e => e.coords));
     map.fitBounds(bounds, { padding: [40, 40] });
 
     // 🔧 Ajusta o tamanho do mapa se a página carregar ou redimensionar
